@@ -7,6 +7,7 @@ struct Language {
 mut:
 	key             string
 	name            string
+	native_name     string
 	alternate_names []string
 	family          string
 	subfamily       string
@@ -70,6 +71,9 @@ fn parse_yaml(content string) !NumbersData {
 						'name' {
 							current_lang.name = value
 						}
+						'native_name' {
+							current_lang.native_name = value
+						}
 						'family' {
 							current_lang.family = value
 						}
@@ -99,15 +103,22 @@ fn read_yaml_file(path string) !NumbersData {
 }
 
 fn list_languages(data NumbersData) {
-	mut keys := data.languages.keys()
-	keys.sort()
+	// Collect and sort by English name instead of key
+	mut lang_list := []Language{}
+	for _, lang in data.languages {
+		lang_list << lang
+	}
 
-	for key in keys {
-		lang := data.languages[key]
+	// Sort by name
+	lang_list.sort(a.name < b.name)
+
+	for lang in lang_list {
 		if lang.name != '' {
-			println('${key}: ${lang.name}')
-		} else {
-			println('${key}')
+			if lang.native_name != '' {
+				println('${lang.name} (${lang.native_name})')
+			} else {
+				println('${lang.name}')
+			}
 		}
 	}
 }

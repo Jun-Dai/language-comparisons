@@ -16,6 +16,7 @@ metadata:
 languages:
   hindi:
     name: "Hindi"
+    native_name: "हिन्दी"
     family: "Indo-European"
     subfamily: "Indo-Iranian"
     notes: |
@@ -886,6 +887,7 @@ languages:
 
   russian:
     name: "Russian"
+    native_name: "Русский"
     family: "Indo-European"
     subfamily: "Slavic"
     notes: ""
@@ -1545,6 +1547,7 @@ languages:
 
   arabic:
     name: "Arabic"
+    native_name: "العربية"
     family: "Semitic"
     subfamily: ""
     notes: |
@@ -2237,6 +2240,7 @@ languages:
 
   japanese:
     name: "Japanese"
+    native_name: "日本語"
     family: "Japonic"
     subfamily: ""
     notes: ""
@@ -2474,6 +2478,7 @@ languages:
 
   georgian:
     name: "Georgian"
+    native_name: "ქართული"
     alternate_names: ["Kartuli"]
     family: "Kartvelian"
     subfamily: ""
