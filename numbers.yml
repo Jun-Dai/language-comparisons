@@ -2471,3 +2471,64 @@ languages:
           "10":
             primary: "hamar"
     references: []
+
+  georgian:
+    name: "Georgian"
+    alternate_names: ["Kartuli"]
+    family: "Kartvelian"
+    subfamily: ""
+    notes: |
+      Georgian is the most widely spoken of the Kartvelian (South Caucasian) languages, a language family
+      indigenous to the Caucasus region. It is unrelated to Indo-European, Turkic, or Semitic languages.
+      Georgian has its own unique alphabet called Mkhedruli, which has been in use since the 11th century.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nuli"
+            scripts:
+              georgian: "ნული"
+          "1":
+            primary: "erti"
+            scripts:
+              georgian: "ერთი"
+          "2":
+            primary: "ori"
+            scripts:
+              georgian: "ორი"
+          "3":
+            primary: "sami"
+            scripts:
+              georgian: "სამი"
+          "4":
+            primary: "otkhi"
+            scripts:
+              georgian: "ოთხი"
+          "5":
+            primary: "khuti"
+            scripts:
+              georgian: "ხუთი"
+          "6":
+            primary: "ekvsi"
+            scripts:
+              georgian: "ექვსი"
+          "7":
+            primary: "shvidi"
+            scripts:
+              georgian: "შვიდი"
+          "8":
+            primary: "rva"
+            scripts:
+              georgian: "რვა"
+          "9":
+            primary: "tskhra"
+            scripts:
+              georgian: "ცხრა"
+          "10":
+            primary: "ati"
+            scripts:
+              georgian: "ათი"
+    references:
+      - "https://www.omniglot.com/language/numbers/georgian.htm"
+      - "https://www.languagesandnumbers.com/how-to-count-in-georgian/en/kat/"
+      - "https://en.wikibooks.org/wiki/Georgian/Numbers"
