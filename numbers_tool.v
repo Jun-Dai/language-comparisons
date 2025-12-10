@@ -2,15 +2,15 @@
 module main
 
 import os
+import prantlf.yaml { parse_file }
 
 struct Language {
 mut:
-	key             string
-	name            string
-	native_name     string
-	alternate_names []string
-	family          string
-	subfamily       string
+	key         string
+	name        string
+	native_name string
+	family      string
+	subfamily   string
 }
 
 struct NumbersData {
@@ -18,92 +18,52 @@ mut:
 	languages map[string]Language
 }
 
-fn parse_yaml(content string) !NumbersData {
-	mut data := NumbersData{
+fn parse_yaml(path string) !NumbersData {
+	// Parse the YAML file
+	data := parse_file(path)!
+	root := data.object()!
+
+	// Get the languages section
+	languages_any := root['languages']!
+	languages_map := languages_any.object()!
+
+	mut result := NumbersData{
 		languages: map[string]Language{}
 	}
-	lines := content.split('\n')
-	mut in_languages := false
-	mut current_lang_key := ''
-	mut current_lang := Language{}
 
-	for line in lines {
-		// Skip empty lines
-		if line.trim_space() == '' {
-			continue
+	// Iterate through each language
+	for key, lang_any in languages_map {
+		lang_obj := lang_any.object()!
+
+		mut lang := Language{
+			key: key
 		}
 
-		// Check if we're in the languages section
-		if line == 'languages:' {
-			in_languages = true
-			continue
+		// Extract language properties
+		if name := lang_obj['name'] {
+			lang.name = name.string()!
 		}
 
-		if !in_languages {
-			continue
+		if native_name := lang_obj['native_name'] {
+			lang.native_name = native_name.string()!
 		}
 
-		// Detect language key (2 spaces indent, ends with colon)
-		if line.starts_with('  ') && !line.starts_with('    ') && line.ends_with(':') {
-			// Save previous language if exists
-			if current_lang_key != '' {
-				data.languages[current_lang_key] = current_lang
-			}
-
-			// Start new language
-			current_lang_key = line.trim_space().trim_string_right(':')
-			current_lang = Language{
-				key: current_lang_key
-			}
-			continue
+		if family := lang_obj['family'] {
+			lang.family = family.string()!
 		}
 
-		// Parse language properties (4 spaces indent)
-		if line.starts_with('    ') && !line.starts_with('      ') {
-			trimmed := line.trim_space()
-			if trimmed.contains(':') {
-				parts := trimmed.split(':')
-				if parts.len >= 2 {
-					key := parts[0].trim_space()
-					value := parts[1..].join(':').trim_space().trim('"')
-
-					match key {
-						'name' {
-							current_lang.name = value
-						}
-						'native_name' {
-							current_lang.native_name = value
-						}
-						'family' {
-							current_lang.family = value
-						}
-						'subfamily' {
-							current_lang.subfamily = value
-						}
-						else {}
-					}
-				}
-			}
+		if subfamily := lang_obj['subfamily'] {
+			lang.subfamily = subfamily.string()!
 		}
+
+		result.languages[key] = lang
 	}
 
-	// Save last language
-	if current_lang_key != '' {
-		data.languages[current_lang_key] = current_lang
-	}
-
-	return data
-}
-
-fn read_yaml_file(path string) !NumbersData {
-	content := os.read_file(path) or {
-		return error('Failed to read file: ${err}')
-	}
-	return parse_yaml(content)
+	return result
 }
 
 fn list_languages(data NumbersData) {
-	// Collect and sort by English name instead of key
+	// Collect and sort by English name
 	mut lang_list := []Language{}
 	for _, lang in data.languages {
 		lang_list << lang
@@ -136,8 +96,8 @@ fn main() {
 	command := args[0]
 	yaml_path := 'numbers.yml'
 
-	data := read_yaml_file(yaml_path) or {
-		eprintln('Error reading YAML: ${err}')
+	data := parse_yaml(yaml_path) or {
+		eprintln('Error parsing YAML: ${err}')
 		exit(1)
 	}
 

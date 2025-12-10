@@ -119,6 +119,23 @@ git clone https://github.com/Jun-Dai/language-comparisons.git
 cd language-comparisons
 ```
 
+### Install Dependencies
+
+The tool uses the `prantlf.yaml` library for YAML parsing. Install the required modules:
+
+```bash
+# Install YAML parser
+v install --git https://github.com/prantlf/v-yaml
+
+# Install jany (required dependency for yaml)
+v install --git https://github.com/prantlf/v-jany
+
+# Set up proper module structure
+mkdir -p ~/.vmodules/prantlf
+ln -sf ~/.vmodules/prantlf.yaml ~/.vmodules/prantlf/yaml
+ln -sf ~/.vmodules/prantlf.jany ~/.vmodules/prantlf/jany
+```
+
 ### Run Commands
 
 #### List All Languages
