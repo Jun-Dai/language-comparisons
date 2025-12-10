@@ -1,0 +1,969 @@
+= Hypothesis =
+Hypothesis: it is fairly easy to tell how closely or distantly related, or unrelated, two languages are by comparing how they say the numbers from one to nine.
+Also: the family tree for the term ''zero'' will look quite different from the family trees of languages overall.
+
+Note: I only realised that a page similar to this already exists on Wikipedia ([[List of numbers in various languages]]) after I'd made it through a few dozen languages.
+
+== Of particular interest to me in writing this ==
+* [[#Brahui]]
+* [[#Maltese]]
+* [[#Urdu]]
+* [[#Romanian]]
+* [[#Hungarian]]
+
+== Additional notes ==
+A lot of people are surprised to find that Northern Indian languages and Southern Indian languages come from entirely different language families, and that Hindi, Persian, and English are related, whereas Tamil, Arabic, and Turkish are unrelated to them as well as to each other. Similarly, that Japanese, Korean, and Chinese are (as far as anyone knows) unrelated languages. I've noticed that you can see that Hindi and Persian are quite related in their numbers 1-10 (and English seems distantly related), but Tamil is totally different.
+
+Related to this: The only languages I know of that have adopted the numbers one through nine from another language are Japanese and Korean (I'm sure there are others), and in both cases the Chinese-based numbers never completely supplanted the native numbers, which still exist in the language. I'd be curious if there are languages where the number one through nine were completely supplanted, but the language itself continued to exist. Certainly in writing numbers, the so-called Arabic numerals have supplanted lots of other ways to write numbers, but without affecting the words themselves.
+
+= Catalogue =
+Here is a catalogue of numbers 1 through 10, and zero, for various languages, by tree, to test out and illustrate the hypothesis. For those that don't use the latin alphabet, I've romanised them for easier comparison, but I kept the other writing system(s) in parentheses. If I ever feel bored enough, I'll add IPA and links to pronunciations, but that's a bit more than I'm willing to bite off right now.
+
+I've cross-linked languages that others might expect to be related, to more easily see how different they are.
+
+== [[Indo-European languages|Indo-European]] ==
+=== [[Indo-Iranian languages|Indo-Iranian]] ===
+==== [[Hindi]] ====
+''Hindi and Urdu are considered by linguists to be registers of the same [[Hindustani language]]''
+
+''Note that what we call "Arabic numerals" in English are actually closer to the Hindi numerals here than they are to the ones used in "Arabic". All three systems are related''
+
+ 1.  ek    (एक) (१)
+ 2.  do    (दो) (२)
+ 3.  tin   (तीन) (३)
+ 4.  char  (चार) (४)
+ 5.  panch (पांच) (५)
+ 6.  chah  (छह) (६)
+ 7.  sat   (सात) (७)
+ 8.  ath   (आठ) (८)
+ 9.  nau   (नौ) (९)
+ 10. das   (दस) (१०)
+ 0.  sunya (शून्य) (०)
+
+==== [[Urdu]] ====
+''Urdu and Hindi are considered by linguists to be registers of the same [[Hindustani language]], even though Hindi is written using Devanagari and Urdu is written using an Arabic script. Also, despite all the words borrowed from [[#Arabic]] through [[#Farsi|Persian]], the Hindustani language comes from Vedic Sanskrit''
+ 1.  ek    (ایک) (۱)
+ 2.  do    (دو) (۲)
+ 3.  tin   (تین) (۳)
+ 4.  char  (چار) (۴)
+ 5.  panch (پانچ) (۵)
+ 6.  chhah (چھ) (۶)
+ 7.  sat   (سات) (۷)
+ 8.  ath   (آٹھ) (۸)
+ 9.  nau   (نو) (۹)
+ 10. das   (دس) (۱۰)
+ 0.  sifar (صفر) (۰)
+
+==== [[Farsi]] ====
+''AKA, Persian. Despite using a variant of the Arabic script, Persian and [[#Arabic]] are considered unrelated languages — they have borrowed lots of words from each other, but they come from very different origins, which you can see here with these numbers, which were one of the inspirations for this page, along with [[#Maltese]]. You can see that Farsi numbers are very closely related to numbers in Hindi/Urdu. But the written numerals are basically the same as in Urdu and [[#Arabic]] and very different from Hindi''
+ 1.  yek    (یک) (۱) 
+ 2.  do     (دو) (۲)
+ 3.  se     (سه) (۳) 
+ 4.  chahâr (چهار) (۴) 
+ 5.  panj   (پنج) (۵) 
+ 6.  shesh  (شش) (۶) 
+ 7.  haft   (هفت) (۷) 
+ 8.  hasht  (هشت) (۸) 
+ 9.  noh    (نه) (۹) 
+ 10. dah    (ده) (۱۰)
+ 0.  sefr   (صفر) (۰)
+
+==== [[Pashto]] ====
+''An Eastern-Iranian language. Clearly related to [[#Farsi]] and [[#Hindi]]/[[#Urdu]], but interestingly it is farther from either than they are to each other, despite the geographical location.''
+
+ 1.  yaw    (يو) (١)
+ 2.  dwa    (دؤه) (٢)
+ 3.  dray   (درے) (٣)
+ 4.  celour (څلور) (٤)
+ 5.  penza  (پنځه) (٥)
+ 6.  shpeg  (شپږ) (٦)
+ 7.  owa    (أوؤه) (٧)
+ 8.  ata    (أته) (٨)
+ 9.  naha   (نهه) (٩)
+ 10. las    (لس) (١٠)
+ 0.  sifer  (صفر) (٠)
+
+References:
+
+* https://blogs.transparent.com/pashto/pashto-numbers-1-20-with-video/
+* https://omniglot.com/language/numbers/pashto.htm
+* http://mylanguages.org/pashto_numbers.php
+* https://polyglotclub.com/wiki/Language/Central-pashto/Vocabulary/Numbers
+
+=== [[Germanic languages|Germanic]] ===
+==== [[English language|English]] ====
+'''Numbers in English'''
+
+ 1.  one
+ 2.  two
+ 3.  three
+ 4.  four
+ 5.  five
+ 6.  six
+ 7.  seven
+ 8.  eight
+ 9.  nine
+ 10: ten
+ 0.  zero
+
+==== [[German language|German]] ====
+ 1.  eins
+ 2.  zwei
+ 3.  drei
+ 4.  vier
+ 5.  fünf
+ 6.  sechs
+ 7.  sieben
+ 8.  acht
+ 9.  neun
+ 10. zehn
+ 0.  null
+
+=== [[Italic languages|Italic]] ===
+''Essentially: the variants of Latin, the [[Romance languages]], and a bunch of extinct languages, like Umbrian and Oscan''
+
+==== [[Latin language|Latin]] ====
+
+ 1.  unus     I
+ 2.  duo      II
+ 3.  tres     III
+ 4.  quattuor IV
+ 5.  quinque  V
+ 6.  sex      VI
+ 7.  septem   VII
+ 8.  octo     VIII
+ 9.  novem    IX
+ 10. decem    X
+
+
+References:
+
+* [[Latin numerals]] ''see also [[Roman numerals]]''
+* https://www.languagesandnumbers.com/how-to-count-in-latin/en/lat/
+* https://blogs.transparent.com/latin/latin-numbers-1-100/
+* https://polyglotclub.com/wiki/Language/Latin/Vocabulary/Count-from-1-to-10
+* https://linguaholic.com/topic/3251-latin-numerals-cardinal-numbers-1-1000/
+* https://omniglot.com/language/numbers/latin.htm
+
+==== [[French language|French]] ====
+'''Les nombres en français'''
+
+ 1.  un
+ 2.  duex
+ 3.  trois
+ 4.  quatre
+ 5.  cinq
+ 6.  six
+ 7.  sept
+ 8.  huit
+ 9.  neuf
+ 10. dix
+ 0.  zéro
+
+==== [[Catalan language|Catalan]] ====
+ 1.  un
+ 2.  dos
+ 3.  tres
+ 4.  quatre
+ 5.  cinc
+ 6.  sis
+ 7.  set
+ 8.  vuit
+ 9.  nou
+ 10. deu
+ 0.  zero
+
+==== [[Spanish language|Spanish]] ====
+'''Los números en español'''
+
+ 1.  uno
+ 2.  dos
+ 3.  tres
+ 4.  cuatro
+ 5.  cinco
+ 6.  seis
+ 7.  siete
+ 8.  ocho
+ 9.  nueve
+ 10. diez
+ 0.  cero
+
+==== [[Aragonese language|Aragonese]] ====
+'''Aragonés'''
+
+ 1.  un
+ 2.  dos
+ 3.  tres
+ 4.  quatre
+ 5.  cinc
+ 6.  seis
+ 7.  siet
+ 8.  ueit
+ 9.  nueu
+ 10. diez
+ 0.  zero
+
+==== [[Galician language|Galician]] ====
+'''Galego'''
+
+ 1.  un
+ 2.  dous
+ 3.  tres
+ 4.  catro
+ 5.  cinco
+ 6.  seis
+ 7.  sete
+ 8.  oito
+ 9.  nove
+ 10. dez
+ 0.  cero
+
+==== [[Portuguese language|Portuguese]] ====
+ 1.  um
+ 2.  dois
+ 3.  três
+ 4.  quatro
+ 5.  cinco
+ 6.  seis
+ 7.  sete
+ 8.  oito
+ 9.  nove
+ 10. dez
+ 0.  zero
+
+==== [[Italian language|Italian]] ====
+ 1.  uno
+ 2.  due
+ 3.  tre
+ 4.  quattro
+ 5.  cinque
+ 6.  sei
+ 7.  sette
+ 8.  otto
+ 9.  nove
+ 10. dieci
+ 0.  zero
+
+==== [[Romanian language|Romanian]] ====
+''Despite being geographically surrounded by [[#Slavic languages|Slavic]] languages and [[#Hungarian|Hungary]], Romanian is clearly a [[#Italic|Romance language]] and related to [[#Italian]]''
+ 1.  unu
+ 2.  doi
+ 3.  trei
+ 4.  patru
+ 5.  cinci
+ 6.  șase
+ 7.  șapte
+ 8.  opt
+ 9.  nouă
+ 10. zece
+ 0.  zero
+
+=== [[Hellenic languages|Hellenic]] ===
+''Greek is the only major extant Hellenic language, though there are quite a few variants of it that could be considered distinct languages.''
+
+==== [[Modern Greek|Greek (Modern)]] ====
+''Worth breaking Greek out into modern and ancient, given how influential ancient Greek was on other languages''
+ 1.  éna    (ένα)
+ 2.  dío    (δύο)
+ 3.  tría   (τρία)
+ 4.  tésera (τέσσερα)
+ 5.  pénde  (πέντε)
+ 6.  éxi    (έξι)
+ 7.  eptá   (επτά)
+ 8.  októ   (οκτώ)
+ 9.  enéa   (εννέα)
+ 10. déka   (δέκα)
+ 0.  midén  (μηδέν)
+
+==== [[Ancient Greek|Greek (Ancient)]] ====
+''Worth breaking Greek out into modern and ancient, given how influential ancient Greek was on other languages. [https://ancientgreek.pressbooks.com/chapter/33/ The first few Ancient Greek numbers are gendered and they decline], so there can be around a dozen forms for each number. I've picked the nominative neuter version for each number, though I dunno if that's the most appropriate one''
+ 1.  *hén    (ἕν) (αʹ)
+ 2.  *dúo    (δύο) (βʹ)
+ 3.  *tría   (τρία) (γʹ)
+ 4.  *tésera (τέτταρα) (δʹ)
+ 5.  pénte   (πέντε) (εʹ)
+ 6.  héx     (έξι) (ϛʹ)
+ 7.  heptá   (ἑπτά) (ζʹ)
+ 8.  oktṓ    (ὀκτώ) (ηʹ)
+ 9.  ennéa   (ἐννέα) (θʹ)
+ 10. déka    (δέκα) (ιʹ)
+
+=== [[Albanian language|Albanian]] ===
+''Despite being surrounded by [[#Italic|Romance]], [[#Slavic]], and Hellenic languages, and being taken in by the Greek, Roman, Ottoman, and other empires for much of its history, Albanian continues to exist as its own branch of the [[#Indo-European]] language family. In theory it is less closely related to [[#Italian]], [[#English]] and [[#Russian]] than those languages are to [[#Hindi]]. It is closer to [[#Greek]] than the others.''
+
+''The numbers below definitely ''suggest'' a closer relationship to Italian than to, say, English or Hindi, but it's still pretty far out there.''
+
+''See [[:commons:File:IndoEuropeanLanguageFamilyRelationsChart.jpg]]''
+
+ 1.  një
+ 2.  dy
+ 3.  tre
+ 4.  katër
+ 5.  pesë
+ 6.  gjashtë
+ 7.  shtatë
+ 8.  tetë
+ 9.  nëntë
+ 10. dhjetë
+ 0.  zero
+
+=== [[Slavic languages|Slavic]] ===
+''Normally broken into East Slavic, South Slavic, and West Slavic''
+
+==== [[Ukrainian language|Ukrainian]] ====
+
+ 1.  odin    (один)
+ 2.  dva     (два)
+ 3.  tri     (три)
+ 4.  čotiri  (чотири)
+ 5.  p’âtʹ   (п’ять)
+ 6.  šìstʹ   (шість)
+ 7.  sìm     (сім)
+ 8.  vìsìm   (вісім)
+ 9.  dev’âtʹ (дев’ять)
+ 10. desâtʹ  (десять)
+ 0.  nul'    (нуль)
+
+Reference:
+
+* https://www.languagesandnumbers.com/how-to-count-in-ukrainian/en/ukr/
+* https://omniglot.com/language/numbers/ukrainian.htm
+
+==== [[Russian language|Russian]] ====
+
+ 1.  odin   (один)
+ 2.  dve    (две)
+ 3.  tri    (три)
+ 4.  četyre (четыре)
+ 5.  pâtʹ   (пять)
+ 6.  šestʹ  (шесть)
+ 7.  semʹ   (семь)
+ 8.  vosemʹ (восемь)
+ 9.  devâtʹ (девять)
+ 10. desâtʹ (десять)
+ 0.  nol'   (ноль)
+
+Reference:
+
+* https://www.languagesandnumbers.com/how-to-count-in-russian/en/rus/
+* https://www.russianlessons.net/lessons/lesson2_main.php
+* https://www.mondly.com/blog/2020/04/27/russian-numbers/
+* https://www.thoughtco.com/russian-numbers-4691201
+* https://www.babbel.com/en/magazine/counting-in-russian
+* https://omniglot.com/language/numbers/russian.htm
+* https://www.russianpod101.com/blog/2019/10/24/russian-numbers/
+
+==== [[Belarussian language|Belarussian]] ====
+''I had somehow been under the impression that Belarussian was closer to [[#Russian]] than [[#Ukrainian]] is. One look at the numbers would seem to suggest the opposite.''
+
+ 1.  adzín    (адзі́н)
+ 2.  dva      (два)
+ 3.  try      (тры)
+ 4.  čatýry   (чаты́ры)
+ 5.  piać     (пяць)
+ 6.  šesć     (шэсць)
+ 7.  siem     (сем)
+ 8.  vósiem   (во́сем)
+ 9.  dziéviać (дзе́вяць)
+ 10. dziésiać (дзе́сяць)
+ 0.  nul'     (нуль)
+
+Reference:
+
+* https://www.languagesandnumbers.com/how-to-count-in-belarusian/en/bel/
+* http://mylanguages.org/belarusian_numbers.php
+* https://omniglot.com/language/numbers/belarusian.htm
+* https://www.lingohut.com/en/v771745/belarusian-lessons-numbers-1-through-10
+
+==== [[Czech language|Czech]] ====
+''Very similar to Slovak''
+
+ 1.  jedna
+ 2.  dva
+ 3.  tři
+ 4.  čtyři
+ 5.  pět
+ 6.  šest
+ 7.  sedm
+ 8.  osm
+ 9.  devět
+ 10. deset
+ 0.  nula
+
+References:
+
+* https://www.languagesandnumbers.com/how-to-count-in-czech/en/ces/
+* https://omniglot.com/language/numbers/czech.htm
+* https://www.locallingo.com/czech/phrases/numbers.html
+
+==== [[Slovak language|Slovak]] ====
+''Very similar to Czech''
+
+ 1.  jeden
+ 2.  dva
+ 3.  tri
+ 4.  štyri
+ 5.  päť
+ 6.  šesť
+ 7.  sedem
+ 8.  osem
+ 9.  deväť
+ 10. desať
+ 0.  nula
+
+References:
+
+* https://www.languagesandnumbers.com/how-to-count-in-slovak/en/slk/
+* https://omniglot.com/language/numbers/slovak.htm
+*
+
+=== [[Baltic languages|Baltic]] ===
+''Baltic and Slavic branched off a common ancestor called Balto-Slavic''
+
+==== [[Latvian language|Latvian]] ====
+''You can see how distant Latvian is from Russian or Belarussian. It is clear that Latvian is not an Eastern Slavic language like they are''
+
+ 1.  viens
+ 2.  divi
+ 3.  trīs
+ 4.  četri
+ 5.  pieci
+ 6.  seši
+ 7.  septiņi
+ 8.  astoņi
+ 9.  deviņi
+ 10. desmit
+ 0.  nulle
+
+References:
+
+* https://www.languagesandnumbers.com/how-to-count-in-latvian/en/lav/
+* https://omniglot.com/language/numbers/latvian.htm
+
+==== [[Lithuanian language|Lithuanian]] ====
+
+ 1.  [[:wikt:vienas#Lithuanian|vienas]]
+ 2.  [[:wikt:du#Lithuanian|du]]
+ 3.  [[:wikt:trys#Lithuanian|trys]]
+ 4.  [[:wikt:keturi#Lithuanian|keturi]]
+ 5.  [[:wikt:penki#Lithuanian|penki]]
+ 6.  [[:wikt:šeši#Lithuanian|šeši]]
+ 7.  [[:wikt:septyni#Lithuanian|septyni]]
+ 8.  [[:wikt:aštuoni#Lithuanian|aštuoni]]
+ 9.  [[:wikt:devyni#Lithuanian|devyni]]
+ 10. [[:wikt:dešimt#Lithuanian|dešimt]]
+ 0.  [[:wikt:nulis#Lithuanian|nulis]]
+
+
+References:
+
+* https://www.languagesandnumbers.com/how-to-count-in-lithuanian/en/lit/
+
+== [[Dravidian languages|Dravidian]] ==
+=== [[Tamil language|Tamil]] ===
+''Note: very different from [[#Hindi]]''
+
+ 1.  oṉṟu          (ஒன்று)
+ 2.  iraṇḍu        (இரண்டு)
+ 3.  mūṉṟu         (மூன்று)
+ 4.  nāṉku         (நான்கு)
+ 5.  aindhu        (ஐந்து)
+ 6.  āṟu           (ஆறு)
+ 7.  ēḻu           (ஏழு)
+ 8.  eṭṭu          (எட்டு)
+ 9.  oṉpathu       (ஒன்பது)
+ 10. paththu       (பத்து)
+ 0.  suḻiyam / pāḻ (சுழியம் / பாழ்)
+
+=== [[Telugu language|Telugu]] ===
+''I've been told that Telugu has the most vocabulary from Sanskrit of the four major South Indian languages. If that's true, it does not show in the numbers here, which are clearly unrelated to any North Indian languages like [[#Hindi]], with the exception of zero — where it is similar to Hindi and quite different from [[#Tamil]] or [[#Malayalam]]''
+
+ 1.  okaṭi   (ఒకటి) (౧)
+ 2.  reṇḍu   (రెండు) (౨)
+ 3.  mūḍu    (మూడు) (౩)
+ 4.  nālugu  (నాలుగు) (౪)
+ 5.  ayidu   (అయిదు) (౫)
+ 6.  āru     (ఆరు) (౬)
+ 7.  ēḍu     (ఏడు) (౭)
+ 8.  enimidi (ఎనిమిది) (౮)
+ 9.  tommidi (తొమ్మిది) (౯)
+ 10. padi    (పది) (౧౦)
+ 0.  sunna   (సున్న) (౦)
+
+=== [[Malayalam]] ===
+''You can see the closeness to [[#Tamil]] here quite clearly''
+
+ 1.  onnŭ   (ഒന്ന്) (൧)
+ 2.  raṇḍŭ  (രണ്ട്) (൨)
+ 3.  mūnnŭ  (മൂന്ന്) (൩)
+ 4.  nālŭ   (നാല്) (൪)
+ 5.  añjŭ   (അഞ്ച്) (൫)
+ 6.  āṟŭ    (ആറ്) (൬)
+ 7.  ēḻŭ    (ഏഴ്) (൭)
+ 8.  eṭṭŭ   (എട്ട്) (൮)
+ 9.  ombadŭ (ഒമ്പത്) (൯)
+ 10. pattŭ  (പത്ത്) (൰/൧൦)
+ 0.  pūjyaṁ (പൂജ്യം) (൦)
+
+References:
+
+* [[Malayalam numerals]]
+* https://omniglot.com/language/numbers/malayalam.htm
+* https://ling-app.com/ml/malayalam-numbers/
+* https://www.learnentry.com/english-malayalam/vocabulary/numbers-in-malayalam/
+
+=== [[Brahui language|Brahui]] ===
+''Brahui is a Dravidian language that is spoken in some parts of Pakistan and written with Arabic script. Apparently only some 15% of the vocabulary is of Dravidian origin. This was one of the inspirations for creating this whole page, and this is the first real challenge to my hypothesis, since only the first three numbers are related to Tamil — the remaining numbers were borrowed from Baloch, and you can clearly see that they are Indo-European and related to [[#Hindi|Urdu/Hindi]]''
+
+''As an endangered minority language, Brahui is not so well-documented on the Internet. I did not find the numbers written with Arabic script (though I can guess what they would look like). Apparently Brahui was never written with a Brahmi script — it was purely a spoken language for most of its history, and an Arabic-based script was created at some point to document the folklore, and more recently it has been given an orthography using Latin letters with diacritics, which you see here.''
+
+''Despite being an endangered minority language, the [https://www.pbs.gov.pk/sites/default/files//population_census/census_2017_tables/pakistan/Table11n.pdf 2017 census] lists the language as having 2.5 million speakers.''
+
+ 1.  asi
+ 2.  irā
+ 3.  musi
+ 4.  čār
+ 5.  panč
+ 6.  šaš
+ 7.  haft
+ 8.  haš
+ 9.  nō
+ 10. dah
+
+== [[Uralic languages|Uralic]] ==
+=== [[Hungarian language|Hungarian]] ===
+''Despite being in the middle of Europe and surrounded by a wide variety of [[#Indo-European]] languages, Hungarian is actually related to Estonian, Finnish, Sami, etc. It's a little hard to see the relationship (you really have to squint, as Hungarian has been isolated for a long time), but one thing is super clear: it is totally different from its neighbours: Slovakia, Poland, [[#Romanian|Romania]], Serbia, Croatia, Slovenia, and [[#German|Austria]]''
+ 1.  egy
+ 2.  kettő
+ 3.  három
+ 4.  négy
+ 5.  öt
+ 6.  hat
+ 7.  hét
+ 8.  nyolc
+ 9.  kilenc
+ 10. tíz
+ 0.  nulla
+
+=== [[Estonian language|Estonian]] ===
+''Despite being surrounded by [[#Baltic]] and [[#Slavic]] languages, Estonian is related to Hungarian and Finnish, which are not part of the Indo-European language family at all (whereas Lithuanian and Latvian are Balto-Slavic, a fairly distinct branch of Indo-European that they shared with the now-extinct East Prussian). Estonian seems pretty distant from Hungarian, though — you really have to squint to see it here, but you can tell it's not related to any of the [[#Indo-European]] languages on this page''
+
+ 1.  [[:wikt:üks#Estonian|üks]]
+ 2.  [[:wikt:kaks#Estonian|kaks]]
+ 3.  [[:wikt:kolm#Estonian|kolm]]
+ 4.  [[:wikt:neli#Estonian|neli]]
+ 5.  [[:wikt:viis#Estonian|viis]]
+ 6.  [[:wikt:kuus#Estonian|kuus]]
+ 7.  [[:wikt:seitse#Estonian|seitse]]
+ 8.  [[:wikt:kaheksa#Estonian|kaheksa]]
+ 9.  [[:wikt:üheksa#Estonian|üheksa]]
+ 10. [[:wikt:kümme#Estonian|kümme]]
+ 0.  [[:wikt:null#Estonian|null]]
+
+References:
+
+* https://www.languagesandnumbers.com/how-to-count-in-estonian/en/est/
+
+=== [[Finnish language|Finnish]] ===
+''Despite being a Nordic country and having [[#Scandinavian]] languages on one side and [[#Slavic]] languages on the other, Finnish is clearly related to Estonian and distantly related to Hungarian''
+ 1.  yksi
+ 2.  kaksi
+ 3.  kolme
+ 4.  neljä
+ 5.  viisi
+ 6.  kuusi
+ 7.  seitsemän
+ 8.  kahdeksan
+ 9.  yhdeksän
+ 10. kymmenen
+ 0.  nolla
+
+=== [[Northern Sami language|Northern Sami]] ===
+ 1.  okta
+ 2.  guokte
+ 3.  golbma
+ 4.  njeallje
+ 5.  vihtta
+ 6.  guhtta
+ 7.  čieža
+ 8.  gávcci
+ 9.  ovcci
+ 10. logi
+
+=== [[Southern Sami language|Southern Sami]] ===
+ 1.  akte
+ 2.  göökte
+ 3.  golme
+ 4.  njieljie
+ 5.  vïjhte
+ 6.  govhte
+ 7.  tjïjhtje
+ 8.  gaektsie
+ 9.  uktsie
+ 10. luhkie
+
+== [[Semitic languages|Semitic]] ==
+=== [[Arabic language|Arabic]] ===
+''Arabic is not related to [[#Farsi|Persian]] or Turkish despite the cultural overlaps, Ottoman Empire, etc. Even though the languages are unrelated, you can see that the numerals are related to the [[#Hindi]] numerals as well as the so-called Arabic numerals used in European languages and now much of the world''
+ 1.  wahed     (واحد) (١)
+ 2.  ithan     (إثنان) (٢)
+ 3.  thalathah (ثلاثة) (٣)
+ 4.  arba'a    (أربعة) (٤)
+ 5.  hamsa     (خمسة) (٥)
+ 6.  sitta     (ستة) (٦)
+ 7.  sab'a     (سبعة) (٧)
+ 8.  thamaniya (ثمانية) (٨)
+ 9.  tis'a     (تسعة) (٩)
+ 10. 'ashra    (عشرة) (١٠)
+ 0.  sifr      (صفر) (٠)
+
+=== [[Maltese language|Maltese]] ===
+:'''Malti'''
+
+''Even though the majority of the vocabulary in Maltese is from [[#Italian]] and the people of Malta are predominantly Catholic, Maltese is considered an Arabic language, being the only surviving member of the [[Siculo-Arabic]] languages. It's the only variety of Arabic that is normally written with the Latin alphabet. The relationship to Arabic could hardly be clearer, and this was an inspiration for this page''
+ 1.  wieħed
+ 2.  tnejn
+ 3.  tlieta
+ 4.  erbgħa
+ 5.  ħamsa
+ 6.  sitta
+ 7.  sebgħa
+ 8.  tmienja
+ 9.  disgħa
+ 10. għaxra
+ 0.  żero
+
+Reference:
+* https://www.languagesandnumbers.com/how-to-count-in-maltese/en/mlt/
+* https://omniglot.com/language/numbers/maltese.htm
+
+=== [[Amharic]] ===
+:'''አማርኛ'''
+''It's very hard to see any connection between this and Arabic until you get to number six. But they are both semitic languages and considered to be distantly related''
+''The [[Ge'ez script]] (the writing system for Amharic) has its own numerals that are sometimes used, which I've included''
+
+
+ 1.  and     (አንድ) {፩}
+ 2.  hulät   (ሁለት) {፪}
+ 3.  sost    (ሶስት) {፫}
+ 4.  arat    (አራት) {፬}
+ 5.  amïst   (አምስት) {፭}
+ 6.  sïdïst  (ስድስት) {፮}
+ 7.  säbat   (ሰባት) {፯}
+ 8.  sïmïnt  (ስምንት) {፰}
+ 9.  zät’äñ  (ዘጠኝ) {፱}
+ 10. asïr    (አስር) {፲}
+ 0.  zero    (ዜሮ)
+
+Reference:
+* https://www.metaappz.com/References/AmharicAndGeezNumbersReferenceTable.aspx
+* https://www.languagesandnumbers.com/how-to-count-in-amharic/en/amh/
+
+=== [[Tigrinya language|Tigrinya]] ===
+:'''ትግርኛ'''
+''3 and 4 seem closer to Arabic from Tigrinya than Amharic, though 6–8 seem more distant. Interesting''
+
+ 1.  hade      (ሓደ) {፩}
+ 2.  kelete    (ክልተ) {፪}
+ 3.  seleste   (ሰለስተ) {፫}
+ 4.  arbaete   (ኣርባዕተ) {፬}
+ 5.  hamushte  (ሓሙሽት) {፭}
+ 6.  shudushte (ሽድሽተ) {፮}
+ 7.  shewa’ate (ሸውዓተ) {፯}
+ 8.  shemonte  (ሸሞንተ) {፰}
+ 9.  tishe’ate (ትሽዓተ) {፱}
+ 10. ‘äserte   (ዓሰርተ) {፲}
+
+Reference:
+* https://omniglot.com/language/numbers/tigrinya.htm
+* [[:wikt:Category:Tigrinya numbers]]
+
+== [[Austronesian languages|Austronesian]] ==
+''The numbers vary quite a bit in the various Austronesian languages, though several of them have a very similar word for 5 for some reason, even when they diverge considerably for other numbers.''
+
+=== [[Indonesian language|Indonesian]] ===
+:'''Bahasa Indonesia''': [[:id:Sistem bilangan]]
+
+ 1.  satu
+ 2.  dua
+ 3.  tiga
+ 4.  empat
+ 5.  lima
+ 6.  enam
+ 7.  tujuh
+ 8.  lapan
+ 9.  sembilan
+ 10. sepuluh
+ 0.  sifar / kosong
+
+Reference:
+* https://omniglot.com/language/numbers/malayindonesian.htm
+* https://www.indonesianpod101.com/blog/2019/10/24/indonesian-numbers/
+* https://www.languagesandnumbers.com/how-to-count-in-indonesian/en/ind/
+
+=== [[Tagalog language|Tagalog]] ===
+''Like [[#Japanese]], Tagalog uses two sets of numbers. In this case, one set is the native Tagalog numbers, and the other one are especially the Spanish numbers but with Tagalog spelling''
+
+==== Native Tagalog numbers ====
+ 1.  isa
+ 2.  dalawa
+ 3.  tatlo
+ 4.  apat
+ 5.  lima
+ 6.  anim
+ 7.  pito
+ 8.  walo
+ 9.  siyam
+ 10. sampu
+ 0.  wala / sero
+
+==== Spanish-derived Tagalog numbers ====
+
+ 1.  uno
+ 2.  dos
+ 3.  tres
+ 4.  kwatro
+ 5.  sinko
+ 6.  sais
+ 7.  syete
+ 8.  otso
+ 9.  nuwebe
+ 10. diyes
+ 0.  sero
+
+
+Reference:
+* https://l-lingo.com/free-lessons/en/learn-tagalog-filipino/numbers-1-10.html
+* https://omniglot.com/language/numbers/tagalog.htm
+* [[:wikt:Appendix:Tagalog_numbers]]
+* [[:wikt:Category:Tagalog_numbers]]
+
+=== [[Ma'anyan language|Ma'anyan]] ===
+''I can definitely see the relationship to Indonesian/Malay. The Ma'anyan language is considered to be the most likely source of the Malagasy language, and you can sort of see it with the numbers here (particularly keeping in mind the transliterations here were probably performed by different people)''
+
+ 1.  isaʔ / eraŋ
+ 2.  rueh
+ 3.  telo
+ 4.  epat
+ 5.  dime
+ 6.  enem
+ 7.  pitu
+ 8.  balu / walu
+ 9.  su'ey
+ 10. sapulu(h)
+
+Reference:
+* https://abvd.shh.mpg.de/austronesian/language.php?id=215
+
+=== [[Malagasy language|Malagasy]] ===
+''That the main language in Madagascar is an Austronesian language shows the incredible reach of Austronesian settlers some two thousand years ago, extending all the way from Madagascar to Hawai'i and Rapa Nui (Easter Island)''
+
+ 1.  iray
+ 2.  roa
+ 3.  telo
+ 4.  efatra
+ 5.  dimy
+ 6.  enina
+ 7.  fito
+ 8.  valo
+ 9.  sivy
+ 10. folo
+ 0.  aotra
+
+Reference:
+* https://www.languagesandnumbers.com/how-to-count-in-malagasy/en/mlg/
+* https://omniglot.com/language/numbers/malagasy.htm
+* [[:wikt:Category:Malagasy cardinal numbers]]
+
+=== [[Polynesian languages|Polynesian]] ===
+==== [[Māori language|Māori]] ====
+:'''Te reo'''
+
+ 1.  tahi
+ 2.  rua
+ 3.  toru
+ 4.  whā
+ 5.  rima
+ 6.  ono
+ 7.  whitu
+ 8.  waru
+ 9.  iwa
+ 10. tekau
+ 0.  kore
+
+Reference:
+* https://www.maori.cl/learn/numbers.htm
+* https://omniglot.com/language/numbers/maori.htm
+* http://www.childrensbooksonline.org/Maori_Folk_Tales/maori_language.htm
+* [[:wikt:Appendix:Maori numerals]]
+* [[:wikt:Category:Maori cardinal numbers]]
+
+==== [[Hawaiian language|Hawaiian]] ====
+:'''ʻŌlelo Hawaiʻi'''
+''Some transcriptions use backticks, others just use single quotes, and others seem to omit that character altogether''
+
+ 0.  `ole
+ 1.  `ekahi
+ 2.  `elua
+ 3.  `ekolu
+ 4.  `ehā
+ 5.  `elima
+ 6.  `eono
+ 7.  `ehiku
+ 8.  `ewalu
+ 9.  `eiwa
+ 10. `umi
+
+Reference:
+* https://www.mauimapp.com/moolelo/hwnnmbrs.htm
+* http://www.sf.airnet.ne.jp/~ts/language/number/hawaiian.html
+* https://forum.duolingo.com/comment/29227679/Hawaiian-Numbers
+* https://omniglot.com/language/numbers/hawaiian.htm
+* [[:wikt:Category:Hawaiian cardinal numbers]]
+
+== Sino-Tibetan ==
+=== Cantonese ===
+ 1.  yat  (一)
+ 2.  yi   (二)
+ 3.  sam  (三)
+ 4.  sei  (四)
+ 5.  ngh  (五)
+ 6.  lok  (六)
+ 7.  chat (七)
+ 8.  bhat (八)
+ 9.  gau  (九)
+ 10. sap  (十)
+ 0.  ling (〇 or 零)
+
+=== Mandarin ===
+ 1.  yī   (一)
+ 2.  èr   (二)
+ 3.  sān  (三)
+ 4.  sì   (四)
+ 5.  wǔ   (五)
+ 6.  liù  (六)
+ 7.  qī   (七)
+ 8.  ba   (八)
+ 9.  jiu  (九)
+ 10. shí  (十)
+ 0.  líng (〇 or 零)
+
+=== Taiwanese / Min Nan ===
+==== Min Nan colloquial numbers ====
+ 1.  chit     (一)
+ 2.  nn̄g      (二)
+ 3.  saⁿ      (三)
+ 4.  sì       (四)
+ 5.  gō͘       (五)
+ 6.  la̍k      (六)
+ 7.  chhit    (七)
+ 8.  peh/poeh (八)
+ 9.  káu      (九)
+ 10. cha̍p     (十)
+ 0.  khòng    (空)
+
+==== Min Nan literary numbers ====
+ 1.  it       (一)
+ 2.  jī / lī  (二)
+ 3.  sam      (三)
+ 4.  sù       (四)
+ 5.  ngó͘      (五)
+ 6.  lio̍k     (六)
+ 7.  chhit    (七)
+ 8.  pat      (八)
+ 9.  kiú      (九)
+ 10. si̍p      (十)
+ 0.  khòng    (空)
+
+== [[Japonic languages|Japonic]] (near isolate) ==
+=== [[Japanese language|Japanese]] ===
+==== Sino-Japanese numbers ====
+ 1.  ichi      (いち) (一)
+ 2.  ni        (に) (二)
+ 3.  san       (さん) (三)
+ 4.  shi       (し) (四) 
+ 4a. yon       (よん) (四)
+ 5.  go        (ご) (五)
+ 6.  roku      (ろく) (六)
+ 7.  shichi    (しち)
+ 7a. nana      (なな) (七)
+ 8.  hachi     (はち) (八)
+ 9.  kyu       (きゅう) (九)
+ 10. ju        (じゅう) (十)
+ 0.  zero      (ゼロ) / rei (れい) - (〇 or 零)
+
+==== Japanese (Native) numbers ====
+''These have an unusual role in the language via conjugations into [[Japanese counter words|counter words]]''
+
+ 1.  hitotsu   (ひとつ) (一つ)
+ 2.  futatsu   (ふたつ) (二つ)
+ 3.  mittsu    (みっつ) (三つ)
+ 4.  yottsu    (よっつ) (四つ)
+ 5.  itsutsu   (いつつ) (五つ)
+ 6.  muttsu    (むっつ) (六つ)
+ 7.  nanatsu   (ななつ) (七つ)
+ 8.  yattsu    (やっつ) (八つ))
+ 9.  kokonotsu (ここのつ) (九つ)
+ 10. to        (とお) (十)
+ 0.  (no zero)
+
+=== [[Okinawan language|Uchinaguchi]] ===
+ 1.  tiichi    (ティーチ)
+ 2.  taachi    (ターチ)
+ 3.  miichi    (ミーチ)
+ 4.  yuuchi    (ユーチ)
+ 5.  ichichi   (イチチ)
+ 6.  muuchi    (ムーチ)
+ 7.  nanachi   (ナナチ)
+ 8.  yaachi    (ヤーチ)
+ 9.  kukunuchi (ククヌチ)
+ 10. tuu       (トゥー)
+
+== Ainu ([[language isolate]]) ==
+=== [[Ainu language|Ainu]] ===
+''Totally different from [[#Japanese]]''
+
+ 1.  shine
+ 2.  tu
+ 3.  re
+ 4.  ine
+ 5.  ashikne
+ 6.  iwa
+ 7.  arawa
+ 8.  tupe-san
+ 9.  shinepe-san
+ 10. wa
+
+== Basque ([[language isolate]]) ==
+=== [[Basque language|Basque]] ===
+''Totally different from [[#Spanish]], [[#Portuguese]], or anything else in Western Europe''
+
+ 1.  bat
+ 2.  bi
+ 3.  hiru
+ 4.  lau
+ 5.  bost
+ 6.  sei
+ 7.  zazpi
+ 8.  zortzi
+ 9.  bederatzi
+ 10. hamar
+
+
+= Additional thoughts/notes =
+
+In pulling this together, I found a few things after looking up language after language:
+
+* There is a site dedicated to counting systems that I have pulled from heavily, https://www.languagesandnumbers.com/, although it's often surprising which languages they include and which they don't
+* Someone else has been compiling a small database of number systems of the world: http://www.sf.airnet.ne.jp/~ts/language/number.html
+*: They haven't gotten very far, but it's a neat site. But they have a link to a few sites with a much more complete set, in particular:
+*:* Numbers from 1 to 10 in over 5000 languages: http://www.zompist.com/numbers.shtml
+*:* A site that hasn't worked since 2002: https://web.archive.org/web/20020523094502/http://euslchan.tripod.com/index.html
+*:*: Most of the numbers are embedded in images, and often using phonetic characters that aren't really part of the Latin set, so not useful for this exercise, but a good reference
+* Wiktionary has been building some category pages for numbers in various languages (see [[:wikt:Category:Maori cardinal numbers]] for an example) and in a few cases they have an appendix page with a list or table (see [[:wikt:Appendix:Maori numerals]]), but there is a very long way to go there
+* Omniglot is always useful for looking up languages, but sometimes their orthography in Latin letters is not the one I would use. But they do have dedicated number pages for many languages (e.g., https://omniglot.com/language/numbers/maori.htm)
+* There is an [https://abvd.shh.mpg.de/austronesian/ Austronesian Basic Vocabulary Database (ABVD)] that is very helpful for a lot of the harder to look up Austronesian languages (like [[#Ma'anyan]])
+
+
+
+asdlfkjasdlkjdfklajdsflk
