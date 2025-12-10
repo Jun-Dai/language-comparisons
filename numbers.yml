@@ -2532,3 +2532,124 @@ languages:
       - "https://www.omniglot.com/language/numbers/georgian.htm"
       - "https://www.languagesandnumbers.com/how-to-count-in-georgian/en/kat/"
       - "https://en.wikibooks.org/wiki/Georgian/Numbers"
+
+  adyghe:
+    name: "Adyghe"
+    alternate_names: ["West Circassian", "Adygei"]
+    family: "Northwest Caucasian"
+    subfamily: ""
+    notes: |
+      Adyghe is a Northwest Caucasian language with approximately 500,000 speakers, primarily in the
+      Republic of Adygea in Russia, where it holds co-official status alongside Russian. Since 1938,
+      Adyghe has been written with a version of the Cyrillic alphabet. The language employs a vigesimal
+      (base-20) counting system from forty upwards.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "ziI"
+            scripts:
+              cyrillic: "зиI"
+          "1":
+            primary: "zy"
+            scripts:
+              cyrillic: "зы"
+          "2":
+            primary: "tIu"
+            scripts:
+              cyrillic: "тӀу"
+          "3":
+            primary: "ŝy"
+            scripts:
+              cyrillic: "щы"
+          "4":
+            primary: "plIy"
+            scripts:
+              cyrillic: "плӀы"
+          "5":
+            primary: "tfy"
+            scripts:
+              cyrillic: "тфы"
+          "6":
+            primary: "hy"
+            scripts:
+              cyrillic: "хы"
+          "7":
+            primary: "bly"
+            scripts:
+              cyrillic: "блы"
+          "8":
+            primary: "i"
+            scripts:
+              cyrillic: "и"
+          "9":
+            primary: "bg″u"
+            scripts:
+              cyrillic: "бгъу"
+          "10":
+            primary: "pšIy"
+            scripts:
+              cyrillic: "пшӀы"
+    references:
+      - "https://www.omniglot.com/language/numbers/adyghe.htm"
+      - "https://www.languagesandnumbers.com/how-to-count-in-adyghe/en/ady/"
+
+  kabardian:
+    name: "Kabardian"
+    alternate_names: ["East Circassian", "Kabardino-Circassian"]
+    family: "Northwest Caucasian"
+    subfamily: ""
+    notes: |
+      Kabardian is a Northwest Caucasian language spoken mainly in the Kabardino-Balkar and
+      Karachay-Circassian Republics of Russia. It is closely related to Adyghe, and together they
+      form the Circassian language group. Kabardian has been written with the Cyrillic alphabet
+      since 1936, and the Kabardian Cyrillic alphabet contains 59 letters.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nol'"
+            scripts:
+              cyrillic: "ноль"
+          "1":
+            primary: "zy"
+            scripts:
+              cyrillic: "зы"
+          "2":
+            primary: "tIu"
+            scripts:
+              cyrillic: "тӀу"
+          "3":
+            primary: "šy"
+            scripts:
+              cyrillic: "щы"
+          "4":
+            primary: "plIy"
+            scripts:
+              cyrillic: "плӀы"
+          "5":
+            primary: "txu"
+            scripts:
+              cyrillic: "тху"
+          "6":
+            primary: "xy"
+            scripts:
+              cyrillic: "хы"
+          "7":
+            primary: "bly"
+            scripts:
+              cyrillic: "блы"
+          "8":
+            primary: "y"
+            scripts:
+              cyrillic: "и"
+          "9":
+            primary: "bgʷu"
+            scripts:
+              cyrillic: "бгъу"
+          "10":
+            primary: "pšIy"
+            scripts:
+              cyrillic: "пщӏы"
+    references:
+      - "https://omniglot.com/language/numbers/kabardian.htm"
