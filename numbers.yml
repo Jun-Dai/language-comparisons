@@ -85,6 +85,7 @@ languages:
 
   urdu:
     name: "Urdu"
+    native_name: "اُردُو"
     family: "Indo-European"
     subfamily: "Indo-Iranian"
     notes: |
@@ -154,6 +155,7 @@ languages:
 
   farsi:
     name: "Farsi"
+    native_name: "فارسی"
     alternate_names: ["Persian"]
     family: "Indo-European"
     subfamily: "Indo-Iranian"
@@ -226,6 +228,7 @@ languages:
 
   pashto:
     name: "Pashto"
+    native_name: "پښتو"
     family: "Indo-European"
     subfamily: "Indo-Iranian"
     notes: |
@@ -297,6 +300,7 @@ languages:
 
   english:
     name: "English"
+    native_name: "English"
     family: "Indo-European"
     subfamily: "Germanic"
     notes: ""
@@ -329,6 +333,7 @@ languages:
 
   german:
     name: "German"
+    native_name: "Deutsch"
     family: "Indo-European"
     subfamily: "Germanic"
     notes: ""
@@ -361,6 +366,7 @@ languages:
 
   latin:
     name: "Latin"
+    native_name: "lingua Latīna"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -416,6 +422,7 @@ languages:
 
   french:
     name: "French"
+    native_name: "français"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -448,6 +455,7 @@ languages:
 
   catalan:
     name: "Catalan"
+    native_name: "català"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -480,6 +488,7 @@ languages:
 
   spanish:
     name: "Spanish"
+    native_name: "español"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -512,6 +521,7 @@ languages:
 
   aragonese:
     name: "Aragonese"
+    native_name: "aragonés"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -544,6 +554,7 @@ languages:
 
   galician:
     name: "Galician"
+    native_name: "galego"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -576,6 +587,7 @@ languages:
 
   portuguese:
     name: "Portuguese"
+    native_name: "português"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -608,6 +620,7 @@ languages:
 
   italian:
     name: "Italian"
+    native_name: "italiano"
     family: "Indo-European"
     subfamily: "Italic"
     notes: ""
@@ -640,6 +653,7 @@ languages:
 
   romanian:
     name: "Romanian"
+    native_name: "română"
     family: "Indo-European"
     subfamily: "Italic"
     notes: |
@@ -674,6 +688,7 @@ languages:
 
   greek_modern:
     name: "Greek (Modern)"
+    native_name: "ελληνικά"
     family: "Indo-European"
     subfamily: "Hellenic"
     notes: |
@@ -729,6 +744,7 @@ languages:
 
   greek_ancient:
     name: "Greek (Ancient)"
+    native_name: "ἑλληνική"
     family: "Indo-European"
     subfamily: "Hellenic"
     notes: |
@@ -793,6 +809,7 @@ languages:
 
   albanian:
     name: "Albanian"
+    native_name: "shqip"
     family: "Indo-European"
     subfamily: "Albanian"
     notes: |
@@ -831,6 +848,7 @@ languages:
 
   ukrainian:
     name: "Ukrainian"
+    native_name: "українська"
     family: "Indo-European"
     subfamily: "Slavic"
     notes: ""
@@ -949,6 +967,7 @@ languages:
 
   belarussian:
     name: "Belarussian"
+    native_name: "беларуская"
     family: "Indo-European"
     subfamily: "Slavic"
     notes: |
@@ -1009,6 +1028,7 @@ languages:
 
   czech:
     name: "Czech"
+    native_name: "čeština"
     family: "Indo-European"
     subfamily: "Slavic"
     notes: "Very similar to Slovak"
@@ -1044,6 +1064,7 @@ languages:
 
   slovak:
     name: "Slovak"
+    native_name: "slovenčina"
     family: "Indo-European"
     subfamily: "Slavic"
     notes: "Very similar to Czech"
@@ -1078,6 +1099,7 @@ languages:
 
   latvian:
     name: "Latvian"
+    native_name: "latviešu"
     family: "Indo-European"
     subfamily: "Baltic"
     notes: |
@@ -1114,6 +1136,7 @@ languages:
 
   lithuanian:
     name: "Lithuanian"
+    native_name: "lietuvių"
     family: "Indo-European"
     subfamily: "Baltic"
     notes: ""
@@ -1147,6 +1170,7 @@ languages:
 
   tamil:
     name: "Tamil"
+    native_name: "தமிழ்"
     family: "Dravidian"
     subfamily: ""
     notes: "Note: very different from Hindi"
@@ -1202,6 +1226,7 @@ languages:
 
   telugu:
     name: "Telugu"
+    native_name: "తెలుగు"
     family: "Dravidian"
     subfamily: ""
     notes: |
@@ -1270,6 +1295,7 @@ languages:
 
   malayalam:
     name: "Malayalam"
+    native_name: "മലയാളം"
     family: "Dravidian"
     subfamily: ""
     notes: "You can see the closeness to Tamil here quite clearly"
@@ -1338,6 +1364,7 @@ languages:
 
   brahui:
     name: "Brahui"
+    native_name: "براہوی"
     family: "Dravidian"
     subfamily: ""
     notes: |
@@ -1379,6 +1406,7 @@ languages:
 
   hungarian:
     name: "Hungarian"
+    native_name: "magyar"
     family: "Uralic"
     subfamily: ""
     notes: |
@@ -1415,6 +1443,7 @@ languages:
 
   estonian:
     name: "Estonian"
+    native_name: "eesti"
     family: "Uralic"
     subfamily: ""
     notes: |
@@ -1453,6 +1482,7 @@ languages:
 
   finnish:
     name: "Finnish"
+    native_name: "suomi"
     family: "Uralic"
     subfamily: ""
     notes: |
@@ -1487,6 +1517,7 @@ languages:
 
   northern_sami:
     name: "Northern Sami"
+    native_name: "davvisámegiella"
     family: "Uralic"
     subfamily: ""
     notes: ""
@@ -1517,6 +1548,7 @@ languages:
 
   southern_sami:
     name: "Southern Sami"
+    native_name: "åarjelsaemien gïele"
     family: "Uralic"
     subfamily: ""
     notes: ""
@@ -1616,6 +1648,7 @@ languages:
 
   maltese:
     name: "Maltese"
+    native_name: "Malti"
     family: "Semitic"
     subfamily: ""
     notes: |
@@ -1654,6 +1687,7 @@ languages:
 
   amharic:
     name: "Amharic"
+    native_name: "አማርኛ"
     family: "Semitic"
     subfamily: ""
     notes: |
@@ -1723,6 +1757,7 @@ languages:
 
   tigrinya:
     name: "Tigrinya"
+    native_name: "ትግርኛ"
     family: "Semitic"
     subfamily: ""
     notes: |
@@ -1785,6 +1820,7 @@ languages:
 
   indonesian:
     name: "Indonesian"
+    native_name: "bahasa Indonesia"
     family: "Austronesian"
     subfamily: ""
     notes: ""
@@ -1821,6 +1857,7 @@ languages:
 
   tagalog:
     name: "Tagalog"
+    native_name: "Tagalog"
     family: "Austronesian"
     subfamily: ""
     notes: |
@@ -1920,6 +1957,7 @@ languages:
 
   malagasy:
     name: "Malagasy"
+    native_name: "Malagasy"
     family: "Austronesian"
     subfamily: ""
     notes: |
@@ -1956,6 +1994,7 @@ languages:
 
   maori:
     name: "Māori"
+    native_name: "Māori"
     family: "Austronesian"
     subfamily: "Polynesian"
     notes: ""
@@ -1991,6 +2030,7 @@ languages:
 
   hawaiian:
     name: "Hawaiian"
+    native_name: "ʻŌlelo Hawaiʻi"
     family: "Austronesian"
     subfamily: "Polynesian"
     notes: |
@@ -2028,6 +2068,7 @@ languages:
 
   cantonese:
     name: "Cantonese"
+    native_name: "粵語"
     family: "Sino-Tibetan"
     subfamily: ""
     notes: ""
@@ -2082,6 +2123,7 @@ languages:
 
   mandarin:
     name: "Mandarin"
+    native_name: "中文"
     family: "Sino-Tibetan"
     subfamily: ""
     notes: ""
@@ -2136,6 +2178,7 @@ languages:
 
   taiwanese:
     name: "Taiwanese / Min Nan"
+    native_name: "臺語"
     family: "Sino-Tibetan"
     subfamily: ""
     notes: ""
@@ -2367,6 +2410,7 @@ languages:
 
   uchinaguchi:
     name: "Uchinaguchi"
+    native_name: "ウチナーグチ"
     alternate_names: ["Okinawan"]
     family: "Japonic"
     subfamily: ""
@@ -2418,6 +2462,7 @@ languages:
 
   ainu:
     name: "Ainu"
+    native_name: "アイヌ イタㇰ"
     family: "language isolate"
     subfamily: ""
     notes: "Totally different from Japanese"
@@ -2448,6 +2493,7 @@ languages:
 
   basque:
     name: "Basque"
+    native_name: "euskara"
     family: "language isolate"
     subfamily: ""
     notes: "Totally different from Spanish, Portuguese, or anything else in Western Europe"
@@ -2540,6 +2586,7 @@ languages:
 
   adyghe:
     name: "Adyghe"
+    native_name: "Адыгэбзэ"
     alternate_names: ["West Circassian", "Adygei"]
     family: "Northwest Caucasian"
     subfamily: ""
@@ -2601,6 +2648,7 @@ languages:
 
   kabardian:
     name: "Kabardian"
+    native_name: "Адыгэбзэ"
     alternate_names: ["East Circassian", "Kabardino-Circassian"]
     family: "Northwest Caucasian"
     subfamily: ""
