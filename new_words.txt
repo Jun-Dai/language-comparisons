@@ -1,0 +1,359 @@
+# Albanian
+
+Mother: nënë
+Father: baba
+Man: burrë
+Woman: grua
+Child: fëmijë
+Grandmother: gjyshe
+Name: emër
+Food: ushqim
+Soup: supë
+Bread: bukë
+House: shtëpi
+Bridge: urë
+Sun: diell
+Moon: hënë
+Cloud: re
+Rain: shi
+Water: ujë
+Fire: zjarr
+Stone: gur
+Tooth: dhëmb
+Nose: hundë
+Eye: sy
+Bird: zog
+Fish: peshk
+Tree: pemë
+Green: gjelbër
+Red: i kuq / e kuqe
+Yellow: i verdhë / e verdhë
+Blue: blu (native alternative: **kaltër**, older/folk term)
+Black: i zi / e zezë
+White: i bardhë / e bardhë
+
+Notes on nativeness:
+
+Many Albanian basic nouns (nënë, baba, burrë, grua, bukë, diell, ujë, gur, sy, zog, peshk, pemë) are inherited Indo-European forms and count as the oldest/native vocabulary.
+
+For colours, older native terms exist:
+
+i kuq (native)
+
+i verdhë (native)
+
+kaltër is the older native term for “blue,” while blu is a more recent international borrowing. I have listed both, with kaltër noted as native.
+
+# Amharic
+
+Mother: enat (እናት)
+Father: abat (አባት)
+Man: səw / wänd (ሰው / ወንድ)
+Woman: səltʼān / səltʼi (ሴት / ሴትኛ)
+Child: lɨjj (ልጅ)
+Grandmother: ětē (እቴ)
+Name: sɨm (ስም)
+Food: məgəb / mɨgɨb (ምግብ)
+Soup: wät (ወጥ)
+Bread: dabo (ዳቦ)
+House: bet (ቤት)
+Bridge: dərəst (ድርሰት)
+Sun: mäṣḥär (መፀሐል) or simply śəḥay (ፀሓይ) — **śəḥay is the common native term**
+Moon: wäräḥ (ወርሃ)
+Cloud: ʿamolə (ዕሞል)
+Rain: zänäb (ዝናብ)
+Water: wəha (ውሃ)
+Fire: ǝsät (እሳት)
+Stone: ḫwäl (ቀዳዳ) — **but “ḫʷäl / ቀለ” is the native simple term for “stone”**
+Tooth: tɨrs (ጥርስ)
+Nose: ɨnf (አንፍ)
+Eye: ʿǝnǝt (ዓይን)
+Bird: wäf (ወፍ)
+Fish: asa (አሳ)
+Tree: zaf (ዛፍ)
+Green: əräṭṭ (አረጋ) — **common term: arängwadäb (አረንጓዴ)**; simplest root: **arägä**  
+Red: qey (ቀይ)
+Yellow: bəčä (ቢጫ)
+Blue: ṣəma (ሰማያዊ) — **basic colour term from “sky”: səmayawī**
+Black: tʼɨkʼur (ጥቁር)
+White: nɛčč (ነጭ)
+
+
+Notes on nativeness
+
+Amharic tends to use inherited Semitic roots; all the terms above are native.
+
+Some colour terms have both a simple root form (qey, nəčč, t’ɨk’ur) and an adjectival derived form (-awī pattern). I provided the basic, oldest roots when applicable.
+
+“Blue” is historically tied to the word for sky (səmāy → səmayawī). The short form səma (ሰማ) appears in traditional contexts; both are natural to list.
+
+
+# Hebrew
+
+Mother: ima (אִמָּא)
+Father: aba (אַבָּא)
+Man: ish (אִישׁ)
+Woman: isha (אִשָּׁה)
+Child: yeled / yalda (יֶלֶד / יַלְדָּה)
+Grandmother: savta (סָבְתָא)
+Name: shem (שֵׁם)
+Food: ochel (אָכֵל / אוֹכֶל)
+Soup: marak (מָרָק)
+Bread: leḥem (לֶחֶם)
+House: bayit (בַּיִת)
+Bridge: gesher (גֶּשֶׁר)
+Sun: shemesh (שֶׁמֶשׁ)
+Moon: yareach (יָרֵחַ)
+Cloud: anan (עָנָן)
+Rain: geshem (גֶּשֶׁם)
+Water: mayim (מַיִם)
+Fire: esh (אֵשׁ)
+Stone: even (אֶבֶן)
+Tooth: shen (שֵׁן)
+Nose: af (אַף)
+Eye: ayin (עַיִן)
+Bird: tzipor (צִפּוֹר)
+Fish: dag (דָּג)
+Tree: etz (עֵץ)
+Green: yarok (יָרוֹק)
+Red: adom (אָדוֹם)
+Yellow: tzahov (צָהוֹב)
+Blue: kachol (כָּחוֹל)
+Black: shakhor (שָׁחוֹר)
+White: lavan (לָבָן)
+
+All of these are native Semitic forms inherited from Biblical or Mishnaic Hebrew.
+
+# Arabic
+
+Mother: umm (أُمّ)
+Father: ab (أَب)
+Man: rajul (رَجُل)
+Woman: imra’a (اِمْرَأَة)
+Child: ṭifl (طِفْل)
+Grandmother: jadda (جَدَّة)
+Name: ism (اِسْم)
+Food: ṭaʿām (طَعَام)
+Soup: shurba (شُرْبَة)
+Bread: khubz (خُبْز)
+House: bayt (بَيْت)
+Bridge: jisr (جِسْر)
+Sun: shams (شَمْس)
+Moon: qamar (قَمَر)
+Cloud: saḥāba (سَحَابَة) or **saḥāb (سَحَاب)** (collective noun)
+Rain: maṭar (مَطَر)
+Water: mā’ (مَاء)
+Fire: nār (نَار)
+Stone: ḥajar (حَجَر)
+Tooth: sinn (سِنّ)
+Nose: anf (أَنْف)
+Eye: ʿayn (عَيْن)
+Bird: ṭā’ir (طَائِر)
+Fish: samak (سَمَك)
+Tree: shajara (شَجَرَة)
+Green: akhḍar (أَخْضَر)
+Red: aḥmar (أَحْمَر)
+Yellow: aṣfar (أَصْفَر)
+Blue: azraq (أَزْرَق)
+Black: aswad (أَسْوَد)
+White: abyaḍ (أَبْيَض)
+
+
+# Basque
+
+Mother: ama
+Father: aita
+Man: gizon
+Woman: emakume
+Child: haur (also ume — both ancient; **haur** is slightly more neutral)
+Grandmother: amona
+Name: izen
+Food: janari
+Soup: zopa (native; though resembles Romance forms, it is well-established and not a recent loan)
+Bread: ogi
+House: etxe
+Bridge: zubi
+Sun: eguzki (also **eguzki/eguzkiazki**, ancient root *eguzki*)
+Moon: ilargi
+Cloud: hodei
+Rain: euri
+Water: ura
+Fire: sua
+Stone: harri
+Tooth: hortz
+Nose: sudur
+Eye: begi
+Bird: txori
+Fish: arrain
+Tree: zuhaitz
+Green: berde (note: this is ultimately Romance in origin; **orlegi** is the older native colour term)
+Red: gorri
+Yellow: hori
+Blue: urdin
+Black: beltz
+White: zuri
+
+
+Notes on nativeness
+
+Most of these are deeply native Basque roots (harri, begi, sua, ogi, etxe, zubi, ume/haur, aita/ama, etc.).
+
+Green is the only colour where the everyday word (berde) is a historical loan; the fully native term is orlegi, which still exists but is less common.
+If you prefer the strictly native term, I can switch to orlegi.
+
+# Brahui
+
+Mother: ammi (امّی)  ← Persian/Urdu influence is universal; no older Dravidian form survives
+Father: appa (اپّا)
+Man: mard (مرد)  ← inherited through long contact; native Dravidian term not preserved
+Woman: zan (زن)  ← same note as above; no surviving native Dravidian root
+Child: młok (ملوک)  ← native Brahui word
+Grandmother: mutta (مٹّا)  ← native Dravidian root
+Name: nāw (ناو)
+Food: khurāk (خوراک)  ← no older native Brahui term survives
+Soup: shorba (شوربہ)  ← loan; used natively
+Bread: rōṭ (روٹ)  ← local form
+House: kōl (کول)  ← native Brahui/Dravidian term
+Bridge: pul (پل)  ← borrowed; no older Dravidian form attested in Brahui
+Sun: giš (گش)  ← native Brahui
+Moon: cānd (چاند)  ← Persian influence; native form not preserved
+Cloud: mud (مود)  ← native Brahui
+Rain: war (ور)  ← native Brahui
+Water: tār (تار)  ← native Brahui root
+Fire: ner (نیر)  ← native Dravidian origin
+Stone: gal (گل)  ← native
+Tooth: patt (پتّ)  ← native Brahui form
+Nose: mūkk (موکّ)  ← Dravidian-origin word
+Eye: kaṇṇ (کنّ)  ← Dravidian origin
+Bird: pappī (پپّی)  ← native
+Fish: mīn (مین)  ← Persian/Indo-Aryan influence; native form lost
+Tree: mar (مر)  ← native Brahui/Dravidian root
+Green: sībz (سبز)  ← Persian-origin; no native Brahui colour term preserved
+Red: surx (سرخ)  ← Persian-origin
+Yellow: zard (زرد)  ← Persian-origin
+Blue: nīl (نیل)  ← Persian-origin (term natively used)
+Black: siyāh (سیاہ)  ← Persian-origin
+White: safēd (سفید)  ← Persian-origin
+
+
+Important Notes on Brahui Vocabulary
+
+Brahui retains native Dravidian grammar, but lexicon is heavily replaced by centuries of contact with Balochi, Persian, and Urdu.
+
+Only some core items (fire, stone, water, eye, nose, tree, grandmother) retain clearly Dravidian origins.
+
+Basic colour terms in Brahui today are almost entirely Persian loans; genuine ancient native colour words are not attested.
+
+# Japanese
+
+Mother: haha (母)
+Father: chichi (父)
+Man: otoko (男)
+Woman: onna (女)
+Child: kodomo (子供)
+Grandmother: sobo (祖母)
+Name: namae (名前)
+Food: tabemono (食べ物)
+Soup: suupu / shiru (スープ / 汁) ← oldest native = shiru (汁)
+Bread: pan (パン) ← loanword; no native term survives
+House: ie (家)
+Bridge: hashi (橋)
+Sun: taiyō / hi (太陽 / 日) ← oldest native is *hi* (日)
+Moon: tsuki (月)
+Cloud: kumo (雲)
+Rain: ame (雨)
+Water: mizu (水)
+Fire: hi (火)
+Stone: ishi (石)
+Tooth: ha (歯)
+Nose: hana (鼻)
+Eye: me (目)
+Bird: tori (鳥)
+Fish: sakana (魚)
+Tree: ki (木)
+Green: midori (緑)
+Red: aka (赤)
+Yellow: kiiro (黄色)
+Blue: ao (青)
+Black: kuro (黒)
+White: shiro (白)
+
+
+# Uchinaaguchi
+
+Mother: umakaa (おまかー)
+Father: uwaa (うわー)
+Man: ushimun / inshumun (うしむん / いんしゅむん) ← “male person”
+Woman: injumun (いんじゅむん) ← “female person”
+Child: warabii (わらびー)
+Grandmother: umakaa / umakaa-baa (おまかー / おまかーばー)
+Name: naa (なー)
+Food: kachii / kajii (かちー / かじー)
+Soup: shiru (しる)
+Bread: pan (ぱん) ← loan; no native Ryukyuan term
+House: yaa (やー)
+Bridge: hashi (はし) ← cognate with Japanese
+Sun: tiida (てぃーだ)
+Moon: chichi / tsukii (ちち / つきー) ← native form = chichi
+Cloud: kumii (くみー)
+Rain: ami (あみ)
+Water: mii (みー)
+Fire: hin / fin (ひん / ふぃん)
+Stone: iishi (いーし)
+Tooth: faa (ふぁー)
+Nose: hana (はな) ← native but cognate with Japanese
+Eye: mi (み)
+Bird: tori (とぅり) ← native Ryukyuan reflex of *tori*
+Fish: wii (ゐー / うぃー)
+Tree: kii (きー)
+Green: miduri (みどぅり) ← inherited; true native older term rarely used today
+Red: akaa (あかー)
+Yellow: chiiraa (ちぃらー)
+Blue: ao / aoi (あお / あおい)
+Black: kuraa (くらー)
+White: shiraa (しらー)
+
+
+(Okinawan Ryukyuan language; kana orthography varies slightly by dialect.
+I use the Shuri-standard hiragana form + romanization.)
+
+(Ryukyuan colour terms are usually reflexes of Proto-Japonic colour roots. Truly distinct Okinawan colour lexemes exist but are archaic; I’ve provided the commonly used native forms.)
+
+# Ainu
+
+Mother: huci (フチ)
+Father: cise-kor-kamuy / ekashi (チセコㇽカムイ / エカㇱ) ← no simple native everyday word; *ekashi* = “old man, elder”
+Man: okkay (オッカイ)
+Woman: menoko (メノコ)
+Child: shupan / shupun (シュパン)
+Grandmother: huci (フチ) ← also means a grandmother-spirited being; same as “mother-elder”
+Name: ainupet / shuma (アイヌペㇷ゚ / シュマ) ← depends on dialect; ainupet = “Ainu-name”
+Food: uhash (ウハㇱ)
+Soup: rakko (ラッコ) ← general “broth, stew”
+Bread: panke / pan (パンケ / パン) ← modern; no traditional bread in Ainu culture
+House: cise (チセ)
+Bridge: piret / piretne (ピレㇳ / ピレㇳネ) ← “passage/ crossing”
+Sun: chise-kor-kamuy / tokap-ikashima-kamuy (チセコㇽカムイ / トカㇷ゚イカシマカムイ) ← mythological; no simple common noun for “sun”
+Moon: moshir-kor-kamuy (モシㇼコㇽカムイ)
+Cloud: kunne-sam (クンネサㇺ)
+Rain: ku (ク)
+Water: wakka (ワッカ)
+Fire: ape (アぺ)
+Stone: isoye (イソㇱ)
+Tooth: sisar (シサㇻ)
+Nose: upas (ウパㇱ)
+Eye: shik (シㇰ)
+Bird: cironnup (チロンヌㇷ゚)
+Fish: cep (チェㇷ゚)
+Tree: nis (ニㇲ)
+Green: poy-ni / nis-poy (ポイニ / ニスポイ) ← descriptive; no single native colour word
+Red: kunne (クンネ) for “dark/blackish-red” / kuper (クペㇻ) for red/yellowish tones
+Yellow: kuper (クペㇻ) ← covers “yellow”
+Blue: sine-puyar (シネプヤㇻ) ← descriptive; no native core word
+Black: kur / kinne (クㇽ / キンネ)
+White: sir-ka (シㇼカ)
+
+
+Ainu colour note:
+
+Ainu does not have basic colour vocabulary in the Indo-European sense. Colours are typically expressed descriptively (e.g., “like snow,” “like darkness,” “like a tree”). I have provided the nearest traditional terms.
