@@ -1,0 +1,8018 @@
+# Numbers 1-10 in Various Languages
+# Extracted from Wikipedia User:Jun-Dai/Linguistics/Numbers_1–10
+
+metadata:
+  title: "Numbers 1-10 in Various Languages"
+  description: |
+    Hypothesis: it is fairly easy to tell how closely or distantly related, or unrelated,
+    two languages are by comparing how they say the numbers from one to nine.
+    Also: the family tree for the term 'zero' will look quite different from the family trees of languages overall.
+  notes: |
+    A lot of people are surprised to find that Northern Indian languages and Southern Indian languages come from
+    entirely different language families, and that Hindi, Persian, and English are related, whereas Tamil, Arabic,
+    and Turkish are unrelated to them as well as to each other. Similarly, that Japanese, Korean, and Chinese are
+    (as far as anyone knows) unrelated languages.
+
+languages:
+  hindi:
+    name: "Hindi"
+    native_name: "हिन्दी"
+    family: "Indo-European"
+    subfamily: "Indo-Iranian"
+    notes: |
+      Hindi and Urdu are considered by linguists to be registers of the same Hindustani language.
+      Note that what we call "Arabic numerals" in English are actually closer to the Hindi numerals here
+      than they are to the ones used in "Arabic". All three systems are related.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sunya"
+            scripts:
+              devanagari_text: "शून्य"
+              devanagari_numeral: "०"
+          "1":
+            primary: "ek"
+            scripts:
+              devanagari_text: "एक"
+              devanagari_numeral: "१"
+          "2":
+            primary: "do"
+            scripts:
+              devanagari_text: "दो"
+              devanagari_numeral: "२"
+          "3":
+            primary: "tin"
+            scripts:
+              devanagari_text: "तीन"
+              devanagari_numeral: "३"
+          "4":
+            primary: "char"
+            scripts:
+              devanagari_text: "चार"
+              devanagari_numeral: "४"
+          "5":
+            primary: "panch"
+            scripts:
+              devanagari_text: "पांच"
+              devanagari_numeral: "५"
+          "6":
+            primary: "chah"
+            scripts:
+              devanagari_text: "छह"
+              devanagari_numeral: "६"
+          "7":
+            primary: "sat"
+            scripts:
+              devanagari_text: "सात"
+              devanagari_numeral: "७"
+          "8":
+            primary: "ath"
+            scripts:
+              devanagari_text: "आठ"
+              devanagari_numeral: "८"
+          "9":
+            primary: "nau"
+            scripts:
+              devanagari_text: "नौ"
+              devanagari_numeral: "९"
+          "10":
+            primary: "das"
+            scripts:
+              devanagari_text: "दस"
+              devanagari_numeral: "१०"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "pakṣī"
+        alternates: ["cidiyā̃"]
+        scripts:
+          native: "पक्षी / चिड़िया"
+      black:
+        primary: "kālā"
+        scripts:
+          native: "काला"
+      blue:
+        primary: "nīlā"
+        scripts:
+          native: "नीला"
+      bread:
+        primary: "roṭī"
+        scripts:
+          native: "रोटी"
+      bridge:
+        primary: "pul"
+        scripts:
+          native: "पुल"
+      child:
+        primary: "bacchā"
+        scripts:
+          native: "बच्चा"
+      cloud:
+        primary: "baadal"
+        scripts:
+          native: "बादल"
+      eye:
+        primary: "ā̃kh"
+        scripts:
+          native: "आँख"
+      father:
+        primary: "pitā"
+        scripts:
+          native: "पिता"
+      fire:
+        primary: "āg"
+        scripts:
+          native: "आग"
+      fish:
+        primary: "machlī"
+        scripts:
+          native: "मछली"
+      food:
+        primary: "khānā"
+        scripts:
+          native: "खाना"
+      grandmother:
+        primary: "dādī"
+        alternates: ["nānī"]
+        scripts:
+          native: "दादी / नानी"
+      green:
+        primary: "harā"
+        scripts:
+          native: "हरा"
+      house:
+        primary: "ghar"
+        scripts:
+          native: "घर"
+      man:
+        primary: "ādmī"
+        scripts:
+          native: "आदमी"
+      moon:
+        primary: "candra"
+        alternates: ["cā̃d"]
+        scripts:
+          native: "चन्द्र / चाँद"
+      mother:
+        primary: "mā̃"
+        scripts:
+          native: "माँ"
+      name:
+        primary: "nām"
+        scripts:
+          native: "नाम"
+      nose:
+        primary: "nāk"
+        scripts:
+          native: "नाक"
+      rain:
+        primary: "bāriś"
+        scripts:
+          native: "बारिश"
+      red:
+        primary: "lāl"
+        scripts:
+          native: "लाल"
+      soup:
+        primary: "sūp"
+        scripts:
+          native: "सूप"
+      stone:
+        primary: "patthar"
+        scripts:
+          native: "पत्थर"
+      sun:
+        primary: "sūrya"
+        scripts:
+          native: "सूर्य"
+      tooth:
+        primary: "dā̃t"
+        scripts:
+          native: "दाँत"
+      tree:
+        primary: "ped"
+        scripts:
+          native: "पेड़"
+      water:
+        primary: "pānī"
+        scripts:
+          native: "पानी"
+      white:
+        primary: "safed"
+        scripts:
+          native: "सफ़ेद"
+      woman:
+        primary: "aurat"
+        scripts:
+          native: "औरत"
+      yellow:
+        primary: "pīlā"
+        scripts:
+          native: "पीला"
+  urdu:
+    name: "Urdu"
+    native_name: "اُردُو"
+    family: "Indo-European"
+    subfamily: "Indo-Iranian"
+    notes: |
+      Urdu and Hindi are considered by linguists to be registers of the same Hindustani language,
+      even though Hindi is written using Devanagari and Urdu is written using an Arabic script.
+      Also, despite all the words borrowed from Arabic through Persian, the Hindustani language
+      comes from Vedic Sanskrit.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sifar"
+            scripts:
+              arabic_text: "صفر"
+              arabic_numeral: "۰"
+          "1":
+            primary: "ek"
+            scripts:
+              arabic_text: "ایک"
+              arabic_numeral: "۱"
+          "2":
+            primary: "do"
+            scripts:
+              arabic_text: "دو"
+              arabic_numeral: "۲"
+          "3":
+            primary: "tin"
+            scripts:
+              arabic_text: "تین"
+              arabic_numeral: "۳"
+          "4":
+            primary: "char"
+            scripts:
+              arabic_text: "چار"
+              arabic_numeral: "۴"
+          "5":
+            primary: "panch"
+            scripts:
+              arabic_text: "پانچ"
+              arabic_numeral: "۵"
+          "6":
+            primary: "chhah"
+            scripts:
+              arabic_text: "چھ"
+              arabic_numeral: "۶"
+          "7":
+            primary: "sat"
+            scripts:
+              arabic_text: "سات"
+              arabic_numeral: "۷"
+          "8":
+            primary: "ath"
+            scripts:
+              arabic_text: "آٹھ"
+              arabic_numeral: "۸"
+          "9":
+            primary: "nau"
+            scripts:
+              arabic_text: "نو"
+              arabic_numeral: "۹"
+          "10":
+            primary: "das"
+            scripts:
+              arabic_text: "دس"
+              arabic_numeral: "۱۰"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "parinda"
+        scripts:
+          native: "پرندہ"
+      black:
+        primary: "kālā"
+        scripts:
+          native: "کالا"
+      blue:
+        primary: "nīlā"
+        scripts:
+          native: "نیلا"
+      bread:
+        primary: "roṭī"
+        scripts:
+          native: "روٹی"
+      bridge:
+        primary: "pul"
+        scripts:
+          native: "پل"
+      child:
+        primary: "baccā"
+        scripts:
+          native: "بچہ"
+      cloud:
+        primary: "bādal"
+        scripts:
+          native: "بادل"
+      eye:
+        primary: "ā̃kh"
+        scripts:
+          native: "آنکھ"
+      father:
+        primary: "bāp"
+        scripts:
+          native: "باپ"
+      fire:
+        primary: "āg"
+        scripts:
+          native: "آگ"
+      fish:
+        primary: "machhlī"
+        scripts:
+          native: "مچھلی"
+      food:
+        primary: "khānā"
+        scripts:
+          native: "کھانا"
+      grandmother:
+        primary: "dādī"
+        alternates: ["nānī"]
+        scripts:
+          native: "دادی / نانی"
+      green:
+        primary: "sabz"
+        scripts:
+          native: "سبز"
+      house:
+        primary: "ghar"
+        scripts:
+          native: "گھر"
+      man:
+        primary: "mard"
+        scripts:
+          native: "مرد"
+      moon:
+        primary: "cā̃d"
+        scripts:
+          native: "چاند"
+      mother:
+        primary: "mā̃"
+        scripts:
+          native: "ماں"
+      name:
+        primary: "nām"
+        scripts:
+          native: "نام"
+      nose:
+        primary: "nāk"
+        scripts:
+          native: "ناک"
+      rain:
+        primary: "bāriś"
+        scripts:
+          native: "بارش"
+      red:
+        primary: "laal"
+        scripts:
+          native: "لال"
+      soup:
+        primary: "sūp"
+        scripts:
+          native: "سوپ"
+      stone:
+        primary: "patthar"
+        scripts:
+          native: "پتھر"
+      sun:
+        primary: "sūraj"
+        scripts:
+          native: "سورج"
+      tooth:
+        primary: "dā̃t"
+        scripts:
+          native: "دانت"
+      tree:
+        primary: "darakht"
+        scripts:
+          native: "درخت"
+      water:
+        primary: "pānī"
+        scripts:
+          native: "پانی"
+      white:
+        primary: "safed"
+        scripts:
+          native: "سفید"
+      woman:
+        primary: "aurat"
+        scripts:
+          native: "عورت"
+      yellow:
+        primary: "pīlā"
+        scripts:
+          native: "پیلا"
+  farsi:
+    name: "Farsi"
+    native_name: "فارسی"
+    alternate_names: ["Persian"]
+    family: "Indo-European"
+    subfamily: "Indo-Iranian"
+    notes: |
+      AKA, Persian. Despite using a variant of the Arabic script, Persian and Arabic are considered
+      unrelated languages — they have borrowed lots of words from each other, but they come from very
+      different origins, which you can see here with these numbers, which were one of the inspirations
+      for this page, along with Maltese. You can see that Farsi numbers are very closely related to
+      numbers in Hindi/Urdu. But the written numerals are basically the same as in Urdu and Arabic
+      and very different from Hindi.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sefr"
+            scripts:
+              arabic_text: "صفر"
+              arabic_numeral: "۰"
+          "1":
+            primary: "yek"
+            scripts:
+              arabic_text: "یک"
+              arabic_numeral: "۱"
+          "2":
+            primary: "do"
+            scripts:
+              arabic_text: "دو"
+              arabic_numeral: "۲"
+          "3":
+            primary: "se"
+            scripts:
+              arabic_text: "سه"
+              arabic_numeral: "۳"
+          "4":
+            primary: "chahâr"
+            scripts:
+              arabic_text: "چهار"
+              arabic_numeral: "۴"
+          "5":
+            primary: "panj"
+            scripts:
+              arabic_text: "پنج"
+              arabic_numeral: "۵"
+          "6":
+            primary: "shesh"
+            scripts:
+              arabic_text: "شش"
+              arabic_numeral: "۶"
+          "7":
+            primary: "haft"
+            scripts:
+              arabic_text: "هفت"
+              arabic_numeral: "۷"
+          "8":
+            primary: "hasht"
+            scripts:
+              arabic_text: "هشت"
+              arabic_numeral: "۸"
+          "9":
+            primary: "noh"
+            scripts:
+              arabic_text: "نه"
+              arabic_numeral: "۹"
+          "10":
+            primary: "dah"
+            scripts:
+              arabic_text: "ده"
+              arabic_numeral: "۱۰"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "parandeh (پرنده)"
+        notes: "basic noun: *morgh-e hava* is archaic"
+      black:
+        primary: "siâh"
+        scripts:
+          native: "سیاه"
+      blue:
+        primary: "âbi"
+        scripts:
+          native: "آبی"
+      bread:
+        primary: "nân"
+        scripts:
+          native: "نان"
+      bridge:
+        primary: "pol"
+        scripts:
+          native: "پل"
+      child:
+        primary: "bachche"
+        alternates: ["kudak"]
+        scripts:
+          native: "بچه / کودک"
+      cloud:
+        primary: "abr"
+        scripts:
+          native: "ابر"
+      eye:
+        primary: "cheshm"
+        scripts:
+          native: "چشم"
+      father:
+        primary: "pedar"
+        scripts:
+          native: "پدر"
+      fire:
+        primary: "âtash"
+        scripts:
+          native: "آتش"
+      fish:
+        primary: "mahi"
+        scripts:
+          native: "ماهی"
+      food:
+        primary: "ghazâ"
+        scripts:
+          native: "غذا"
+      grandmother:
+        primary: "مادربزرگ"
+        scripts:
+          native: "mâdar-bozorg"
+      green:
+        primary: "sabz"
+        scripts:
+          native: "سبز"
+      house:
+        primary: "khâne"
+        scripts:
+          native: "خانه"
+      man:
+        primary: "mard"
+        scripts:
+          native: "مرد"
+      moon:
+        primary: "mâh"
+        scripts:
+          native: "ماه"
+      mother:
+        primary: "mâdar"
+        scripts:
+          native: "مادر"
+      name:
+        primary: "nâm"
+        scripts:
+          native: "نام"
+      nose:
+        primary: "bini"
+        scripts:
+          native: "بینی"
+      rain:
+        primary: "bârun (بارون) / bârandegi (بارندگی)"
+        notes: "bârun = colloquial native word"
+      red:
+        primary: "ghermez"
+        alternates: ["sorx (قرمز", "سرخ)"]
+        notes: "**sorx** is the older native form"
+      soup:
+        primary: "âsh (آش)"
+        notes: "native, very old Persian term"
+      stone:
+        primary: "sang"
+        scripts:
+          native: "سنگ"
+      sun:
+        primary: "khorshid"
+        scripts:
+          native: "خورشید"
+      tooth:
+        primary: "dandân"
+        scripts:
+          native: "دندان"
+      tree:
+        primary: "derakht"
+        scripts:
+          native: "درخت"
+      water:
+        primary: "âb"
+        scripts:
+          native: "آب"
+      white:
+        primary: "sefid"
+        scripts:
+          native: "سفید"
+      woman:
+        primary: "zan"
+        scripts:
+          native: "زن"
+      yellow:
+        primary: "zard"
+        scripts:
+          native: "زرد"
+  pashto:
+    name: "Pashto"
+    native_name: "پښتو"
+    family: "Indo-European"
+    subfamily: "Indo-Iranian"
+    notes: |
+      An Eastern-Iranian language. Clearly related to Farsi and Hindi/Urdu, but interestingly
+      it is farther from either than they are to each other, despite the geographical location.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sifer"
+            scripts:
+              arabic_text: "صفر"
+              arabic_numeral: "٠"
+          "1":
+            primary: "yaw"
+            scripts:
+              arabic_text: "يو"
+              arabic_numeral: "١"
+          "2":
+            primary: "dwa"
+            scripts:
+              arabic_text: "دؤه"
+              arabic_numeral: "٢"
+          "3":
+            primary: "dray"
+            scripts:
+              arabic_text: "درے"
+              arabic_numeral: "٣"
+          "4":
+            primary: "celour"
+            scripts:
+              arabic_text: "څلور"
+              arabic_numeral: "٤"
+          "5":
+            primary: "penza"
+            scripts:
+              arabic_text: "پنځه"
+              arabic_numeral: "٥"
+          "6":
+            primary: "shpeg"
+            scripts:
+              arabic_text: "شپږ"
+              arabic_numeral: "٦"
+          "7":
+            primary: "owa"
+            scripts:
+              arabic_text: "أوؤه"
+              arabic_numeral: "٧"
+          "8":
+            primary: "ata"
+            scripts:
+              arabic_text: "أته"
+              arabic_numeral: "٨"
+          "9":
+            primary: "naha"
+            scripts:
+              arabic_text: "نهه"
+              arabic_numeral: "٩"
+          "10":
+            primary: "las"
+            scripts:
+              arabic_text: "لس"
+              arabic_numeral: "١٠"
+    references:
+      - "https://blogs.transparent.com/pashto/pashto-numbers-1-20-with-video/"
+      - "https://omniglot.com/language/numbers/pashto.htm"
+      - "http://mylanguages.org/pashto_numbers.php"
+      - "https://polyglotclub.com/wiki/Language/Central-pashto/Vocabulary/Numbers"
+
+
+    vocabulary:
+      bird:
+        primary: "مرغه"
+        scripts:
+          native: "margha"
+      black:
+        primary: "تور"
+        scripts:
+          native: "tor"
+      blue:
+        primary: "آبي"
+        alternates: ["شین آبي"]
+        scripts:
+          native: "ābi"
+      bread:
+        primary: "ډوډۍ"
+        scripts:
+          native: "doḍai"
+      bridge:
+        primary: "پُل"
+        scripts:
+          native: "pul"
+      child:
+        primary: "ماشوم"
+        scripts:
+          native: "māshoom"
+      cloud:
+        primary: "وريځ"
+        scripts:
+          native: "wreezh"
+      eye:
+        primary: "سترګه"
+        scripts:
+          native: "starga"
+      father:
+        primary: "plār"
+        scripts:
+          native: "پلار"
+      fire:
+        primary: "اور"
+        scripts:
+          native: "or"
+      fish:
+        primary: "ماهی"
+        alternates: ["کب"]
+        scripts:
+          native: "māhi / kab"
+      food:
+        primary: "خواړه"
+        scripts:
+          native: "khwāṛa"
+      grandmother:
+        primary: "انا"
+        scripts:
+          native: "ana"
+      green:
+        primary: "شین"
+        scripts:
+          native: "sheen"
+      house:
+        primary: "کور"
+        scripts:
+          native: "kor"
+      man:
+        primary: "سړی"
+        scripts:
+          native: "saṛay"
+      moon:
+        primary: "سپوږمۍ"
+        scripts:
+          native: "spogmai"
+      mother:
+        primary: "mor"
+        scripts:
+          native: "مور"
+      name:
+        primary: "نوم"
+        scripts:
+          native: "noom"
+      nose:
+        primary: "پوزه"
+        scripts:
+          native: "poza"
+      rain:
+        primary: "باران"
+        scripts:
+          native: "bārān"
+      red:
+        primary: "سور"
+        scripts:
+          native: "sor"
+      soup:
+        primary: "شوروا"
+        scripts:
+          native: "shorwa"
+      stone:
+        primary: "ډبره"
+        scripts:
+          native: "dabrah"
+      sun:
+        primary: "لمر"
+        scripts:
+          native: "ləmar"
+      tooth:
+        primary: "غاښ"
+        scripts:
+          native: "ghākh"
+      tree:
+        primary: "ونه"
+        scripts:
+          native: "wəna"
+      water:
+        primary: "اوبه"
+        scripts:
+          native: "oba"
+      white:
+        primary: "سپین"
+        scripts:
+          native: "spin"
+      woman:
+        primary: "ښځه"
+        scripts:
+          native: "khaza"
+      yellow:
+        primary: "ژیړ"
+        scripts:
+          native: "zheer"
+  english:
+    name: "English"
+    native_name: "English"
+    family: "Indo-European"
+    subfamily: "Germanic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "one"
+          "2":
+            primary: "two"
+          "3":
+            primary: "three"
+          "4":
+            primary: "four"
+          "5":
+            primary: "five"
+          "6":
+            primary: "six"
+          "7":
+            primary: "seven"
+          "8":
+            primary: "eight"
+          "9":
+            primary: "nine"
+          "10":
+            primary: "ten"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "bird"
+      black:
+        primary: "black"
+      blue:
+        primary: "blue"
+      bread:
+        primary: "bread"
+      bridge:
+        primary: "bridge"
+      child:
+        primary: "child"
+      cloud:
+        primary: "cloud"
+      eye:
+        primary: "eye"
+      father:
+        primary: "father"
+      fire:
+        primary: "fire"
+      fish:
+        primary: "fish"
+      food:
+        primary: "food"
+      grandmother:
+        primary: "grandmother"
+      green:
+        primary: "green"
+      house:
+        primary: "house"
+      man:
+        primary: "man"
+      moon:
+        primary: "moon"
+      mother:
+        primary: "mother"
+      name:
+        primary: "name"
+      nose:
+        primary: "nose"
+      rain:
+        primary: "rain"
+      red:
+        primary: "red"
+      soup:
+        primary: "soup"
+      stone:
+        primary: "stone"
+      sun:
+        primary: "sun"
+      tooth:
+        primary: "tooth"
+      tree:
+        primary: "tree"
+      water:
+        primary: "water"
+      white:
+        primary: "white"
+      woman:
+        primary: "woman"
+      yellow:
+        primary: "yellow"
+  german:
+    name: "German"
+    native_name: "Deutsch"
+    family: "Indo-European"
+    subfamily: "Germanic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "null"
+          "1":
+            primary: "eins"
+          "2":
+            primary: "zwei"
+          "3":
+            primary: "drei"
+          "4":
+            primary: "vier"
+          "5":
+            primary: "fünf"
+          "6":
+            primary: "sechs"
+          "7":
+            primary: "sieben"
+          "8":
+            primary: "acht"
+          "9":
+            primary: "neun"
+          "10":
+            primary: "zehn"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "Vogel"
+      black:
+        primary: "schwarz"
+      blue:
+        primary: "blau"
+      bread:
+        primary: "Brot"
+      bridge:
+        primary: "Brücke"
+      child:
+        primary: "Kind"
+      cloud:
+        primary: "Wolke"
+      eye:
+        primary: "Auge"
+      father:
+        primary: "Vater"
+      fire:
+        primary: "Feuer"
+      fish:
+        primary: "Fisch"
+      food:
+        primary: "Essen"
+      grandmother:
+        primary: "Großmutter"
+        alternates: ["Oma"]
+      green:
+        primary: "grün"
+      house:
+        primary: "Haus"
+      man:
+        primary: "Mann"
+      moon:
+        primary: "Mond"
+      mother:
+        primary: "Mutter"
+      name:
+        primary: "Name"
+      nose:
+        primary: "Nase"
+      rain:
+        primary: "Regen"
+      red:
+        primary: "rot"
+      soup:
+        primary: "Suppe"
+      stone:
+        primary: "Stein"
+      sun:
+        primary: "Sonne"
+      tooth:
+        primary: "Zahn"
+      tree:
+        primary: "Baum"
+      water:
+        primary: "Wasser"
+      white:
+        primary: "weiß"
+      woman:
+        primary: "Frau"
+      yellow:
+        primary: "gelb"
+  latin:
+    name: "Latin"
+    native_name: "lingua Latīna"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "unus"
+            scripts:
+              roman_numeral: "I"
+          "2":
+            primary: "duo"
+            scripts:
+              roman_numeral: "II"
+          "3":
+            primary: "tres"
+            scripts:
+              roman_numeral: "III"
+          "4":
+            primary: "quattuor"
+            scripts:
+              roman_numeral: "IV"
+          "5":
+            primary: "quinque"
+            scripts:
+              roman_numeral: "V"
+          "6":
+            primary: "sex"
+            scripts:
+              roman_numeral: "VI"
+          "7":
+            primary: "septem"
+            scripts:
+              roman_numeral: "VII"
+          "8":
+            primary: "octo"
+            scripts:
+              roman_numeral: "VIII"
+          "9":
+            primary: "novem"
+            scripts:
+              roman_numeral: "IX"
+          "10":
+            primary: "decem"
+            scripts:
+              roman_numeral: "X"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-latin/en/lat/"
+      - "https://blogs.transparent.com/latin/latin-numbers-1-100/"
+      - "https://polyglotclub.com/wiki/Language/Latin/Vocabulary/Count-from-1-to-10"
+      - "https://linguaholic.com/topic/3251-latin-numerals-cardinal-numbers-1-1000/"
+      - "https://omniglot.com/language/numbers/latin.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "avis"
+      black:
+        primary: "niger"
+      blue:
+        primary: "caeruleus"
+      bread:
+        primary: "pānis"
+      bridge:
+        primary: "pons"
+      child:
+        primary: "puer"
+        alternates: ["puella"]
+      cloud:
+        primary: "nūbēs"
+      eye:
+        primary: "oculus"
+      father:
+        primary: "pater"
+      fire:
+        primary: "ignis"
+      fish:
+        primary: "piscis"
+      food:
+        primary: "cibus"
+      grandmother:
+        primary: "avia"
+      green:
+        primary: "viridis"
+      house:
+        primary: "domus"
+      man:
+        primary: "vir"
+      moon:
+        primary: "lūna"
+      mother:
+        primary: "māter"
+      name:
+        primary: "nōmen"
+      nose:
+        primary: "nāsus"
+      rain:
+        primary: "pluvia"
+        alternates: ["imber"]
+      red:
+        primary: "rūber"
+      soup:
+        primary: "iūs"
+        alternates: ["iusculum"]
+      stone:
+        primary: "lapis"
+      sun:
+        primary: "sōl"
+      tooth:
+        primary: "dēns"
+      tree:
+        primary: "arbor"
+      water:
+        primary: "aqua"
+      white:
+        primary: "albus"
+      woman:
+        primary: "fēmina"
+      yellow:
+        primary: "flāvus"
+  french:
+    name: "French"
+    native_name: "français"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zéro"
+          "1":
+            primary: "un"
+          "2":
+            primary: "deux"
+          "3":
+            primary: "trois"
+          "4":
+            primary: "quatre"
+          "5":
+            primary: "cinq"
+          "6":
+            primary: "six"
+          "7":
+            primary: "sept"
+          "8":
+            primary: "huit"
+          "9":
+            primary: "neuf"
+          "10":
+            primary: "dix"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "oiseau"
+      black:
+        primary: "noir"
+      blue:
+        primary: "bleu"
+      bread:
+        primary: "pain"
+      bridge:
+        primary: "pont"
+      child:
+        primary: "enfant"
+      cloud:
+        primary: "nuage"
+      eye:
+        primary: "œil"
+      father:
+        primary: "père"
+      fire:
+        primary: "feu"
+      fish:
+        primary: "poisson"
+      food:
+        primary: "nourriture"
+      grandmother:
+        primary: "grand-mère"
+      green:
+        primary: "vert"
+      house:
+        primary: "maison"
+      man:
+        primary: "homme"
+      moon:
+        primary: "lune"
+      mother:
+        primary: "mère"
+      name:
+        primary: "nom"
+      nose:
+        primary: "nez"
+      rain:
+        primary: "pluie"
+      red:
+        primary: "rouge"
+      soup:
+        primary: "soupe"
+      stone:
+        primary: "pierre"
+      sun:
+        primary: "soleil"
+      tooth:
+        primary: "dent"
+      tree:
+        primary: "arbre"
+      water:
+        primary: "eau"
+      white:
+        primary: "blanc"
+      woman:
+        primary: "femme"
+      yellow:
+        primary: "jaune"
+  catalan:
+    name: "Catalan"
+    native_name: "català"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "un"
+          "2":
+            primary: "dos"
+          "3":
+            primary: "tres"
+          "4":
+            primary: "quatre"
+          "5":
+            primary: "cinc"
+          "6":
+            primary: "sis"
+          "7":
+            primary: "set"
+          "8":
+            primary: "vuit"
+          "9":
+            primary: "nou"
+          "10":
+            primary: "deu"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "ocell"
+      black:
+        primary: "negre"
+      blue:
+        primary: "blau"
+      bread:
+        primary: "pa"
+      bridge:
+        primary: "pont"
+      child:
+        primary: "nen"
+        alternates: ["nena"]
+      cloud:
+        primary: "núvol"
+      eye:
+        primary: "ull"
+      father:
+        primary: "pare"
+      fire:
+        primary: "foc"
+      fish:
+        primary: "peix"
+      food:
+        primary: "menjar"
+      grandmother:
+        primary: "àvia"
+      green:
+        primary: "verd"
+      house:
+        primary: "casa"
+      man:
+        primary: "home"
+      moon:
+        primary: "lluna"
+      mother:
+        primary: "mare"
+      name:
+        primary: "nom"
+      nose:
+        primary: "nas"
+      rain:
+        primary: "pluja"
+      red:
+        primary: "vermell"
+      soup:
+        primary: "sopa"
+      stone:
+        primary: "pedra"
+      sun:
+        primary: "sol"
+      tooth:
+        primary: "dent"
+      tree:
+        primary: "arbre"
+      water:
+        primary: "aigua"
+      white:
+        primary: "blanc"
+      woman:
+        primary: "dona"
+      yellow:
+        primary: "groc"
+  spanish:
+    name: "Spanish"
+    native_name: "español"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "cero"
+          "1":
+            primary: "uno"
+          "2":
+            primary: "dos"
+          "3":
+            primary: "tres"
+          "4":
+            primary: "cuatro"
+          "5":
+            primary: "cinco"
+          "6":
+            primary: "seis"
+          "7":
+            primary: "siete"
+          "8":
+            primary: "ocho"
+          "9":
+            primary: "nueve"
+          "10":
+            primary: "diez"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "pájaro"
+      black:
+        primary: "negro"
+      blue:
+        primary: "azul"
+      bread:
+        primary: "pan"
+      bridge:
+        primary: "puente"
+      child:
+        primary: "niño"
+        alternates: ["niña"]
+      cloud:
+        primary: "nube"
+      eye:
+        primary: "ojo"
+      father:
+        primary: "padre"
+      fire:
+        primary: "fuego"
+      fish:
+        primary: "pez"
+      food:
+        primary: "comida"
+      grandmother:
+        primary: "abuela"
+      green:
+        primary: "verde"
+      house:
+        primary: "casa"
+      man:
+        primary: "hombre"
+      moon:
+        primary: "luna"
+      mother:
+        primary: "madre"
+      name:
+        primary: "nombre"
+      nose:
+        primary: "nariz"
+      rain:
+        primary: "lluvia"
+      red:
+        primary: "rojo"
+      soup:
+        primary: "sopa"
+      stone:
+        primary: "piedra"
+      sun:
+        primary: "sol"
+      tooth:
+        primary: "diente"
+      tree:
+        primary: "árbol"
+      water:
+        primary: "agua"
+      white:
+        primary: "blanco"
+      woman:
+        primary: "mujer"
+      yellow:
+        primary: "amarillo"
+  aragonese:
+    name: "Aragonese"
+    native_name: "aragonés"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "un"
+          "2":
+            primary: "dos"
+          "3":
+            primary: "tres"
+          "4":
+            primary: "quatre"
+          "5":
+            primary: "cinc"
+          "6":
+            primary: "seis"
+          "7":
+            primary: "siet"
+          "8":
+            primary: "ueit"
+          "9":
+            primary: "nueu"
+          "10":
+            primary: "diez"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "paxaro"
+      black:
+        primary: "negro"
+      blue:
+        primary: "blau"
+      bread:
+        primary: "pan"
+      bridge:
+        primary: "puente"
+      child:
+        primary: "maino"
+        alternates: ["nin"]
+        scripts:
+          native: "both native; “maino” more traditional"
+      cloud:
+        primary: "nublo"
+      eye:
+        primary: "uello (uel)"
+        notes: "“eye”"
+      father:
+        primary: "pai"
+      fire:
+        primary: "fuego"
+        alternates: ["fuogo"]
+        scripts:
+          native: "fuogo = older form"
+      fish:
+        primary: "peix"
+      food:
+        primary: "comida"
+      grandmother:
+        primary: "güela"
+      green:
+        primary: "berd"
+        alternates: ["verde"]
+        scripts:
+          native: "older form: **berd**"
+      house:
+        primary: "casa"
+      man:
+        primary: "hombre"
+      moon:
+        primary: "luna"
+      mother:
+        primary: "mai"
+      name:
+        primary: "nombre"
+      nose:
+        primary: "nas"
+      rain:
+        primary: "pllou"
+      red:
+        primary: "bermejo"
+        alternates: ["royo"]
+        scripts:
+          native: "native: **royo**"
+      soup:
+        primary: "sopa"
+      stone:
+        primary: "piedra"
+      sun:
+        primary: "sol"
+      tooth:
+        primary: "dent"
+      tree:
+        primary: "arbre"
+      water:
+        primary: "aigua"
+      white:
+        primary: "blanco"
+      woman:
+        primary: "muller"
+      yellow:
+        primary: "amarillo"
+  galician:
+    name: "Galician"
+    native_name: "galego"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "cero"
+          "1":
+            primary: "un"
+          "2":
+            primary: "dous"
+          "3":
+            primary: "tres"
+          "4":
+            primary: "catro"
+          "5":
+            primary: "cinco"
+          "6":
+            primary: "seis"
+          "7":
+            primary: "sete"
+          "8":
+            primary: "oito"
+          "9":
+            primary: "nove"
+          "10":
+            primary: "dez"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "paxaro"
+      black:
+        primary: "negro"
+      blue:
+        primary: "azul"
+      bread:
+        primary: "pan"
+      bridge:
+        primary: "ponte"
+      child:
+        primary: "neno"
+        alternates: ["nena"]
+      cloud:
+        primary: "nube"
+      eye:
+        primary: "ollo"
+      father:
+        primary: "pai"
+      fire:
+        primary: "lume"
+      fish:
+        primary: "peixe"
+      food:
+        primary: "comida"
+      grandmother:
+        primary: "avoa"
+      green:
+        primary: "verde"
+      house:
+        primary: "casa"
+      man:
+        primary: "home"
+      moon:
+        primary: "lúa"
+      mother:
+        primary: "nai"
+      name:
+        primary: "nome"
+      nose:
+        primary: "nariz"
+      rain:
+        primary: "chuva"
+        alternates: ["choiva"]
+        scripts:
+          native: "choiva = more native Galician"
+      red:
+        primary: "vermello"
+      soup:
+        primary: "sopa"
+      stone:
+        primary: "pedra"
+      sun:
+        primary: "sol"
+      tooth:
+        primary: "dente"
+      tree:
+        primary: "árbore"
+      water:
+        primary: "auga"
+      white:
+        primary: "branco"
+      woman:
+        primary: "muller"
+      yellow:
+        primary: "amarelo"
+  portuguese:
+    name: "Portuguese"
+    native_name: "português"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "um"
+          "2":
+            primary: "dois"
+          "3":
+            primary: "três"
+          "4":
+            primary: "quatro"
+          "5":
+            primary: "cinco"
+          "6":
+            primary: "seis"
+          "7":
+            primary: "sete"
+          "8":
+            primary: "oito"
+          "9":
+            primary: "nove"
+          "10":
+            primary: "dez"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "pássaro"
+      black:
+        primary: "preto"
+      blue:
+        primary: "azul"
+      bread:
+        primary: "pão"
+      bridge:
+        primary: "ponte"
+      child:
+        primary: "criança"
+      cloud:
+        primary: "nuvem"
+      eye:
+        primary: "olho"
+      father:
+        primary: "pai"
+      fire:
+        primary: "fogo"
+      fish:
+        primary: "peixe"
+      food:
+        primary: "comida"
+      grandmother:
+        primary: "avó"
+      green:
+        primary: "verde"
+      house:
+        primary: "casa"
+      man:
+        primary: "homem"
+      moon:
+        primary: "lua"
+      mother:
+        primary: "mãe"
+      name:
+        primary: "nome"
+      nose:
+        primary: "nariz"
+      rain:
+        primary: "chuva"
+      red:
+        primary: "vermelho"
+      soup:
+        primary: "sopa"
+      stone:
+        primary: "pedra"
+      sun:
+        primary: "sol"
+      tooth:
+        primary: "dente"
+      tree:
+        primary: "árvore"
+      water:
+        primary: "água"
+      white:
+        primary: "branco"
+      woman:
+        primary: "mulher"
+      yellow:
+        primary: "amarelo"
+  italian:
+    name: "Italian"
+    native_name: "italiano"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "uno"
+          "2":
+            primary: "due"
+          "3":
+            primary: "tre"
+          "4":
+            primary: "quattro"
+          "5":
+            primary: "cinque"
+          "6":
+            primary: "sei"
+          "7":
+            primary: "sette"
+          "8":
+            primary: "otto"
+          "9":
+            primary: "nove"
+          "10":
+            primary: "dieci"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "uccello"
+      black:
+        primary: "nero"
+      blue:
+        primary: "blu"
+        alternates: ["azzurro"]
+      bread:
+        primary: "pane"
+      bridge:
+        primary: "ponte"
+      child:
+        primary: "bambino"
+        alternates: ["bambina"]
+      cloud:
+        primary: "nuvola"
+      eye:
+        primary: "occhio"
+      father:
+        primary: "padre"
+      fire:
+        primary: "fuoco"
+      fish:
+        primary: "pesce"
+      food:
+        primary: "cibo"
+      grandmother:
+        primary: "nonna"
+      green:
+        primary: "verde"
+      house:
+        primary: "casa"
+      man:
+        primary: "uomo"
+      moon:
+        primary: "luna"
+      mother:
+        primary: "madre"
+      name:
+        primary: "nome"
+      nose:
+        primary: "naso"
+      rain:
+        primary: "pioggia"
+      red:
+        primary: "rosso"
+      soup:
+        primary: "zuppa"
+      stone:
+        primary: "pietra"
+      sun:
+        primary: "sole"
+      tooth:
+        primary: "dente"
+      tree:
+        primary: "albero"
+      water:
+        primary: "acqua"
+      white:
+        primary: "bianco"
+      woman:
+        primary: "donna"
+      yellow:
+        primary: "giallo"
+  romanian:
+    name: "Romanian"
+    native_name: "română"
+    family: "Indo-European"
+    subfamily: "Italic"
+    notes: |
+      Despite being geographically surrounded by Slavic languages and Hungary, Romanian is clearly
+      a Romance language and related to Italian.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "unu"
+          "2":
+            primary: "doi"
+          "3":
+            primary: "trei"
+          "4":
+            primary: "patru"
+          "5":
+            primary: "cinci"
+          "6":
+            primary: "șase"
+          "7":
+            primary: "șapte"
+          "8":
+            primary: "opt"
+          "9":
+            primary: "nouă"
+          "10":
+            primary: "zece"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "pasăre"
+      black:
+        primary: "negru"
+      blue:
+        primary: "albastru"
+      bread:
+        primary: "pâine"
+      bridge:
+        primary: "pod"
+      child:
+        primary: "copil"
+      cloud:
+        primary: "nor"
+      eye:
+        primary: "ochi"
+      father:
+        primary: "tată"
+      fire:
+        primary: "foc"
+      fish:
+        primary: "pește"
+      food:
+        primary: "mâncare"
+      grandmother:
+        primary: "bunică"
+      green:
+        primary: "verde"
+      house:
+        primary: "casă"
+      man:
+        primary: "bărbat"
+      moon:
+        primary: "lună"
+      mother:
+        primary: "mamă"
+      name:
+        primary: "nume"
+      nose:
+        primary: "nas"
+      rain:
+        primary: "ploaie"
+      red:
+        primary: "roșu"
+      soup:
+        primary: "supă"
+      stone:
+        primary: "piatră"
+      sun:
+        primary: "soare"
+      tooth:
+        primary: "dinte"
+      tree:
+        primary: "copac"
+      water:
+        primary: "apă"
+      white:
+        primary: "alb"
+      woman:
+        primary: "femeie"
+      yellow:
+        primary: "galben"
+  greek_modern:
+    name: "Greek (Modern)"
+    native_name: "ελληνικά"
+    family: "Indo-European"
+    subfamily: "Hellenic"
+    notes: |
+      Worth breaking Greek out into modern and ancient, given how influential ancient Greek was on other languages.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "midén"
+            scripts:
+              greek: "μηδέν"
+          "1":
+            primary: "éna"
+            scripts:
+              greek: "ένα"
+          "2":
+            primary: "dío"
+            scripts:
+              greek: "δύο"
+          "3":
+            primary: "tría"
+            scripts:
+              greek: "τρία"
+          "4":
+            primary: "tésera"
+            scripts:
+              greek: "τέσσερα"
+          "5":
+            primary: "pénde"
+            scripts:
+              greek: "πέντε"
+          "6":
+            primary: "éxi"
+            scripts:
+              greek: "έξι"
+          "7":
+            primary: "eptá"
+            scripts:
+              greek: "επτά"
+          "8":
+            primary: "októ"
+            scripts:
+              greek: "οκτώ"
+          "9":
+            primary: "enéa"
+            scripts:
+              greek: "εννέα"
+          "10":
+            primary: "déka"
+            scripts:
+              greek: "δέκα"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "poulí"
+        scripts:
+          native: "πουλί"
+      black:
+        primary: "mávros"
+        scripts:
+          native: "μαύρος"
+      blue:
+        primary: "ble"
+        alternates: ["galázi"]
+        scripts:
+          native: "μπλε / γαλάζι"
+      bread:
+        primary: "psomí"
+        scripts:
+          native: "ψωμί"
+      bridge:
+        primary: "gefýri"
+        scripts:
+          native: "γέφυρα"
+      child:
+        primary: "paídi"
+        scripts:
+          native: "παιδί"
+      cloud:
+        primary: "sýnnefo"
+        scripts:
+          native: "σύννεφο"
+      eye:
+        primary: "máti"
+        scripts:
+          native: "μάτι"
+      father:
+        primary: "patéras"
+        scripts:
+          native: "πατέρας"
+      fire:
+        primary: "fiá"
+        scripts:
+          native: "φωτιά"
+      fish:
+        primary: "psári"
+        scripts:
+          native: "ψάρι"
+      food:
+        primary: "fagitó"
+        scripts:
+          native: "φαγητό"
+      grandmother:
+        primary: "giagiá"
+        scripts:
+          native: "γιαγιά"
+      green:
+        primary: "prásinos"
+        scripts:
+          native: "πράσινος"
+      house:
+        primary: "spíti"
+        scripts:
+          native: "σπίτι"
+      man:
+        primary: "ándras"
+        scripts:
+          native: "άνδρας"
+      moon:
+        primary: "selíni"
+        scripts:
+          native: "σελήνη"
+      mother:
+        primary: "mitéra"
+        scripts:
+          native: "μητέρα"
+      name:
+        primary: "ónoma"
+        scripts:
+          native: "όνομα"
+      nose:
+        primary: "mýti"
+        scripts:
+          native: "μύτη"
+      rain:
+        primary: "vrochí"
+        scripts:
+          native: "βροχή"
+      red:
+        primary: "kókkinos"
+        scripts:
+          native: "κόκκινος"
+      soup:
+        primary: "soúpa"
+        scripts:
+          native: "σούπα"
+      stone:
+        primary: "pétra"
+        scripts:
+          native: "πέτρα"
+      sun:
+        primary: "ílios"
+        scripts:
+          native: "ήλιος"
+      tooth:
+        primary: "donti"
+        scripts:
+          native: "δόντι"
+      tree:
+        primary: "déntro"
+        scripts:
+          native: "δέντρο"
+      water:
+        primary: "neró"
+        scripts:
+          native: "νερό"
+      white:
+        primary: "leykós"
+        scripts:
+          native: "λευκός"
+      woman:
+        primary: "gynaíka"
+        scripts:
+          native: "γυναίκα"
+      yellow:
+        primary: "klítrinos"
+        alternates: ["kithrinos"]
+        scripts:
+          native: "κίτρινος"
+  greek_ancient:
+    name: "Greek (Ancient)"
+    native_name: "ἑλληνική"
+    family: "Indo-European"
+    subfamily: "Hellenic"
+    notes: |
+      Worth breaking Greek out into modern and ancient, given how influential ancient Greek was on other languages.
+      The first few Ancient Greek numbers are gendered and they decline, so there can be around a dozen forms for
+      each number. I've picked the nominative neuter version for each number, though I dunno if that's the most
+      appropriate one.
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "hén"
+            scripts:
+              greek: "ἕν"
+              greek_numeral: "αʹ"
+          "2":
+            primary: "dúo"
+            scripts:
+              greek: "δύο"
+              greek_numeral: "βʹ"
+          "3":
+            primary: "tría"
+            scripts:
+              greek: "τρία"
+              greek_numeral: "γʹ"
+          "4":
+            primary: "tésera"
+            scripts:
+              greek: "τέτταρα"
+              greek_numeral: "δʹ"
+          "5":
+            primary: "pénte"
+            scripts:
+              greek: "πέντε"
+              greek_numeral: "εʹ"
+          "6":
+            primary: "héx"
+            scripts:
+              greek: "έξι"
+              greek_numeral: "ϛʹ"
+          "7":
+            primary: "heptá"
+            scripts:
+              greek: "ἑπτά"
+              greek_numeral: "ζʹ"
+          "8":
+            primary: "oktṓ"
+            scripts:
+              greek: "ὀκτώ"
+              greek_numeral: "ηʹ"
+          "9":
+            primary: "ennéa"
+            scripts:
+              greek: "ἐννέα"
+              greek_numeral: "θʹ"
+          "10":
+            primary: "déka"
+            scripts:
+              greek: "δέκα"
+              greek_numeral: "ιʹ"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "ornis"
+        scripts:
+          native: "ὄρνις"
+      black:
+        primary: "melas"
+        scripts:
+          native: "μέλας"
+      blue:
+        primary: "kyaneos"
+        scripts:
+          native: "κυάνεος"
+      bread:
+        primary: "artos"
+        scripts:
+          native: "ἄρτος"
+      bridge:
+        primary: "gephyra"
+        scripts:
+          native: "γέφυρα"
+      child:
+        primary: "teknon"
+        alternates: ["pais"]
+        scripts:
+          native: "τέκνον / παῖς"
+      cloud:
+        primary: "nephelē"
+        scripts:
+          native: "νεφέλη"
+      eye:
+        primary: "ophthalmos"
+        scripts:
+          native: "ὀφθαλμός"
+      father:
+        primary: "patēr"
+        scripts:
+          native: "πατήρ"
+      fire:
+        primary: "pyr"
+        scripts:
+          native: "πῦρ"
+      fish:
+        primary: "ichthys"
+        scripts:
+          native: "ἰχθύς"
+      food:
+        primary: "sitos"
+        scripts:
+          native: "σῖτος"
+      grandmother:
+        primary: "tettē"
+        alternates: ["mammē"]
+        scripts:
+          native: "τέττη / μαμμή"
+      green:
+        primary: "chlōros"
+        scripts:
+          native: "χλωρός"
+      house:
+        primary: "oikos"
+        scripts:
+          native: "οἶκος"
+      man:
+        primary: "anēr"
+        scripts:
+          native: "ἀνήρ"
+      moon:
+        primary: "selēnē"
+        scripts:
+          native: "σελήνη"
+      mother:
+        primary: "mētēr"
+        scripts:
+          native: "μήτηρ"
+      name:
+        primary: "onoma"
+        scripts:
+          native: "ὄνομα"
+      nose:
+        primary: "rhis"
+        scripts:
+          native: "ῥίς"
+      rain:
+        primary: "huetos"
+        scripts:
+          native: "ὑετός"
+      red:
+        primary: "erythros"
+        scripts:
+          native: "ἐρυθρός"
+      soup:
+        primary: "zōmós"
+        scripts:
+          native: "ζωμός"
+      stone:
+        primary: "lithos"
+        scripts:
+          native: "λίθος"
+      sun:
+        primary: "hēlios"
+        scripts:
+          native: "ἥλιος"
+      tooth:
+        primary: "odous"
+        scripts:
+          native: "ὀδούς"
+      tree:
+        primary: "dendron"
+        scripts:
+          native: "δένδρον"
+      water:
+        primary: "hydōr"
+        scripts:
+          native: "ὕδωρ"
+      white:
+        primary: "leukos"
+        scripts:
+          native: "λευκός"
+      woman:
+        primary: "gunē"
+        scripts:
+          native: "γυνή"
+      yellow:
+        primary: "xanthos"
+        scripts:
+          native: "ξανθός"
+  albanian:
+    name: "Albanian"
+    native_name: "shqip"
+    family: "Indo-European"
+    subfamily: "Albanian"
+    notes: |
+      Despite being surrounded by Romance, Slavic, and Hellenic languages, and being taken in by the Greek,
+      Roman, Ottoman, and other empires for much of its history, Albanian continues to exist as its own branch
+      of the Indo-European language family. In theory it is less closely related to Italian, English and Russian
+      than those languages are to Hindi. It is closer to Greek than the others.
+      The numbers below definitely suggest a closer relationship to Italian than to, say, English or Hindi,
+      but it's still pretty far out there.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+          "1":
+            primary: "një"
+          "2":
+            primary: "dy"
+          "3":
+            primary: "tre"
+          "4":
+            primary: "katër"
+          "5":
+            primary: "pesë"
+          "6":
+            primary: "gjashtë"
+          "7":
+            primary: "shtatë"
+          "8":
+            primary: "tetë"
+          "9":
+            primary: "nëntë"
+          "10":
+            primary: "dhjetë"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "zog"
+      black:
+        primary: "i zi"
+        alternates: ["e zezë"]
+      blue:
+        primary: "blu"
+        scripts:
+          native: "native alternative: **kaltër**, older/folk term"
+      bread:
+        primary: "bukë"
+      bridge:
+        primary: "urë"
+      child:
+        primary: "fëmijë"
+      cloud:
+        primary: "re"
+      eye:
+        primary: "sy"
+      father:
+        primary: "baba"
+      fire:
+        primary: "zjarr"
+      fish:
+        primary: "peshk"
+      food:
+        primary: "ushqim"
+      for_colours,_older_native_terms_exist:
+        primary: ""
+      grandmother:
+        primary: "gjyshe"
+      green:
+        primary: "gjelbër"
+      house:
+        primary: "shtëpi"
+      man:
+        primary: "burrë"
+      moon:
+        primary: "hënë"
+      mother:
+        primary: "nënë"
+      name:
+        primary: "emër"
+      nose:
+        primary: "hundë"
+      rain:
+        primary: "shi"
+      red:
+        primary: "i kuq"
+        alternates: ["e kuqe"]
+      soup:
+        primary: "supë"
+      stone:
+        primary: "gur"
+      sun:
+        primary: "diell"
+      tooth:
+        primary: "dhëmb"
+      tree:
+        primary: "pemë"
+      water:
+        primary: "ujë"
+      white:
+        primary: "i bardhë"
+        alternates: ["e bardhë"]
+      woman:
+        primary: "grua"
+      yellow:
+        primary: "i verdhë"
+        alternates: ["e verdhë"]
+  ukrainian:
+    name: "Ukrainian"
+    native_name: "українська"
+    family: "Indo-European"
+    subfamily: "Slavic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nul'"
+            scripts:
+              cyrillic: "нуль"
+          "1":
+            primary: "odin"
+            scripts:
+              cyrillic: "один"
+          "2":
+            primary: "dva"
+            scripts:
+              cyrillic: "два"
+          "3":
+            primary: "tri"
+            scripts:
+              cyrillic: "три"
+          "4":
+            primary: "čotiri"
+            scripts:
+              cyrillic: "чотири"
+          "5":
+            primary: "p'âtʹ"
+            scripts:
+              cyrillic: "п'ять"
+          "6":
+            primary: "šìstʹ"
+            scripts:
+              cyrillic: "шість"
+          "7":
+            primary: "sìm"
+            scripts:
+              cyrillic: "сім"
+          "8":
+            primary: "vìsìm"
+            scripts:
+              cyrillic: "вісім"
+          "9":
+            primary: "dev'âtʹ"
+            scripts:
+              cyrillic: "дев'ять"
+          "10":
+            primary: "desâtʹ"
+            scripts:
+              cyrillic: "десять"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-ukrainian/en/ukr/"
+      - "https://omniglot.com/language/numbers/ukrainian.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "ptákh"
+        alternates: ["ptycja"]
+        scripts:
+          native: "пта́х / птúця"
+      black:
+        primary: "čórnyj"
+        scripts:
+          native: "чо́рний"
+      blue:
+        primary: "sínij"
+        scripts:
+          native: "сі́ній"
+      bread:
+        primary: "chlib"
+        scripts:
+          native: "хліб"
+      bridge:
+        primary: "mist"
+        scripts:
+          native: "міст"
+      child:
+        primary: "dytyna"
+        scripts:
+          native: "дити́на"
+      cloud:
+        primary: "khmara"
+        scripts:
+          native: "хма́ра"
+      eye:
+        primary: "oко"
+        alternates: ["očí (о́ко", "очі́)"]
+        notes: "masculine/neuter alternation retained historically"
+      father:
+        primary: "batʹko"
+        scripts:
+          native: "ба́тько"
+      fire:
+        primary: "vohonʹ"
+        scripts:
+          native: "вого́нь"
+      fish:
+        primary: "ryba"
+        scripts:
+          native: "ри́ба"
+      food:
+        primary: "žža"
+        alternates: ["íža"]
+        scripts:
+          native: "ї́жа"
+      grandmother:
+        primary: "babusia"
+        alternates: ["babunia"]
+        scripts:
+          native: "бабу́ся / бабу́ня"
+      green:
+        primary: "zelenyj"
+        scripts:
+          native: "зеле́ний"
+      house:
+        primary: "být"
+        alternates: ["dim (дім)"]
+        notes: "dim = the inherited Slavic word"
+      man:
+        primary: "čolovík"
+        scripts:
+          native: "чолові́к"
+      moon:
+        primary: "mísiac"
+        scripts:
+          native: "мі́сяць"
+      mother:
+        primary: "maty"
+        scripts:
+          native: "мати"
+      name:
+        primary: "ímja"
+        scripts:
+          native: "і́м'я"
+      nose:
+        primary: "nis"
+        scripts:
+          native: "ніс"
+      rain:
+        primary: "došč"
+        scripts:
+          native: "дощ"
+      red:
+        primary: "červónyj"
+        scripts:
+          native: "черво́ний"
+      soup:
+        primary: "sup"
+        scripts:
+          native: "суп"
+      stone:
+        primary: "káminʹ"
+        scripts:
+          native: "ка́мінь"
+      sun:
+        primary: "sónce"
+        scripts:
+          native: "со́нце"
+      tooth:
+        primary: "zub"
+        scripts:
+          native: "зуб"
+      tree:
+        primary: "derevó"
+        scripts:
+          native: "дерево́"
+      water:
+        primary: "voda"
+        scripts:
+          native: "вода́"
+      white:
+        primary: "bílyj"
+        scripts:
+          native: "бі́лий"
+      woman:
+        primary: "žínka"
+        scripts:
+          native: "жі́нка"
+      yellow:
+        primary: "žóvtyj"
+        scripts:
+          native: "жо́втий"
+  russian:
+    name: "Russian"
+    native_name: "Русский"
+    family: "Indo-European"
+    subfamily: "Slavic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nol'"
+            scripts:
+              cyrillic: "ноль"
+          "1":
+            primary: "odin"
+            scripts:
+              cyrillic: "один"
+          "2":
+            primary: "dve"
+            scripts:
+              cyrillic: "две"
+          "3":
+            primary: "tri"
+            scripts:
+              cyrillic: "три"
+          "4":
+            primary: "četyre"
+            scripts:
+              cyrillic: "четыре"
+          "5":
+            primary: "pâtʹ"
+            scripts:
+              cyrillic: "пять"
+          "6":
+            primary: "šestʹ"
+            scripts:
+              cyrillic: "шесть"
+          "7":
+            primary: "semʹ"
+            scripts:
+              cyrillic: "семь"
+          "8":
+            primary: "vosemʹ"
+            scripts:
+              cyrillic: "восемь"
+          "9":
+            primary: "devâtʹ"
+            scripts:
+              cyrillic: "девять"
+          "10":
+            primary: "desâtʹ"
+            scripts:
+              cyrillic: "десять"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-russian/en/rus/"
+      - "https://www.russianlessons.net/lessons/lesson2_main.php"
+      - "https://www.mondly.com/blog/2020/04/27/russian-numbers/"
+      - "https://www.thoughtco.com/russian-numbers-4691201"
+      - "https://www.babbel.com/en/magazine/counting-in-russian"
+      - "https://omniglot.com/language/numbers/russian.htm"
+      - "https://www.russianpod101.com/blog/2019/10/24/russian-numbers/"
+
+
+    vocabulary:
+      bird:
+        primary: "ptica"
+        scripts:
+          native: "птица"
+      black:
+        primary: "čërnyj"
+        scripts:
+          native: "чёрный"
+      blue:
+        primary: "sinij"
+        scripts:
+          native: "си́ний"
+      bread:
+        primary: "xleb"
+        scripts:
+          native: "хлеб"
+      bridge:
+        primary: "most"
+        scripts:
+          native: "мост"
+      child:
+        primary: "rebënok"
+        scripts:
+          native: "ребёнок"
+      cloud:
+        primary: "oblako"
+        scripts:
+          native: "о́блако"
+      eye:
+        primary: "glaz"
+        alternates: ["oko (глаз", "око)"]
+        notes: "*oko* is archaic/native Slavic"
+      father:
+        primary: "otets (отец) / otets''"
+      fire:
+        primary: "ogon''"
+        scripts:
+          native: "огонь"
+      fish:
+        primary: "ryba"
+        scripts:
+          native: "рыба"
+      food:
+        primary: "jeda"
+        scripts:
+          native: "еда"
+      grandmother:
+        primary: "babuška"
+        scripts:
+          native: "бабушка"
+      green:
+        primary: "zelenyj"
+        scripts:
+          native: "зелёный"
+      house:
+        primary: "dom"
+        scripts:
+          native: "дом"
+      man:
+        primary: "mužčina"
+        scripts:
+          native: "мужчина"
+      moon:
+        primary: "luna"
+        scripts:
+          native: "луна́"
+      mother:
+        primary: "mat''"
+        scripts:
+          native: "мать"
+      name:
+        primary: "imja"
+        scripts:
+          native: "имя"
+      nose:
+        primary: "nos"
+        scripts:
+          native: "нос"
+      rain:
+        primary: "dožd’"
+        scripts:
+          native: "дождь"
+      red:
+        primary: "krasnyj"
+        scripts:
+          native: "красный"
+      soup:
+        primary: "sup"
+        scripts:
+          native: "суп"
+      stone:
+        primary: "kamen''"
+        scripts:
+          native: "ка́мень"
+      sun:
+        primary: "solnce"
+        scripts:
+          native: "со́лнце"
+      tooth:
+        primary: "zub"
+        scripts:
+          native: "зуб"
+      tree:
+        primary: "derevo"
+        scripts:
+          native: "де́рево"
+      water:
+        primary: "voda"
+        scripts:
+          native: "вода́"
+      white:
+        primary: "belyj"
+        scripts:
+          native: "бе́лый"
+      woman:
+        primary: "ženščina"
+        scripts:
+          native: "женщина"
+      yellow:
+        primary: "želtyj"
+        scripts:
+          native: "жёлтый"
+  belarussian:
+    name: "Belarussian"
+    native_name: "беларуская"
+    family: "Indo-European"
+    subfamily: "Slavic"
+    notes: |
+      I had somehow been under the impression that Belarussian was closer to Russian than Ukrainian is.
+      One look at the numbers would seem to suggest the opposite.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nul'"
+            scripts:
+              cyrillic: "нуль"
+          "1":
+            primary: "adzín"
+            scripts:
+              cyrillic: "адзі́н"
+          "2":
+            primary: "dva"
+            scripts:
+              cyrillic: "два"
+          "3":
+            primary: "try"
+            scripts:
+              cyrillic: "тры"
+          "4":
+            primary: "čatýry"
+            scripts:
+              cyrillic: "чаты́ры"
+          "5":
+            primary: "piać"
+            scripts:
+              cyrillic: "пяць"
+          "6":
+            primary: "šesć"
+            scripts:
+              cyrillic: "шэсць"
+          "7":
+            primary: "siem"
+            scripts:
+              cyrillic: "сем"
+          "8":
+            primary: "vósiem"
+            scripts:
+              cyrillic: "во́сем"
+          "9":
+            primary: "dziéviać"
+            scripts:
+              cyrillic: "дзе́вяць"
+          "10":
+            primary: "dziésiać"
+            scripts:
+              cyrillic: "дзе́сяць"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-belarusian/en/bel/"
+      - "http://mylanguages.org/belarusian_numbers.php"
+      - "https://omniglot.com/language/numbers/belarusian.htm"
+      - "https://www.lingohut.com/en/v771745/belarusian-lessons-numbers-1-through-10"
+
+
+    vocabulary:
+      bird:
+        primary: "ptushka"
+        scripts:
+          native: "птушка"
+      black:
+        primary: "čórny"
+        scripts:
+          native: "чо́рны"
+      blue:
+        primary: "sińi"
+        scripts:
+          native: "сіні́"
+      bread:
+        primary: "chlęb"
+        scripts:
+          native: "хлеб"
+      bridge:
+        primary: "móst"
+        scripts:
+          native: "мо́ст"
+      child:
+        primary: "dziećcina (дзеці́на) / dziećcia (дзеці́я)"
+        notes: "basic root: dzieć (child)"
+      cloud:
+        primary: "vóbłaka"
+        scripts:
+          native: "во́блака"
+      eye:
+        primary: "vočka"
+        alternates: ["vóka"]
+        scripts:
+          native: "вочкa / во́ка"
+      father:
+        primary: "bácia"
+        scripts:
+          native: "ба́ця"
+      fire:
+        primary: "ahoń"
+        scripts:
+          native: "аго́нь"
+      fish:
+        primary: "rýba"
+        scripts:
+          native: "ры́ба"
+      food:
+        primary: "ežá"
+        scripts:
+          native: "ежа́"
+      grandmother:
+        primary: "babúlia"
+        scripts:
+          native: "бабу́ля"
+      green:
+        primary: "zialióny"
+        scripts:
+          native: "зялёны́"
+      house:
+        primary: "dom"
+        scripts:
+          native: "дом"
+      man:
+        primary: "mužčýna"
+        scripts:
+          native: "мужчы́на"
+      moon:
+        primary: "miasiác"
+        scripts:
+          native: "меся́ц"
+      mother:
+        primary: "máci"
+        scripts:
+          native: "ма́ці"
+      name:
+        primary: "ímia"
+        scripts:
+          native: "і́мя"
+      nose:
+        primary: "nos"
+        scripts:
+          native: "нос"
+      rain:
+        primary: "doždž"
+        scripts:
+          native: "дождж"
+      red:
+        primary: "čyrvóny"
+        scripts:
+          native: "чырво́ны"
+      soup:
+        primary: "sup"
+        scripts:
+          native: "суп"
+      stone:
+        primary: "kamiénʹ"
+        scripts:
+          native: "каме́нь"
+      sun:
+        primary: "sónca"
+        scripts:
+          native: "со́нца"
+      tooth:
+        primary: "zub"
+        scripts:
+          native: "зуб"
+      tree:
+        primary: "dŕeva"
+        scripts:
+          native: "дрэ́ва"
+      water:
+        primary: "vóda"
+        scripts:
+          native: "во́да"
+      white:
+        primary: "biéły"
+        scripts:
+          native: "бе́лы"
+      woman:
+        primary: "žančýna"
+        scripts:
+          native: "жанч́ына"
+      yellow:
+        primary: "žoŭ́ty"
+        scripts:
+          native: "жо́ўты"
+  czech:
+    name: "Czech"
+    native_name: "čeština"
+    family: "Indo-European"
+    subfamily: "Slavic"
+    notes: "Very similar to Slovak"
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nula"
+          "1":
+            primary: "jedna"
+          "2":
+            primary: "dva"
+          "3":
+            primary: "tři"
+          "4":
+            primary: "čtyři"
+          "5":
+            primary: "pět"
+          "6":
+            primary: "šest"
+          "7":
+            primary: "sedm"
+          "8":
+            primary: "osm"
+          "9":
+            primary: "devět"
+          "10":
+            primary: "deset"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-czech/en/ces/"
+      - "https://omniglot.com/language/numbers/czech.htm"
+      - "https://www.locallingo.com/czech/phrases/numbers.html"
+
+
+    vocabulary:
+      bird:
+        primary: "pták"
+      black:
+        primary: "černý"
+      blue:
+        primary: "modrý"
+      bread:
+        primary: "chléb"
+      bridge:
+        primary: "most"
+      child:
+        primary: "dítě"
+      cloud:
+        primary: "mrak"
+      eye:
+        primary: "oko"
+      father:
+        primary: "otec"
+      fire:
+        primary: "oheň"
+      fish:
+        primary: "ryba"
+      food:
+        primary: "jídlo"
+      grandmother:
+        primary: "babička"
+      green:
+        primary: "zelený"
+      house:
+        primary: "dům"
+      man:
+        primary: "muž"
+      moon:
+        primary: "měsíc"
+      mother:
+        primary: "matka"
+      name:
+        primary: "jméno"
+      nose:
+        primary: "nos"
+      rain:
+        primary: "déšť"
+      red:
+        primary: "červený"
+      soup:
+        primary: "polévka"
+      stone:
+        primary: "kámen"
+      sun:
+        primary: "slunce"
+      tooth:
+        primary: "zub"
+      tree:
+        primary: "strom"
+      water:
+        primary: "voda"
+      white:
+        primary: "bílý"
+      woman:
+        primary: "žena"
+      yellow:
+        primary: "žlutý"
+  slovak:
+    name: "Slovak"
+    native_name: "slovenčina"
+    family: "Indo-European"
+    subfamily: "Slavic"
+    notes: "Very similar to Czech"
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nula"
+          "1":
+            primary: "jeden"
+          "2":
+            primary: "dva"
+          "3":
+            primary: "tri"
+          "4":
+            primary: "štyri"
+          "5":
+            primary: "päť"
+          "6":
+            primary: "šesť"
+          "7":
+            primary: "sedem"
+          "8":
+            primary: "osem"
+          "9":
+            primary: "deväť"
+          "10":
+            primary: "desať"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-slovak/en/slk/"
+      - "https://omniglot.com/language/numbers/slovak.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "vták"
+      black:
+        primary: "čierny"
+      blue:
+        primary: "modrý"
+      bread:
+        primary: "chlieb"
+      bridge:
+        primary: "most"
+      child:
+        primary: "dieťa"
+      cloud:
+        primary: "oblak"
+      eye:
+        primary: "oko"
+      father:
+        primary: "otec"
+      fire:
+        primary: "oheň"
+      fish:
+        primary: "ryba"
+      food:
+        primary: "jedlo"
+      grandmother:
+        primary: "stará mama"
+      green:
+        primary: "zelený"
+      house:
+        primary: "dom"
+      man:
+        primary: "muž"
+      moon:
+        primary: "mesiac"
+      mother:
+        primary: "matka"
+      name:
+        primary: "meno"
+      nose:
+        primary: "nos"
+      rain:
+        primary: "dážď"
+      red:
+        primary: "červený"
+      soup:
+        primary: "polievka"
+      stone:
+        primary: "kameň"
+      sun:
+        primary: "slnko"
+      tooth:
+        primary: "zub"
+      tree:
+        primary: "strom"
+      water:
+        primary: "voda"
+      white:
+        primary: "biely"
+      woman:
+        primary: "žena"
+      yellow:
+        primary: "žltý"
+  latvian:
+    name: "Latvian"
+    native_name: "latviešu"
+    family: "Indo-European"
+    subfamily: "Baltic"
+    notes: |
+      You can see how distant Latvian is from Russian or Belarussian. It is clear that Latvian is not an
+      Eastern Slavic language like they are.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nulle"
+          "1":
+            primary: "viens"
+          "2":
+            primary: "divi"
+          "3":
+            primary: "trīs"
+          "4":
+            primary: "četri"
+          "5":
+            primary: "pieci"
+          "6":
+            primary: "seši"
+          "7":
+            primary: "septiņi"
+          "8":
+            primary: "astoņi"
+          "9":
+            primary: "deviņi"
+          "10":
+            primary: "desmit"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-latvian/en/lav/"
+      - "https://omniglot.com/language/numbers/latvian.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "putns"
+      black:
+        primary: "melns"
+      blue:
+        primary: "zils"
+      bread:
+        primary: "maize"
+      bridge:
+        primary: "tilts"
+      child:
+        primary: "bērns"
+      cloud:
+        primary: "mākonis"
+      eye:
+        primary: "acs"
+      father:
+        primary: "tēvs"
+      fire:
+        primary: "uguns"
+      fish:
+        primary: "zivs"
+      food:
+        primary: "ēdiens"
+      grandmother:
+        primary: "vecmāmiņa"
+        scripts:
+          native: "older/root form: **māmuļa**"
+      green:
+        primary: "zaļš"
+      house:
+        primary: "māja"
+      man:
+        primary: "vīrietis"
+      moon:
+        primary: "mēness"
+      mother:
+        primary: "māte"
+      name:
+        primary: "vārds"
+      nose:
+        primary: "deguns"
+      rain:
+        primary: "lietus"
+      red:
+        primary: "sarkans"
+      soup:
+        primary: "zupa"
+      stone:
+        primary: "akmens"
+      sun:
+        primary: "saule"
+      tooth:
+        primary: "zobs"
+      tree:
+        primary: "koks"
+      water:
+        primary: "ūdens"
+      white:
+        primary: "balts"
+      woman:
+        primary: "sieviete"
+      yellow:
+        primary: "dzeltens"
+  lithuanian:
+    name: "Lithuanian"
+    native_name: "lietuvių"
+    family: "Indo-European"
+    subfamily: "Baltic"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nulis"
+          "1":
+            primary: "vienas"
+          "2":
+            primary: "du"
+          "3":
+            primary: "trys"
+          "4":
+            primary: "keturi"
+          "5":
+            primary: "penki"
+          "6":
+            primary: "šeši"
+          "7":
+            primary: "septyni"
+          "8":
+            primary: "aštuoni"
+          "9":
+            primary: "devyni"
+          "10":
+            primary: "dešimt"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-lithuanian/en/lit/"
+
+
+    vocabulary:
+      bird:
+        primary: "paukštis"
+      black:
+        primary: "juodas"
+      blue:
+        primary: "mėlynas"
+      bread:
+        primary: "duona"
+      bridge:
+        primary: "tiltas"
+      child:
+        primary: "vaikas"
+      cloud:
+        primary: "debesis"
+      eye:
+        primary: "akis"
+      father:
+        primary: "tėvas"
+      fire:
+        primary: "ugnis"
+      fish:
+        primary: "žuvis"
+      food:
+        primary: "maistas"
+      grandmother:
+        primary: "močiutė"
+        scripts:
+          native: "older/root form: **senelė**"
+      green:
+        primary: "žalias"
+      house:
+        primary: "namas"
+      man:
+        primary: "vyras"
+      moon:
+        primary: "mėnulis"
+      mother:
+        primary: "motina"
+      name:
+        primary: "vardas"
+      nose:
+        primary: "nosis"
+      rain:
+        primary: "lietus"
+      red:
+        primary: "raudonas"
+      soup:
+        primary: "sriuba"
+      stone:
+        primary: "akmuo"
+      sun:
+        primary: "saulė"
+      tooth:
+        primary: "dantis"
+      tree:
+        primary: "medis"
+      water:
+        primary: "vanduo"
+      white:
+        primary: "baltas"
+      woman:
+        primary: "moteris"
+      yellow:
+        primary: "geltonas"
+  tamil:
+    name: "Tamil"
+    native_name: "தமிழ்"
+    family: "Dravidian"
+    subfamily: ""
+    notes: "Note: very different from Hindi"
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "suḻiyam"
+            alternates: ["pāḻ"]
+            scripts:
+              tamil: "சுழியம் / பாழ்"
+          "1":
+            primary: "oṉṟu"
+            scripts:
+              tamil: "ஒன்று"
+          "2":
+            primary: "iraṇḍu"
+            scripts:
+              tamil: "இரண்டு"
+          "3":
+            primary: "mūṉṟu"
+            scripts:
+              tamil: "மூன்று"
+          "4":
+            primary: "nāṉku"
+            scripts:
+              tamil: "நான்கு"
+          "5":
+            primary: "aindhu"
+            scripts:
+              tamil: "ஐந்து"
+          "6":
+            primary: "āṟu"
+            scripts:
+              tamil: "ஆறு"
+          "7":
+            primary: "ēḻu"
+            scripts:
+              tamil: "ஏழு"
+          "8":
+            primary: "eṭṭu"
+            scripts:
+              tamil: "எட்டு"
+          "9":
+            primary: "oṉpathu"
+            scripts:
+              tamil: "ஒன்பது"
+          "10":
+            primary: "paththu"
+            scripts:
+              tamil: "பத்து"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "paravai"
+        scripts:
+          native: "பறவை"
+      black:
+        primary: "karuppu"
+        scripts:
+          native: "கருப்பு"
+      blue:
+        primary: "nīlam"
+        scripts:
+          native: "நீலம்"
+      bread:
+        primary: "roṭṭi"
+        alternates: ["appam"]
+        scripts:
+          native: "ரொட்டி / அப்பம்"
+      bridge:
+        primary: "paḷam"
+        scripts:
+          native: "பாலம்"
+      child:
+        primary: "kuḻantai"
+        scripts:
+          native: "குழந்தை"
+      cloud:
+        primary: "mēgam"
+        scripts:
+          native: "மேகம்"
+      eye:
+        primary: "kaṇ"
+        scripts:
+          native: "கண்"
+      father:
+        primary: "appa"
+        scripts:
+          native: "அப்பா"
+      fire:
+        primary: "tii"
+        scripts:
+          native: "தீ"
+      fish:
+        primary: "mīṉ"
+        scripts:
+          native: "மீன்"
+      food:
+        primary: "uṇavu"
+        scripts:
+          native: "உணவு"
+      grandmother:
+        primary: "patti"
+        scripts:
+          native: "பட்டி"
+      green:
+        primary: "pachchai"
+        scripts:
+          native: "பச்சை"
+      house:
+        primary: "vīdu"
+        scripts:
+          native: "வீடு"
+      man:
+        primary: "āṇ"
+        scripts:
+          native: "ஆண்"
+      moon:
+        primary: "caṇdiraṉ"
+        scripts:
+          native: "சந்திரன்"
+      mother:
+        primary: "amma"
+        scripts:
+          native: "அம்மா"
+      name:
+        primary: "peyar"
+        scripts:
+          native: "பெயர்"
+      nose:
+        primary: "mūkku"
+        scripts:
+          native: "மூக்கு"
+      rain:
+        primary: "maḻai"
+        scripts:
+          native: "மழை"
+      red:
+        primary: "civappu"
+        scripts:
+          native: "சிவப்பு"
+      soup:
+        primary: "sūppu"
+        scripts:
+          native: "சூப்பு"
+      stone:
+        primary: "kaḷ"
+        alternates: ["kaṉ"]
+        scripts:
+          native: "கல்"
+      sun:
+        primary: "sūriyan"
+        scripts:
+          native: "சூரியன்"
+      tooth:
+        primary: "pal"
+        scripts:
+          native: "பல்"
+      tree:
+        primary: "maram"
+        scripts:
+          native: "மரம்"
+      water:
+        primary: "taṇṇīr"
+        alternates: ["nīr"]
+        scripts:
+          native: "தண்ணீர் / நீர்"
+      white:
+        primary: "veḷḷai"
+        scripts:
+          native: "வெள்ளை"
+      woman:
+        primary: "peṇ"
+        scripts:
+          native: "பெண்"
+      yellow:
+        primary: "maṇjaḷ"
+        scripts:
+          native: "மஞ்சள்"
+  telugu:
+    name: "Telugu"
+    native_name: "తెలుగు"
+    family: "Dravidian"
+    subfamily: ""
+    notes: |
+      I've been told that Telugu has the most vocabulary from Sanskrit of the four major South Indian languages.
+      If that's true, it does not show in the numbers here, which are clearly unrelated to any North Indian languages
+      like Hindi, with the exception of zero — where it is similar to Hindi and quite different from Tamil or Malayalam.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sunna"
+            scripts:
+              telugu_text: "సున్న"
+              telugu_numeral: "౦"
+          "1":
+            primary: "okaṭi"
+            scripts:
+              telugu_text: "ఒకటి"
+              telugu_numeral: "౧"
+          "2":
+            primary: "reṇḍu"
+            scripts:
+              telugu_text: "రెండు"
+              telugu_numeral: "౨"
+          "3":
+            primary: "mūḍu"
+            scripts:
+              telugu_text: "మూడు"
+              telugu_numeral: "౩"
+          "4":
+            primary: "nālugu"
+            scripts:
+              telugu_text: "నాలుగు"
+              telugu_numeral: "౪"
+          "5":
+            primary: "ayidu"
+            scripts:
+              telugu_text: "అయిదు"
+              telugu_numeral: "౫"
+          "6":
+            primary: "āru"
+            scripts:
+              telugu_text: "ఆరు"
+              telugu_numeral: "౬"
+          "7":
+            primary: "ēḍu"
+            scripts:
+              telugu_text: "ఏడు"
+              telugu_numeral: "౭"
+          "8":
+            primary: "enimidi"
+            scripts:
+              telugu_text: "ఎనిమిది"
+              telugu_numeral: "౮"
+          "9":
+            primary: "tommidi"
+            scripts:
+              telugu_text: "తొమ్మిది"
+              telugu_numeral: "౯"
+          "10":
+            primary: "padi"
+            scripts:
+              telugu_text: "పది"
+              telugu_numeral: "౧౦"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "gūbbi"
+        alternates: ["pakshi"]
+        scripts:
+          native: "గూబ్బి / పక్షి"
+      black:
+        primary: "nalla"
+        scripts:
+          native: "నల్ల"
+      blue:
+        primary: "nīlaṃ"
+        scripts:
+          native: "నీలం"
+      bread:
+        primary: "roṭṭe"
+        scripts:
+          native: "రోట్టి"
+      bridge:
+        primary: "setu"
+        scripts:
+          native: "సేతు"
+      child:
+        primary: "pillalu"
+        alternates: ["bāla"]
+        scripts:
+          native: "పిల్ల / బాల"
+      cloud:
+        primary: "mēghaṃ"
+        scripts:
+          native: "మేఘం"
+      eye:
+        primary: "kannu"
+        scripts:
+          native: "కన్ను"
+      father:
+        primary: "nānā"
+        alternates: ["tandri"]
+        scripts:
+          native: "నాన్న / తండ్రి"
+      fire:
+        primary: "agni"
+        alternates: ["vĕdi"]
+        scripts:
+          native: "అగ్ని / వేడి"
+      fish:
+        primary: "chepa"
+        scripts:
+          native: "చేప"
+      food:
+        primary: "āhāramu"
+        alternates: ["tindi"]
+        scripts:
+          native: "ఆహారం / తిండి"
+      grandmother:
+        primary: "nānnamma"
+        alternates: ["avvamma"]
+        scripts:
+          native: "నాన్నమ్మ / అవ్వమ్మ"
+      green:
+        primary: "ākupacca"
+        scripts:
+          native: "ఆకుపచ్చ"
+      house:
+        primary: "illu"
+        scripts:
+          native: "ఇల్లు"
+      man:
+        primary: "abbāyi"
+        alternates: ["puruḍu"]
+        scripts:
+          native: "అబ్బాయి / పురుడు"
+      moon:
+        primary: "candrudu"
+        scripts:
+          native: "చంద్రుడు"
+      mother:
+        primary: "ammā"
+        scripts:
+          native: "అమ్మ"
+      name:
+        primary: "peru"
+        scripts:
+          native: "పేరు"
+      nose:
+        primary: "mūku"
+        scripts:
+          native: "మూకు"
+      rain:
+        primary: "varṣaṃ"
+        scripts:
+          native: "వర్షం"
+      red:
+        primary: "erra"
+        scripts:
+          native: "ఎర్ర"
+      soup:
+        primary: "charu"
+        scripts:
+          native: "చారు"
+      stone:
+        primary: "rallu"
+        alternates: ["śilā"]
+        scripts:
+          native: "రాళ్లు / శిలా"
+      sun:
+        primary: "sūryudu"
+        scripts:
+          native: "సూర్యుడు"
+      tooth:
+        primary: "pallu"
+        scripts:
+          native: "పళ్ళు"
+      tree:
+        primary: "chettu"
+        scripts:
+          native: "చెట్టు"
+      water:
+        primary: "nīllu"
+        scripts:
+          native: "నీళ్ళు"
+      white:
+        primary: "tellā"
+        scripts:
+          native: "తెల్ల"
+      woman:
+        primary: "ammāyi"
+        alternates: ["strī"]
+        scripts:
+          native: "అమ్మాయి / స్త్రీ"
+      yellow:
+        primary: "pasupu"
+        scripts:
+          native: "పసుపు"
+  malayalam:
+    name: "Malayalam"
+    native_name: "മലയാളം"
+    family: "Dravidian"
+    subfamily: ""
+    notes: "You can see the closeness to Tamil here quite clearly"
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "pūjyaṁ"
+            scripts:
+              malayalam_text: "പൂജ്യം"
+              malayalam_numeral: "൦"
+          "1":
+            primary: "onnŭ"
+            scripts:
+              malayalam_text: "ഒന്ന്"
+              malayalam_numeral: "൧"
+          "2":
+            primary: "raṇḍŭ"
+            scripts:
+              malayalam_text: "രണ്ട്"
+              malayalam_numeral: "൨"
+          "3":
+            primary: "mūnnŭ"
+            scripts:
+              malayalam_text: "മൂന്ന്"
+              malayalam_numeral: "൩"
+          "4":
+            primary: "nālŭ"
+            scripts:
+              malayalam_text: "നാല്"
+              malayalam_numeral: "൪"
+          "5":
+            primary: "añjŭ"
+            scripts:
+              malayalam_text: "അഞ്ച്"
+              malayalam_numeral: "൫"
+          "6":
+            primary: "āṟŭ"
+            scripts:
+              malayalam_text: "ആറ്"
+              malayalam_numeral: "൬"
+          "7":
+            primary: "ēḻŭ"
+            scripts:
+              malayalam_text: "ഏഴ്"
+              malayalam_numeral: "൭"
+          "8":
+            primary: "eṭṭŭ"
+            scripts:
+              malayalam_text: "എട്ട്"
+              malayalam_numeral: "൮"
+          "9":
+            primary: "ombadŭ"
+            scripts:
+              malayalam_text: "ഒമ്പത്"
+              malayalam_numeral: "൯"
+          "10":
+            primary: "pattŭ"
+            scripts:
+              malayalam_text: "പത്ത്"
+              malayalam_numeral: "൰/൧൦"
+    references:
+      - "https://omniglot.com/language/numbers/malayalam.htm"
+      - "https://ling-app.com/ml/malayalam-numbers/"
+      - "https://www.learnentry.com/english-malayalam/vocabulary/numbers-in-malayalam/"
+
+
+    vocabulary:
+      bird:
+        primary: "pakshi"
+        scripts:
+          native: "പക്ഷി"
+      black:
+        primary: "karuppŭ"
+        scripts:
+          native: "കരുപ്പ്"
+      blue:
+        primary: "nīlam"
+        scripts:
+          native: "നീല"
+      bread:
+        primary: "appam"
+        alternates: ["roṭṭi"]
+        scripts:
+          native: "അപ്പം / റൊട്ടി"
+      bridge:
+        primary: "paḷam"
+        scripts:
+          native: "പാലം"
+      child:
+        primary: "kuṭṭi"
+        scripts:
+          native: "കുട്ടി"
+      cloud:
+        primary: "mēghaṁ"
+        alternates: ["mazhakūṭṭam"]
+        scripts:
+          native: "മേഘം"
+      eye:
+        primary: "kaṇṇŭ"
+        scripts:
+          native: "കണ്ണ്"
+      father:
+        primary: "achan"
+        alternates: ["appan"]
+        scripts:
+          native: "അച്ഛൻ / അപ്പൻ"
+      fire:
+        primary: "tii"
+        scripts:
+          native: "തീ"
+      fish:
+        primary: "mīnu"
+        scripts:
+          native: "മീൻ"
+      food:
+        primary: "bhakṣaṇaṁ"
+        alternates: ["bhōjanam"]
+        scripts:
+          native: "ഭക്ഷണം / ഭക്ഷണം"
+      grandmother:
+        primary: "ammamma"
+        scripts:
+          native: "അമ്മമ്മ"
+      green:
+        primary: "paccha"
+        scripts:
+          native: "പച്ച"
+      house:
+        primary: "veedu"
+        scripts:
+          native: "വീട്"
+      man:
+        primary: "āḷan"
+        scripts:
+          native: "ആളൻ"
+      moon:
+        primary: "caṇḍran"
+        alternates: ["nilā"]
+        scripts:
+          native: "ചന്ദ്രൻ / നിലാവ്"
+      mother:
+        primary: "amma"
+        scripts:
+          native: "അമ്മ"
+      name:
+        primary: "pēru"
+        scripts:
+          native: "പേര്"
+      nose:
+        primary: "mūkkŭ"
+        scripts:
+          native: "മൂക്ക്"
+      rain:
+        primary: "maḻa"
+        scripts:
+          native: "മഴ"
+      red:
+        primary: "cuvappŭ"
+        scripts:
+          native: "ചുവപ്പ്"
+      soup:
+        primary: "sūppu"
+        scripts:
+          native: "സൂപ്പ്"
+      stone:
+        primary: "kaḷ"
+        alternates: ["kall"]
+        scripts:
+          native: "കല്ല്"
+      sun:
+        primary: "sūryan"
+        scripts:
+          native: "സൂര്യൻ"
+      tooth:
+        primary: "pattam"
+        alternates: ["pāl"]
+        scripts:
+          native: "പല്ല്"
+      tree:
+        primary: "maram"
+        scripts:
+          native: "മരം"
+      water:
+        primary: "veḷḷam"
+        scripts:
+          native: "വെള്ളം"
+      white:
+        primary: "veḷutta"
+        scripts:
+          native: "വെളുപ്പ്"
+      woman:
+        primary: "pennu"
+        alternates: ["strī"]
+        scripts:
+          native: "പെണ്ണ് / സ്ത്രീ"
+      yellow:
+        primary: "maṇñña"
+        scripts:
+          native: "മഞ്ഞ"
+  brahui:
+    name: "Brahui"
+    native_name: "براہوی"
+    family: "Dravidian"
+    subfamily: ""
+    notes: |
+      Brahui is a Dravidian language that is spoken in some parts of Pakistan and written with Arabic script.
+      Apparently only some 15% of the vocabulary is of Dravidian origin. This was one of the inspirations for
+      creating this whole page, and this is the first real challenge to my hypothesis, since only the first three
+      numbers are related to Tamil — the remaining numbers were borrowed from Baloch, and you can clearly see that
+      they are Indo-European and related to Urdu/Hindi.
+      As an endangered minority language, Brahui is not so well-documented on the Internet. I did not find the
+      numbers written with Arabic script (though I can guess what they would look like). Apparently Brahui was never
+      written with a Brahmi script — it was purely a spoken language for most of its history, and an Arabic-based
+      script was created at some point to document the folklore, and more recently it has been given an orthography
+      using Latin letters with diacritics, which you see here.
+      Despite being an endangered minority language, the 2017 census lists the language as having 2.5 million speakers.
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "asi"
+          "2":
+            primary: "irā"
+          "3":
+            primary: "musi"
+          "4":
+            primary: "čār"
+          "5":
+            primary: "panč"
+          "6":
+            primary: "šaš"
+          "7":
+            primary: "haft"
+          "8":
+            primary: "haš"
+          "9":
+            primary: "nō"
+          "10":
+            primary: "dah"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "pappī (پپّی)"
+        notes: "native"
+      black:
+        primary: "siyāh (سیاہ)"
+        notes: "Persian-origin"
+      blue:
+        primary: "nīl (نیل)"
+        notes: "Persian-origin (term natively used)"
+      bread:
+        primary: "rōṭ (روٹ)"
+        notes: "local form"
+      bridge:
+        primary: "pul (پل)"
+        notes: "borrowed; no older Dravidian form attested in Brahui"
+      child:
+        primary: "młok (ملوک)"
+        notes: "native Brahui word"
+      cloud:
+        primary: "mud (مود)"
+        notes: "native Brahui"
+      eye:
+        primary: "kaṇṇ (کنّ)"
+        notes: "Dravidian origin"
+      father:
+        primary: "appa"
+        scripts:
+          native: "اپّا"
+      fire:
+        primary: "ner (نیر)"
+        notes: "native Dravidian origin"
+      fish:
+        primary: "mīn (مین)"
+        notes: "Persian/Indo-Aryan influence; native form lost"
+      food:
+        primary: "khurāk (خوراک)"
+        notes: "no older native Brahui term survives"
+      grandmother:
+        primary: "mutta (مٹّا)"
+        notes: "native Dravidian root"
+      green:
+        primary: "sībz (سبز)"
+        notes: "Persian-origin; no native Brahui colour term preserved"
+      house:
+        primary: "kōl (کول)"
+        notes: "native Brahui/Dravidian term"
+      man:
+        primary: "mard (مرد)"
+        notes: "inherited through long contact; native Dravidian term not preserved"
+      moon:
+        primary: "cānd (چاند)"
+        notes: "Persian influence; native form not preserved"
+      mother:
+        primary: "ammi (امّی)"
+        notes: "Persian/Urdu influence is universal; no older Dravidian form survives"
+      name:
+        primary: "nāw"
+        scripts:
+          native: "ناو"
+      nose:
+        primary: "mūkk (موکّ)"
+        notes: "Dravidian-origin word"
+      rain:
+        primary: "war (ور)"
+        notes: "native Brahui"
+      red:
+        primary: "surx (سرخ)"
+        notes: "Persian-origin"
+      soup:
+        primary: "shorba (شوربہ)"
+        notes: "loan; used natively"
+      stone:
+        primary: "gal (گل)"
+        notes: "native"
+      sun:
+        primary: "giš (گش)"
+        notes: "native Brahui"
+      tooth:
+        primary: "patt (پتّ)"
+        notes: "native Brahui form"
+      tree:
+        primary: "mar (مر)"
+        notes: "native Brahui/Dravidian root"
+      water:
+        primary: "tār (تار)"
+        notes: "native Brahui root"
+      white:
+        primary: "safēd (سفید)"
+        notes: "Persian-origin"
+      woman:
+        primary: "zan (زن)"
+        notes: "same note as above; no surviving native Dravidian root"
+      yellow:
+        primary: "zard (زرد)"
+        notes: "Persian-origin"
+  hungarian:
+    name: "Hungarian"
+    native_name: "magyar"
+    family: "Uralic"
+    subfamily: ""
+    notes: |
+      Despite being in the middle of Europe and surrounded by a wide variety of Indo-European languages,
+      Hungarian is actually related to Estonian, Finnish, Sami, etc. It's a little hard to see the relationship
+      (you really have to squint, as Hungarian has been isolated for a long time), but one thing is super clear:
+      it is totally different from its neighbours: Slovakia, Poland, Romania, Serbia, Croatia, Slovenia, and Austria.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nulla"
+          "1":
+            primary: "egy"
+          "2":
+            primary: "kettő"
+          "3":
+            primary: "három"
+          "4":
+            primary: "négy"
+          "5":
+            primary: "öt"
+          "6":
+            primary: "hat"
+          "7":
+            primary: "hét"
+          "8":
+            primary: "nyolc"
+          "9":
+            primary: "kilenc"
+          "10":
+            primary: "tíz"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "madár"
+      black:
+        primary: "fekete"
+      blue:
+        primary: "kék"
+      bread:
+        primary: "kenyér"
+      bridge:
+        primary: "híd"
+      child:
+        primary: "gyerek"
+      cloud:
+        primary: "felhő"
+      eye:
+        primary: "szem"
+      father:
+        primary: "apa"
+      fire:
+        primary: "tűz"
+      fish:
+        primary: "hal"
+      food:
+        primary: "étel"
+      grandmother:
+        primary: "nagymama"
+        scripts:
+          native: "older/native root: **anya** > *anya-* compounds"
+      green:
+        primary: "zöld"
+      house:
+        primary: "ház"
+      man:
+        primary: "férfi"
+      moon:
+        primary: "hold"
+      mother:
+        primary: "anya"
+      name:
+        primary: "név"
+      nose:
+        primary: "orr"
+      rain:
+        primary: "eső"
+      red:
+        primary: "piros"
+        alternates: ["vörös"]
+        scripts:
+          native: "older/literary native = **vörös**"
+      soup:
+        primary: "leves"
+      stone:
+        primary: "kő"
+      sun:
+        primary: "nap"
+      tooth:
+        primary: "fog"
+      tree:
+        primary: "fa"
+      water:
+        primary: "víz"
+      white:
+        primary: "fehér"
+      woman:
+        primary: "nő"
+      yellow:
+        primary: "sárga"
+  estonian:
+    name: "Estonian"
+    native_name: "eesti"
+    family: "Uralic"
+    subfamily: ""
+    notes: |
+      Despite being surrounded by Baltic and Slavic languages, Estonian is related to Hungarian and Finnish,
+      which are not part of the Indo-European language family at all (whereas Lithuanian and Latvian are Balto-Slavic,
+      a fairly distinct branch of Indo-European that they shared with the now-extinct East Prussian). Estonian seems
+      pretty distant from Hungarian, though — you really have to squint to see it here, but you can tell it's not
+      related to any of the Indo-European languages on this page.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "null"
+          "1":
+            primary: "üks"
+          "2":
+            primary: "kaks"
+          "3":
+            primary: "kolm"
+          "4":
+            primary: "neli"
+          "5":
+            primary: "viis"
+          "6":
+            primary: "kuus"
+          "7":
+            primary: "seitse"
+          "8":
+            primary: "kaheksa"
+          "9":
+            primary: "üheksa"
+          "10":
+            primary: "kümme"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-estonian/en/est/"
+
+
+    vocabulary:
+      bird:
+        primary: "lind"
+      black:
+        primary: "must"
+      blue:
+        primary: "sinine"
+      bread:
+        primary: "leib"
+      bridge:
+        primary: "sild"
+      child:
+        primary: "laps"
+      cloud:
+        primary: "pilv"
+      eye:
+        primary: "silm"
+      father:
+        primary: "isa"
+      fire:
+        primary: "tuli"
+      fish:
+        primary: "kala"
+      food:
+        primary: "toit"
+      grandmother:
+        primary: "vanaema"
+      green:
+        primary: "roheline"
+      house:
+        primary: "maja"
+        alternates: ["kodu"]
+        scripts:
+          native: "native root: *kodu* = “home”"
+      man:
+        primary: "mees"
+      moon:
+        primary: "kuu"
+      mother:
+        primary: "ema"
+      name:
+        primary: "nimi"
+      nose:
+        primary: "nina"
+      rain:
+        primary: "vihm"
+      red:
+        primary: "punane"
+      soup:
+        primary: "supp"
+      stone:
+        primary: "kivi"
+      sun:
+        primary: "päike"
+      tooth:
+        primary: "hammas"
+      tree:
+        primary: "puu"
+      water:
+        primary: "vesi"
+      white:
+        primary: "valge"
+      woman:
+        primary: "naine"
+      yellow:
+        primary: "kollane"
+  finnish:
+    name: "Finnish"
+    native_name: "suomi"
+    family: "Uralic"
+    subfamily: ""
+    notes: |
+      Despite being a Nordic country and having Scandinavian languages on one side and Slavic languages on the other,
+      Finnish is clearly related to Estonian and distantly related to Hungarian.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nolla"
+          "1":
+            primary: "yksi"
+          "2":
+            primary: "kaksi"
+          "3":
+            primary: "kolme"
+          "4":
+            primary: "neljä"
+          "5":
+            primary: "viisi"
+          "6":
+            primary: "kuusi"
+          "7":
+            primary: "seitsemän"
+          "8":
+            primary: "kahdeksan"
+          "9":
+            primary: "yhdeksän"
+          "10":
+            primary: "kymmenen"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "lintu"
+      black:
+        primary: "musta"
+      blue:
+        primary: "sininen"
+      bread:
+        primary: "leipä"
+      bridge:
+        primary: "silta"
+      child:
+        primary: "lapsi"
+      cloud:
+        primary: "pilvi"
+      eye:
+        primary: "silmä"
+      father:
+        primary: "isä"
+      fire:
+        primary: "tuli"
+      fish:
+        primary: "kala"
+      food:
+        primary: "ruoka"
+      grandmother:
+        primary: "isoäiti"
+        alternates: ["mummo"]
+        scripts:
+          native: "native base: *äiti*"
+      green:
+        primary: "vihreä"
+      house:
+        primary: "talo"
+      man:
+        primary: "mies"
+      moon:
+        primary: "kuu"
+      mother:
+        primary: "äiti"
+      name:
+        primary: "nimi"
+      nose:
+        primary: "nenä"
+      rain:
+        primary: "sade"
+      red:
+        primary: "punainen"
+      soup:
+        primary: "keitto"
+      stone:
+        primary: "kivi"
+      sun:
+        primary: "aurinko"
+      tooth:
+        primary: "hammas"
+      tree:
+        primary: "puu"
+      water:
+        primary: "vesi"
+      white:
+        primary: "valkoinen"
+      woman:
+        primary: "nainen"
+      yellow:
+        primary: "keltainen"
+  northern_sami:
+    name: "Northern Sami"
+    native_name: "davvisámegiella"
+    family: "Uralic"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "okta"
+          "2":
+            primary: "guokte"
+          "3":
+            primary: "golbma"
+          "4":
+            primary: "njeallje"
+          "5":
+            primary: "vihtta"
+          "6":
+            primary: "guhtta"
+          "7":
+            primary: "čieža"
+          "8":
+            primary: "gávcci"
+          "9":
+            primary: "ovcci"
+          "10":
+            primary: "logi"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "loddi"
+      black:
+        primary: "čáhppes"
+      blue:
+        primary: "alit"
+      bread:
+        primary: "láibi"
+        scripts:
+          native: "loan from Scandinavian but standard; no older native form"
+      bridge:
+        primary: "geaidnu"
+        alternates: ["gievdni"]
+        scripts:
+          native: "gievdni = proper “bridge”"
+      child:
+        primary: "mánná"
+      cloud:
+        primary: "albmi"
+        alternates: ["dovddus"]
+        scripts:
+          native: "basic: **albmi** = sky/cloud"
+      eye:
+        primary: "čalbmi"
+      father:
+        primary: "áhči"
+      fire:
+        primary: "buollin"
+      fish:
+        primary: "guolli"
+      food:
+        primary: "biepmu"
+      grandmother:
+        primary: "áddjá"
+        alternates: ["áhkká"]
+        scripts:
+          native: "áhkká = older cosmic/ancestral word"
+      green:
+        primary: "ruoná"
+      house:
+        primary: "viesu"
+        alternates: ["ruovdi"]
+        scripts:
+          native: "viesu = standard “house”"
+      man:
+        primary: "olmmái"
+      moon:
+        primary: "mándil"
+        alternates: ["mannaš"]
+        scripts:
+          native: "beaivváš is archaic ‘sun’ spirit"
+      mother:
+        primary: "eadni"
+      name:
+        primary: "namma"
+      nose:
+        primary: "njálbmi"
+      rain:
+        primary: "arvi"
+        alternates: ["arva"]
+      red:
+        primary: "rukses"
+      soup:
+        primary: "borrat"
+        alternates: ["soastsu"]
+        scripts:
+          native: "borrat=“to eat”; **soastsu**=actual ‘soup’"
+      stone:
+        primary: "gáddi"
+      sun:
+        primary: "beaivi"
+      tooth:
+        primary: "báhpa"
+      tree:
+        primary: "muorji"
+        alternates: ["muoras"]
+        scripts:
+          native: "muoras = “tree, wood”"
+      water:
+        primary: "čáhci"
+      white:
+        primary: "vilges"
+      woman:
+        primary: "nieida"
+        alternates: ["nisson"]
+        scripts:
+          native: "younger woman vs. adult woman; **nisson** = standard"
+      yellow:
+        primary: "fiskes"
+  southern_sami:
+    name: "Southern Sami"
+    native_name: "åarjelsaemien gïele"
+    family: "Uralic"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "akte"
+          "2":
+            primary: "göökte"
+          "3":
+            primary: "golme"
+          "4":
+            primary: "njieljie"
+          "5":
+            primary: "vïjhte"
+          "6":
+            primary: "govhte"
+          "7":
+            primary: "tjïjhtje"
+          "8":
+            primary: "gaektsie"
+          "9":
+            primary: "uktsie"
+          "10":
+            primary: "luhkie"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "loedtie"
+      black:
+        primary: "tjïerhpe"
+      blue:
+        primary: "åalite"
+      bread:
+        primary: "laejpie"
+      bridge:
+        primary: "geajnoe"
+      child:
+        primary: "maanah"
+      cloud:
+        primary: "klaajroe"
+      eye:
+        primary: "tjïelte"
+        alternates: ["tjïelth"]
+        scripts:
+          native: "dialectal"
+      father:
+        primary: "eadtje"
+      fire:
+        primary: "muelie"
+      fish:
+        primary: "gueele"
+      food:
+        primary: "biehpme"
+      grandmother:
+        primary: "eejjie"
+        scripts:
+          native: "also: old root **aahka**"
+      green:
+        primary: "groene"
+      house:
+        primary: "gåetie"
+      man:
+        primary: "däjja"
+      moon:
+        primary: "månnoe"
+      mother:
+        primary: "eadtem"
+      name:
+        primary: "nomme"
+      nose:
+        primary: "njalve"
+      rain:
+        primary: "tjuerie"
+      red:
+        primary: "råaksje"
+      soup:
+        primary: "soepoe"
+      stone:
+        primary: "gaajhtoe"
+      sun:
+        primary: "bæjjoe"
+      tooth:
+        primary: "baahpe"
+      tree:
+        primary: "måaroe"
+      water:
+        primary: "tjaele"
+      white:
+        primary: "viesjie"
+      woman:
+        primary: "nåejtie"
+      yellow:
+        primary: "fïeksje"
+  arabic:
+    name: "Arabic"
+    native_name: "العربية"
+    family: "Semitic"
+    subfamily: ""
+    notes: |
+      Arabic is not related to Persian or Turkish despite the cultural overlaps, Ottoman Empire, etc. Even though
+      the languages are unrelated, you can see that the numerals are related to the Hindi numerals as well as the
+      so-called Arabic numerals used in European languages and now much of the world.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sifr"
+            scripts:
+              arabic_text: "صفر"
+              arabic_numeral: "٠"
+          "1":
+            primary: "wahed"
+            scripts:
+              arabic_text: "واحد"
+              arabic_numeral: "١"
+          "2":
+            primary: "ithan"
+            scripts:
+              arabic_text: "إثنان"
+              arabic_numeral: "٢"
+          "3":
+            primary: "thalathah"
+            scripts:
+              arabic_text: "ثلاثة"
+              arabic_numeral: "٣"
+          "4":
+            primary: "arba'a"
+            scripts:
+              arabic_text: "أربعة"
+              arabic_numeral: "٤"
+          "5":
+            primary: "hamsa"
+            scripts:
+              arabic_text: "خمسة"
+              arabic_numeral: "٥"
+          "6":
+            primary: "sitta"
+            scripts:
+              arabic_text: "ستة"
+              arabic_numeral: "٦"
+          "7":
+            primary: "sab'a"
+            scripts:
+              arabic_text: "سبعة"
+              arabic_numeral: "٧"
+          "8":
+            primary: "thamaniya"
+            scripts:
+              arabic_text: "ثمانية"
+              arabic_numeral: "٨"
+          "9":
+            primary: "tis'a"
+            scripts:
+              arabic_text: "تسعة"
+              arabic_numeral: "٩"
+          "10":
+            primary: "'ashra"
+            scripts:
+              arabic_text: "عشرة"
+              arabic_numeral: "١٠"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "ṭā’ir"
+        scripts:
+          native: "طَائِر"
+      black:
+        primary: "aswad"
+        scripts:
+          native: "أَسْوَد"
+      blue:
+        primary: "azraq"
+        scripts:
+          native: "أَزْرَق"
+      bread:
+        primary: "khubz"
+        scripts:
+          native: "خُبْز"
+      bridge:
+        primary: "jisr"
+        scripts:
+          native: "جِسْر"
+      child:
+        primary: "ṭifl"
+        scripts:
+          native: "طِفْل"
+      cloud:
+        primary: "saḥāba (سَحَابَة) or **saḥāb (سَحَاب)**"
+        scripts:
+          native: "collective noun"
+      eye:
+        primary: "ʿayn"
+        scripts:
+          native: "عَيْن"
+      father:
+        primary: "ab"
+        scripts:
+          native: "أَب"
+      fire:
+        primary: "nār"
+        scripts:
+          native: "نَار"
+      fish:
+        primary: "samak"
+        scripts:
+          native: "سَمَك"
+      food:
+        primary: "ṭaʿām"
+        scripts:
+          native: "طَعَام"
+      grandmother:
+        primary: "jadda"
+        scripts:
+          native: "جَدَّة"
+      green:
+        primary: "akhḍar"
+        scripts:
+          native: "أَخْضَر"
+      house:
+        primary: "bayt"
+        scripts:
+          native: "بَيْت"
+      man:
+        primary: "rajul"
+        scripts:
+          native: "رَجُل"
+      moon:
+        primary: "qamar"
+        scripts:
+          native: "قَمَر"
+      mother:
+        primary: "umm"
+        scripts:
+          native: "أُمّ"
+      name:
+        primary: "ism"
+        scripts:
+          native: "اِسْم"
+      nose:
+        primary: "anf"
+        scripts:
+          native: "أَنْف"
+      rain:
+        primary: "maṭar"
+        scripts:
+          native: "مَطَر"
+      red:
+        primary: "aḥmar"
+        scripts:
+          native: "أَحْمَر"
+      soup:
+        primary: "shurba"
+        scripts:
+          native: "شُرْبَة"
+      stone:
+        primary: "ḥajar"
+        scripts:
+          native: "حَجَر"
+      sun:
+        primary: "shams"
+        scripts:
+          native: "شَمْس"
+      tooth:
+        primary: "sinn"
+        scripts:
+          native: "سِنّ"
+      tree:
+        primary: "shajara"
+        scripts:
+          native: "شَجَرَة"
+      water:
+        primary: "mā’"
+        scripts:
+          native: "مَاء"
+      white:
+        primary: "abyaḍ"
+        scripts:
+          native: "أَبْيَض"
+      woman:
+        primary: "imra’a"
+        scripts:
+          native: "اِمْرَأَة"
+      yellow:
+        primary: "aṣfar"
+        scripts:
+          native: "أَصْفَر"
+  maltese:
+    name: "Maltese"
+    native_name: "Malti"
+    family: "Semitic"
+    subfamily: ""
+    notes: |
+      Even though the majority of the vocabulary in Maltese is from Italian and the people of Malta are predominantly
+      Catholic, Maltese is considered an Arabic language, being the only surviving member of the Siculo-Arabic languages.
+      It's the only variety of Arabic that is normally written with the Latin alphabet. The relationship to Arabic could
+      hardly be clearer, and this was an inspiration for this page.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "żero"
+          "1":
+            primary: "wieħed"
+          "2":
+            primary: "tnejn"
+          "3":
+            primary: "tlieta"
+          "4":
+            primary: "erbgħa"
+          "5":
+            primary: "ħamsa"
+          "6":
+            primary: "sitta"
+          "7":
+            primary: "sebgħa"
+          "8":
+            primary: "tmienja"
+          "9":
+            primary: "disgħa"
+          "10":
+            primary: "għaxra"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-maltese/en/mlt/"
+      - "https://omniglot.com/language/numbers/maltese.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "għasfur"
+      black:
+        primary: "iswed"
+      blue:
+        primary: "ikħal"
+        alternates: ["blu"]
+      bread:
+        primary: "ħobż"
+      bridge:
+        primary: "pont"
+      child:
+        primary: "tifel"
+        alternates: ["tifla"]
+      cloud:
+        primary: "sħab"
+      eye:
+        primary: "għajn"
+      father:
+        primary: "missier"
+      fire:
+        primary: "nar"
+      fish:
+        primary: "ħuta"
+      food:
+        primary: "ikel"
+      grandmother:
+        primary: "nanna"
+      green:
+        primary: "aħdar"
+      house:
+        primary: "dar"
+      man:
+        primary: "raġel"
+      moon:
+        primary: "qamar"
+      mother:
+        primary: "omm"
+      name:
+        primary: "isem"
+      nose:
+        primary: "imnieħer"
+      rain:
+        primary: "xita"
+      red:
+        primary: "aħmar"
+      soup:
+        primary: "soppa"
+      stone:
+        primary: "ġebla"
+      sun:
+        primary: "xemx"
+      tooth:
+        primary: "sinna"
+      tree:
+        primary: "siġra"
+      water:
+        primary: "ilma"
+      white:
+        primary: "abjad"
+      woman:
+        primary: "mara"
+      yellow:
+        primary: "isfar"
+  amharic:
+    name: "Amharic"
+    native_name: "አማርኛ"
+    family: "Semitic"
+    subfamily: ""
+    notes: |
+      It's very hard to see any connection between this and Arabic until you get to number six. But they are both
+      semitic languages and considered to be distantly related.
+      The Ge'ez script (the writing system for Amharic) has its own numerals that are sometimes used, which I've included.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "zero"
+            scripts:
+              geez: "ዜሮ"
+          "1":
+            primary: "and"
+            scripts:
+              geez_text: "አንድ"
+              geez_numeral: "፩"
+          "2":
+            primary: "hulät"
+            scripts:
+              geez_text: "ሁለት"
+              geez_numeral: "፪"
+          "3":
+            primary: "sost"
+            scripts:
+              geez_text: "ሶስት"
+              geez_numeral: "፫"
+          "4":
+            primary: "arat"
+            scripts:
+              geez_text: "አራት"
+              geez_numeral: "፬"
+          "5":
+            primary: "amïst"
+            scripts:
+              geez_text: "አምስት"
+              geez_numeral: "፭"
+          "6":
+            primary: "sïdïst"
+            scripts:
+              geez_text: "ስድስት"
+              geez_numeral: "፮"
+          "7":
+            primary: "säbat"
+            scripts:
+              geez_text: "ሰባት"
+              geez_numeral: "፯"
+          "8":
+            primary: "sïmïnt"
+            scripts:
+              geez_text: "ስምንት"
+              geez_numeral: "፰"
+          "9":
+            primary: "zät'äñ"
+            scripts:
+              geez_text: "ዘጠኝ"
+              geez_numeral: "፱"
+          "10":
+            primary: "asïr"
+            scripts:
+              geez_text: "አስር"
+              geez_numeral: "፲"
+    references:
+      - "https://www.metaappz.com/References/AmharicAndGeezNumbersReferenceTable.aspx"
+      - "https://www.languagesandnumbers.com/how-to-count-in-amharic/en/amh/"
+
+
+    vocabulary:
+      bird:
+        primary: "wäf"
+        scripts:
+          native: "ወፍ"
+      black:
+        primary: "tʼɨkʼur"
+        scripts:
+          native: "ጥቁር"
+      blue:
+        primary: "ṣəma (ሰማያዊ) — **basic colour term from “sky”: səmayawī**"
+      bread:
+        primary: "dabo"
+        scripts:
+          native: "ዳቦ"
+      bridge:
+        primary: "dərəst"
+        scripts:
+          native: "ድርሰት"
+      child:
+        primary: "lɨjj"
+        scripts:
+          native: "ልጅ"
+      cloud:
+        primary: "ʿamolə"
+        scripts:
+          native: "ዕሞል"
+      eye:
+        primary: "ʿǝnǝt"
+        scripts:
+          native: "ዓይን"
+      father:
+        primary: "abat"
+        scripts:
+          native: "አባት"
+      fire:
+        primary: "ǝsät"
+        scripts:
+          native: "እሳት"
+      fish:
+        primary: "asa"
+        scripts:
+          native: "አሳ"
+      food:
+        primary: "məgəb"
+        alternates: ["mɨgɨb"]
+        scripts:
+          native: "ምግብ"
+      grandmother:
+        primary: "ětē"
+        scripts:
+          native: "እቴ"
+      green:
+        primary: "əräṭṭ (አረጋ) — **common term: arängwadäb (አረንጓዴ)**; simplest root: **arägä**"
+      house:
+        primary: "bet"
+        scripts:
+          native: "ቤት"
+      man:
+        primary: "səw"
+        alternates: ["wänd"]
+        scripts:
+          native: "ሰው / ወንድ"
+      moon:
+        primary: "wäräḥ"
+        scripts:
+          native: "ወርሃ"
+      mother:
+        primary: "enat"
+        scripts:
+          native: "እናት"
+      name:
+        primary: "sɨm"
+        scripts:
+          native: "ስም"
+      nose:
+        primary: "ɨnf"
+        scripts:
+          native: "አንፍ"
+      rain:
+        primary: "zänäb"
+        scripts:
+          native: "ዝናብ"
+      red:
+        primary: "qey"
+        scripts:
+          native: "ቀይ"
+      soup:
+        primary: "wät"
+        scripts:
+          native: "ወጥ"
+      stone:
+        primary: "ḫwäl (ቀዳዳ) — **but “ḫʷäl / ቀለ” is the native simple term for “stone”**"
+      sun:
+        primary: "mäṣḥär (መፀሐል) or simply śəḥay (ፀሓይ) — **śəḥay is the common native term**"
+      tooth:
+        primary: "tɨrs"
+        scripts:
+          native: "ጥርስ"
+      tree:
+        primary: "zaf"
+        scripts:
+          native: "ዛፍ"
+      water:
+        primary: "wəha"
+        scripts:
+          native: "ውሃ"
+      white:
+        primary: "nɛčč"
+        scripts:
+          native: "ነጭ"
+      woman:
+        primary: "səltʼān"
+        alternates: ["səltʼi"]
+        scripts:
+          native: "ሴት / ሴትኛ"
+      yellow:
+        primary: "bəčä"
+        scripts:
+          native: "ቢጫ"
+  tigrinya:
+    name: "Tigrinya"
+    native_name: "ትግርኛ"
+    family: "Semitic"
+    subfamily: ""
+    notes: |
+      3 and 4 seem closer to Arabic from Tigrinya than Amharic, though 6–8 seem more distant. Interesting.
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "hade"
+            scripts:
+              geez_text: "ሓደ"
+              geez_numeral: "፩"
+          "2":
+            primary: "kelete"
+            scripts:
+              geez_text: "ክልተ"
+              geez_numeral: "፪"
+          "3":
+            primary: "seleste"
+            scripts:
+              geez_text: "ሰለስተ"
+              geez_numeral: "፫"
+          "4":
+            primary: "arbaete"
+            scripts:
+              geez_text: "ኣርባዕተ"
+              geez_numeral: "፬"
+          "5":
+            primary: "hamushte"
+            scripts:
+              geez_text: "ሓሙሽት"
+              geez_numeral: "፭"
+          "6":
+            primary: "shudushte"
+            scripts:
+              geez_text: "ሽድሽተ"
+              geez_numeral: "፮"
+          "7":
+            primary: "shewa'ate"
+            scripts:
+              geez_text: "ሸውዓተ"
+              geez_numeral: "፯"
+          "8":
+            primary: "shemonte"
+            scripts:
+              geez_text: "ሸሞንተ"
+              geez_numeral: "፰"
+          "9":
+            primary: "tishe'ate"
+            scripts:
+              geez_text: "ትሽዓተ"
+              geez_numeral: "፱"
+          "10":
+            primary: "'äserte"
+            scripts:
+              geez_text: "ዓሰርተ"
+              geez_numeral: "፲"
+    references:
+      - "https://omniglot.com/language/numbers/tigrinya.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "ፅንሒ"
+        scripts:
+          native: "tsenhi"
+      black:
+        primary: "ጸሊም"
+        scripts:
+          native: "tselīm"
+      blue:
+        primary: "ሰማያዊ"
+        scripts:
+          native: "semayawi"
+      bread:
+        primary: "ባቄል"
+        alternates: ["ቂጣ"]
+        scripts:
+          native: "baqil / qiṭa"
+      bridge:
+        primary: "መውጽእ"
+        scripts:
+          native: "mewtsi"
+      child:
+        primary: "liji"
+        scripts:
+          native: "ልጂ"
+      cloud:
+        primary: "ደመና"
+        scripts:
+          native: "demena"
+      eye:
+        primary: "ዓይን"
+        scripts:
+          native: "ʿayn"
+      father:
+        primary: "aboy"
+        scripts:
+          native: "ኣቦይ"
+      fire:
+        primary: "እሳት"
+        scripts:
+          native: "əsat"
+      fish:
+        primary: "ዓሳ"
+        scripts:
+          native: "ʿasa"
+      food:
+        primary: "መግቢ"
+        scripts:
+          native: "məgbi"
+      grandmother:
+        primary: "aboyti"
+        alternates: ["adeyti"]
+        scripts:
+          native: "ኣቦይቲ / ኣደይቲ"
+      green:
+        primary: "ኣጸዓይ"
+        scripts:
+          native: "aṣeʿay"
+      house:
+        primary: "ገዛ"
+        scripts:
+          native: "geza"
+      man:
+        primary: "seb’ay"
+        scripts:
+          native: "ሰብኣይ"
+      moon:
+        primary: "ርድሕ"
+        scripts:
+          native: "rədħ"
+      mother:
+        primary: "adey"
+        scripts:
+          native: "ኣደይ"
+      name:
+        primary: "ስም"
+        scripts:
+          native: "səm"
+      nose:
+        primary: "ኣንፍ"
+        scripts:
+          native: "anf"
+      rain:
+        primary: "ምባሕ"
+        scripts:
+          native: "mbah"
+      red:
+        primary: "ቀይሕ"
+        scripts:
+          native: "qeyħ"
+      soup:
+        primary: "ሾርባ"
+        scripts:
+          native: "shorba"
+      stone:
+        primary: "እብን"
+        scripts:
+          native: "əbn"
+      sun:
+        primary: "ሱራይ"
+        scripts:
+          native: "suray"
+      tooth:
+        primary: "ድርስ"
+        scripts:
+          native: "dərs"
+      tree:
+        primary: "ጥዒ"
+        scripts:
+          native: "ṭiʿi"
+      water:
+        primary: "ሓባ (haba) / ውሃ"
+        scripts:
+          native: "wəha"
+      white:
+        primary: "ጻዕዳ"
+        scripts:
+          native: "tsaʿda"
+      woman:
+        primary: "sebeyti"
+        scripts:
+          native: "ሰበይቲ"
+      yellow:
+        primary: "ቢጫ"
+        scripts:
+          native: "bicha"
+  indonesian:
+    name: "Indonesian"
+    native_name: "bahasa Indonesia"
+    family: "Austronesian"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "sifar"
+            alternates: ["kosong"]
+          "1":
+            primary: "satu"
+          "2":
+            primary: "dua"
+          "3":
+            primary: "tiga"
+          "4":
+            primary: "empat"
+          "5":
+            primary: "lima"
+          "6":
+            primary: "enam"
+          "7":
+            primary: "tujuh"
+          "8":
+            primary: "lapan"
+          "9":
+            primary: "sembilan"
+          "10":
+            primary: "sepuluh"
+    references:
+      - "https://omniglot.com/language/numbers/malayindonesian.htm"
+      - "https://www.indonesianpod101.com/blog/2019/10/24/indonesian-numbers/"
+      - "https://www.languagesandnumbers.com/how-to-count-in-indonesian/en/ind/"
+
+
+    vocabulary:
+      bird:
+        primary: "burung"
+      black:
+        primary: "hitam"
+      blue:
+        primary: "biru"
+      bread:
+        primary: "roti"
+      bridge:
+        primary: "jembatan"
+      child:
+        primary: "anak"
+      cloud:
+        primary: "awan"
+      eye:
+        primary: "mata"
+      father:
+        primary: "ayah"
+        alternates: ["bapak"]
+        scripts:
+          native: "older: ayah"
+      fire:
+        primary: "api"
+      fish:
+        primary: "ikan"
+      food:
+        primary: "makanan"
+      grandmother:
+        primary: "nenek"
+      green:
+        primary: "hijau"
+      house:
+        primary: "rumah"
+      man:
+        primary: "laki-laki"
+      moon:
+        primary: "bulan"
+      mother:
+        primary: "ibu"
+      name:
+        primary: "nama"
+      nose:
+        primary: "hidung"
+      rain:
+        primary: "hujan"
+      red:
+        primary: "merah"
+      soup:
+        primary: "sup"
+      stone:
+        primary: "batu"
+      sun:
+        primary: "matahari"
+      tooth:
+        primary: "gigi"
+      tree:
+        primary: "pohon"
+      water:
+        primary: "air"
+      white:
+        primary: "putih"
+      woman:
+        primary: "perempuan"
+      yellow:
+        primary: "kuning"
+  tagalog:
+    name: "Tagalog"
+    native_name: "Tagalog"
+    family: "Austronesian"
+    subfamily: ""
+    notes: |
+      Like Japanese, Tagalog uses two sets of numbers. In this case, one set is the native Tagalog numbers,
+      and the other one are especially the Spanish numbers but with Tagalog spelling.
+    number_systems:
+      native:
+        name: "Native Tagalog numbers"
+        numbers:
+          "0":
+            primary: "wala"
+            alternates: ["sero"]
+          "1":
+            primary: "isa"
+          "2":
+            primary: "dalawa"
+          "3":
+            primary: "tatlo"
+          "4":
+            primary: "apat"
+          "5":
+            primary: "lima"
+          "6":
+            primary: "anim"
+          "7":
+            primary: "pito"
+          "8":
+            primary: "walo"
+          "9":
+            primary: "siyam"
+          "10":
+            primary: "sampu"
+      spanish_derived:
+        name: "Spanish-derived Tagalog numbers"
+        numbers:
+          "0":
+            primary: "sero"
+          "1":
+            primary: "uno"
+          "2":
+            primary: "dos"
+          "3":
+            primary: "tres"
+          "4":
+            primary: "kwatro"
+          "5":
+            primary: "sinko"
+          "6":
+            primary: "sais"
+          "7":
+            primary: "syete"
+          "8":
+            primary: "otso"
+          "9":
+            primary: "nuwebe"
+          "10":
+            primary: "diyes"
+    references:
+      - "https://l-lingo.com/free-lessons/en/learn-tagalog-filipino/numbers-1-10.html"
+      - "https://omniglot.com/language/numbers/tagalog.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "ibon"
+      black:
+        primary: "itim"
+      blue:
+        primary: "bughaw"
+        alternates: ["asul"]
+        scripts:
+          native: "native root = **bughaw**"
+      bread:
+        primary: "tinapay"
+      bridge:
+        primary: "tulay"
+      child:
+        primary: "bata"
+      cloud:
+        primary: "ulap"
+      eye:
+        primary: "mata"
+      father:
+        primary: "ama"
+        alternates: ["tatay"]
+      fire:
+        primary: "apoy"
+      fish:
+        primary: "isda"
+      food:
+        primary: "pagkain"
+      grandmother:
+        primary: "lola"
+      green:
+        primary: "berde"
+        alternates: ["luntian"]
+        scripts:
+          native: "native old root = **luntian**"
+      house:
+        primary: "bahay"
+      man:
+        primary: "lalaki"
+      moon:
+        primary: "buwan"
+      mother:
+        primary: "ina"
+        alternates: ["nanay"]
+      name:
+        primary: "pangalan"
+      nose:
+        primary: "ilong"
+      rain:
+        primary: "ulan"
+      red:
+        primary: "pula"
+      soup:
+        primary: "sabaw"
+      stone:
+        primary: "bato"
+      sun:
+        primary: "araw"
+      tooth:
+        primary: "ngipin"
+      tree:
+        primary: "puno"
+      water:
+        primary: "tubig"
+      white:
+        primary: "puti"
+      woman:
+        primary: "babae"
+      yellow:
+        primary: "dilaw"
+  maanyan:
+    name: "Ma'anyan"
+    family: "Austronesian"
+    subfamily: ""
+    notes: |
+      I can definitely see the relationship to Indonesian/Malay. The Ma'anyan language is considered to be the most
+      likely source of the Malagasy language, and you can sort of see it with the numbers here (particularly keeping
+      in mind the transliterations here were probably performed by different people).
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "isaʔ"
+            alternates: ["eraŋ"]
+          "2":
+            primary: "rueh"
+          "3":
+            primary: "telo"
+          "4":
+            primary: "epat"
+          "5":
+            primary: "dime"
+          "6":
+            primary: "enem"
+          "7":
+            primary: "pitu"
+          "8":
+            primary: "balu"
+            alternates: ["walu"]
+          "9":
+            primary: "su'ey"
+          "10":
+            primary: "sapulu(h)"
+    references:
+      - "https://abvd.shh.mpg.de/austronesian/language.php?id=215"
+
+
+    vocabulary:
+      bird:
+        primary: "manu"
+      black:
+        primary: "hitam"
+      blue:
+        primary: "biru"
+      bread:
+        primary: "roti"
+      bridge:
+        primary: "jembatan"
+        scripts:
+          native: "loan; no ancient native form"
+      child:
+        primary: "anaq"
+      cloud:
+        primary: "awan"
+      eye:
+        primary: "mate"
+      father:
+        primary: "amang"
+      fire:
+        primary: "api"
+      fish:
+        primary: "ikan"
+      food:
+        primary: "panyarah"
+      grandmother:
+        primary: "ine-ine"
+        alternates: ["ompu-ine"]
+      green:
+        primary: "hijau (loan)"
+        notes: "no known inherited colour term"
+      house:
+        primary: "lewu"
+        alternates: ["uma"]
+      man:
+        primary: "lélaki"
+        alternates: ["lako"]
+      moon:
+        primary: "bulan"
+      mother:
+        primary: "ine"
+      name:
+        primary: "ngaran"
+      nose:
+        primary: "irung"
+      rain:
+        primary: "ujan"
+      red:
+        primary: "marah"
+      soup:
+        primary: "sop"
+      stone:
+        primary: "batu"
+      sun:
+        primary: "mata harian"
+        alternates: ["mata wayang"]
+        scripts:
+          native: "root: mata = “eye”"
+      tooth:
+        primary: "ipen"
+      tree:
+        primary: "kayu"
+      water:
+        primary: "wai (older Austronesian root) / wae"
+      white:
+        primary: "puti"
+      woman:
+        primary: "bawi"
+      yellow:
+        primary: "kuning"
+  malagasy:
+    name: "Malagasy"
+    native_name: "Malagasy"
+    family: "Austronesian"
+    subfamily: ""
+    notes: |
+      That the main language in Madagascar is an Austronesian language shows the incredible reach of Austronesian
+      settlers some two thousand years ago, extending all the way from Madagascar to Hawai'i and Rapa Nui (Easter Island).
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "aotra"
+          "1":
+            primary: "iray"
+          "2":
+            primary: "roa"
+          "3":
+            primary: "telo"
+          "4":
+            primary: "efatra"
+          "5":
+            primary: "dimy"
+          "6":
+            primary: "enina"
+          "7":
+            primary: "fito"
+          "8":
+            primary: "valo"
+          "9":
+            primary: "sivy"
+          "10":
+            primary: "folo"
+    references:
+      - "https://www.languagesandnumbers.com/how-to-count-in-malagasy/en/mlg/"
+      - "https://omniglot.com/language/numbers/malagasy.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "vorona"
+      black:
+        primary: "mainty"
+      blue:
+        primary: "manga"
+      bread:
+        primary: "mofo"
+      bridge:
+        primary: "tetezana"
+      child:
+        primary: "zaza"
+      cloud:
+        primary: "rahona"
+      eye:
+        primary: "maso"
+      father:
+        primary: "ray"
+      fire:
+        primary: "afo"
+      fish:
+        primary: "trondro"
+      food:
+        primary: "sakafo"
+      grandmother:
+        primary: "bepim-bavy"
+        alternates: ["nenibe"]
+      green:
+        primary: "maitso"
+      house:
+        primary: "trano"
+      man:
+        primary: "lehilahy"
+      moon:
+        primary: "volana"
+      mother:
+        primary: "reny"
+      name:
+        primary: "anarana"
+      nose:
+        primary: "orona"
+      rain:
+        primary: "orana"
+      red:
+        primary: "mena"
+      soup:
+        primary: "lasopy"
+      stone:
+        primary: "vato"
+      sun:
+        primary: "masoandro"
+      tooth:
+        primary: "nify"
+      tree:
+        primary: "hazo"
+      water:
+        primary: "rano"
+      white:
+        primary: "fotsy"
+      woman:
+        primary: "vehivavy"
+      yellow:
+        primary: "mavo"
+  maori:
+    name: "Māori"
+    native_name: "Māori"
+    family: "Austronesian"
+    subfamily: "Polynesian"
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "kore"
+          "1":
+            primary: "tahi"
+          "2":
+            primary: "rua"
+          "3":
+            primary: "toru"
+          "4":
+            primary: "whā"
+          "5":
+            primary: "rima"
+          "6":
+            primary: "ono"
+          "7":
+            primary: "whitu"
+          "8":
+            primary: "waru"
+          "9":
+            primary: "iwa"
+          "10":
+            primary: "tekau"
+    references:
+      - "https://www.maori.cl/learn/numbers.htm"
+      - "https://omniglot.com/language/numbers/maori.htm"
+      - "http://www.childrensbooksonline.org/Maori_Folk_Tales/maori_language.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "manu"
+      black:
+        primary: "mangu"
+        alternates: ["pango"]
+      blue:
+        primary: "kahurangi"
+        alternates: ["kikorangi"]
+      bread:
+        primary: "parāoa"
+      bridge:
+        primary: "arawhiti"
+        alternates: ["piriti"]
+      child:
+        primary: "tamaiti"
+      cloud:
+        primary: "kapua"
+      eye:
+        primary: "karu"
+        alternates: ["whatu"]
+      father:
+        primary: "pāpā"
+        alternates: ["matua tāne"]
+      fire:
+        primary: "ahi"
+      fish:
+        primary: "ika"
+      food:
+        primary: "kai"
+      grandmother:
+        primary: "kuia"
+      green:
+        primary: "kākāriki"
+      house:
+        primary: "whare"
+      man:
+        primary: "tāne"
+      moon:
+        primary: "marama"
+      mother:
+        primary: "whaea"
+      name:
+        primary: "ingoa"
+      nose:
+        primary: "ihu"
+      rain:
+        primary: "ua"
+      red:
+        primary: "whero"
+      soup:
+        primary: "hupa"
+      stone:
+        primary: "kōhatu"
+      sun:
+        primary: "rā"
+      tooth:
+        primary: "niho"
+      tree:
+        primary: "rākau"
+      water:
+        primary: "wai"
+      white:
+        primary: "mā"
+      woman:
+        primary: "wahine"
+      yellow:
+        primary: "kōwhai"
+  hawaiian:
+    name: "Hawaiian"
+    native_name: "ʻŌlelo Hawaiʻi"
+    family: "Austronesian"
+    subfamily: "Polynesian"
+    notes: |
+      Some transcriptions use backticks, others just use single quotes, and others seem to omit that character altogether.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "`ole"
+          "1":
+            primary: "`ekahi"
+          "2":
+            primary: "`elua"
+          "3":
+            primary: "`ekolu"
+          "4":
+            primary: "`ehā"
+          "5":
+            primary: "`elima"
+          "6":
+            primary: "`eono"
+          "7":
+            primary: "`ehiku"
+          "8":
+            primary: "`ewalu"
+          "9":
+            primary: "`eiwa"
+          "10":
+            primary: "`umi"
+    references:
+      - "https://www.mauimapp.com/moolelo/hwnnmbrs.htm"
+      - "http://www.sf.airnet.ne.jp/~ts/language/number/hawaiian.html"
+      - "https://forum.duolingo.com/comment/29227679/Hawaiian-Numbers"
+      - "https://omniglot.com/language/numbers/hawaiian.htm"
+
+
+    vocabulary:
+      bird:
+        primary: "manu"
+      black:
+        primary: "ʻeleʻele"
+      blue:
+        primary: "polū"
+      bread:
+        primary: "palaoa"
+      bridge:
+        primary: "alahaka"
+      child:
+        primary: "keiki"
+      cloud:
+        primary: "ao"
+      eye:
+        primary: "maka"
+      father:
+        primary: "makuakāne"
+      fire:
+        primary: "ahi"
+      fish:
+        primary: "iʻa"
+      food:
+        primary: "mea ʻai"
+      grandmother:
+        primary: "kupunahine"
+        alternates: ["tutu wahine"]
+      green:
+        primary: "ʻōmaʻomaʻo"
+      house:
+        primary: "hale"
+      man:
+        primary: "kāne"
+      moon:
+        primary: "mahina"
+      mother:
+        primary: "makuahine"
+      name:
+        primary: "inoa"
+      nose:
+        primary: "ihu"
+      rain:
+        primary: "ua"
+      red:
+        primary: "ʻulaʻula"
+      soup:
+        primary: "kūlina"
+        alternates: ["kupa"]
+        scripts:
+          native: "older: **kai** = broth"
+      stone:
+        primary: "pōhaku"
+      sun:
+        primary: "lā"
+      tooth:
+        primary: "niho"
+      tree:
+        primary: "lāʻau"
+      water:
+        primary: "wai"
+      white:
+        primary: "keʻokeʻo"
+      woman:
+        primary: "wahine"
+      yellow:
+        primary: "melemele"
+  hebrew:
+    name: "Hebrew"
+    native_name: "עברית"
+    family: "Afro-Asiatic"
+    subfamily: "Semitic"
+    notes: |
+      Modern Hebrew numbers. Hebrew has both masculine and feminine forms;
+      the masculine forms (shown here) are typically used for counting.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "efes"
+            scripts:
+              hebrew: "אֶפֶס"
+          "1":
+            primary: "echad"
+            alternates: ["achat (f)"]
+            scripts:
+              hebrew: "אֶחָד"
+          "2":
+            primary: "shnayim"
+            alternates: ["shtayim (f)"]
+            scripts:
+              hebrew: "שְׁנַיִם"
+          "3":
+            primary: "shlosha"
+            alternates: ["shalosh (f)"]
+            scripts:
+              hebrew: "שְׁלוֹשָׁה"
+          "4":
+            primary: "arba'a"
+            alternates: ["arba (f)"]
+            scripts:
+              hebrew: "אַרְבָּעָה"
+          "5":
+            primary: "chamisha"
+            alternates: ["chamesh (f)"]
+            scripts:
+              hebrew: "חֲמִשָּׁה"
+          "6":
+            primary: "shisha"
+            alternates: ["shesh (f)"]
+            scripts:
+              hebrew: "שִׁשָּׁה"
+          "7":
+            primary: "shiv'a"
+            alternates: ["sheva (f)"]
+            scripts:
+              hebrew: "שִׁבְעָה"
+          "8":
+            primary: "shmonah"
+            alternates: ["shmoneh (f)"]
+            scripts:
+              hebrew: "שְׁמוֹנָה"
+          "9":
+            primary: "tish'a"
+            alternates: ["tesha (f)"]
+            scripts:
+              hebrew: "תִּשְׁעָה"
+          "10":
+            primary: "asara"
+            alternates: ["eser (f)"]
+            scripts:
+              hebrew: "עֲשָׂרָה"
+    references:
+      - "https://www.omniglot.com/language/numbers/hebrew.htm"
+      - "https://www.languagesandnumbers.com/how-to-count-in-hebrew/en/heb/"
+
+
+    vocabulary:
+      bird:
+        primary: "tzipor"
+        scripts:
+          native: "צִפּוֹר"
+      black:
+        primary: "shakhor"
+        scripts:
+          native: "שָׁחוֹר"
+      blue:
+        primary: "kachol"
+        scripts:
+          native: "כָּחוֹל"
+      bread:
+        primary: "leḥem"
+        scripts:
+          native: "לֶחֶם"
+      bridge:
+        primary: "gesher"
+        scripts:
+          native: "גֶּשֶׁר"
+      child:
+        primary: "yeled"
+        alternates: ["yalda"]
+        scripts:
+          native: "יֶלֶד / יַלְדָּה"
+      cloud:
+        primary: "anan"
+        scripts:
+          native: "עָנָן"
+      eye:
+        primary: "ayin"
+        scripts:
+          native: "עַיִן"
+      father:
+        primary: "aba"
+        scripts:
+          native: "אַבָּא"
+      fire:
+        primary: "esh"
+        scripts:
+          native: "אֵשׁ"
+      fish:
+        primary: "dag"
+        scripts:
+          native: "דָּג"
+      food:
+        primary: "ochel"
+        scripts:
+          native: "אָכֵל / אוֹכֶל"
+      grandmother:
+        primary: "savta"
+        scripts:
+          native: "סָבְתָא"
+      green:
+        primary: "yarok"
+        scripts:
+          native: "יָרוֹק"
+      house:
+        primary: "bayit"
+        scripts:
+          native: "בַּיִת"
+      man:
+        primary: "ish"
+        scripts:
+          native: "אִישׁ"
+      moon:
+        primary: "yareach"
+        scripts:
+          native: "יָרֵחַ"
+      mother:
+        primary: "ima"
+        scripts:
+          native: "אִמָּא"
+      name:
+        primary: "shem"
+        scripts:
+          native: "שֵׁם"
+      nose:
+        primary: "af"
+        scripts:
+          native: "אַף"
+      rain:
+        primary: "geshem"
+        scripts:
+          native: "גֶּשֶׁם"
+      red:
+        primary: "adom"
+        scripts:
+          native: "אָדוֹם"
+      soup:
+        primary: "marak"
+        scripts:
+          native: "מָרָק"
+      stone:
+        primary: "even"
+        scripts:
+          native: "אֶבֶן"
+      sun:
+        primary: "shemesh"
+        scripts:
+          native: "שֶׁמֶשׁ"
+      tooth:
+        primary: "shen"
+        scripts:
+          native: "שֵׁן"
+      tree:
+        primary: "etz"
+        scripts:
+          native: "עֵץ"
+      water:
+        primary: "mayim"
+        scripts:
+          native: "מַיִם"
+      white:
+        primary: "lavan"
+        scripts:
+          native: "לָבָן"
+      woman:
+        primary: "isha"
+        scripts:
+          native: "אִשָּׁה"
+      yellow:
+        primary: "tzahov"
+        scripts:
+          native: "צָהוֹב"
+  cantonese:
+    name: "Cantonese"
+    native_name: "粵語"
+    family: "Sino-Tibetan"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "ling"
+            scripts:
+              chinese: "〇 or 零"
+          "1":
+            primary: "yat"
+            scripts:
+              chinese: "一"
+          "2":
+            primary: "yi"
+            scripts:
+              chinese: "二"
+          "3":
+            primary: "sam"
+            scripts:
+              chinese: "三"
+          "4":
+            primary: "sei"
+            scripts:
+              chinese: "四"
+          "5":
+            primary: "ngh"
+            scripts:
+              chinese: "五"
+          "6":
+            primary: "lok"
+            scripts:
+              chinese: "六"
+          "7":
+            primary: "chat"
+            scripts:
+              chinese: "七"
+          "8":
+            primary: "bhat"
+            scripts:
+              chinese: "八"
+          "9":
+            primary: "gau"
+            scripts:
+              chinese: "九"
+          "10":
+            primary: "sap"
+            scripts:
+              chinese: "十"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "niu5"
+        scripts:
+          native: "鳥"
+      black:
+        primary: "hak1"
+        scripts:
+          native: "黑"
+      blue:
+        primary: "laam4"
+        scripts:
+          native: "藍"
+      bread:
+        primary: "min6baau1"
+        scripts:
+          native: "麵包"
+      bridge:
+        primary: "kiu4"
+        scripts:
+          native: "橋"
+      child:
+        primary: "hai4zi2"
+        alternates: ["siu2pang4jau5 (孩子", "小朋友)"]
+        notes: "base word: hai4zi2"
+      cloud:
+        primary: "wan4"
+        scripts:
+          native: "雲"
+      eye:
+        primary: "ngaan5"
+        scripts:
+          native: "眼"
+      father:
+        primary: "baa4"
+        scripts:
+          native: "爸 / 阿爸"
+      fire:
+        primary: "fo2"
+        scripts:
+          native: "火"
+      fish:
+        primary: "jyu2"
+        scripts:
+          native: "魚"
+      food:
+        primary: "sik6mat6"
+        scripts:
+          native: "食物"
+      grandmother:
+        primary: "maa4maa1"
+        alternates: ["po4po2"]
+        scripts:
+          native: "嫲嫲 / 婆婆"
+      green:
+        primary: "luk6"
+        alternates: ["cing1 (綠", "青)"]
+        notes: "both native; **luk6** is “green”"
+      house:
+        primary: "uk1"
+        scripts:
+          native: "屋"
+      man:
+        primary: "naam4jan4"
+        scripts:
+          native: "男人"
+      moon:
+        primary: "jyut6"
+        scripts:
+          native: "月"
+      mother:
+        primary: "maa4"
+        scripts:
+          native: "媽 / 阿媽"
+      name:
+        primary: "meng2"
+        scripts:
+          native: "名"
+      nose:
+        primary: "bei6"
+        scripts:
+          native: "鼻"
+      rain:
+        primary: "jyu5"
+        scripts:
+          native: "雨"
+      red:
+        primary: "hung4"
+        scripts:
+          native: "紅"
+      soup:
+        primary: "tong1"
+        scripts:
+          native: "湯"
+      stone:
+        primary: "sek6"
+        scripts:
+          native: "石"
+      sun:
+        primary: "taai3joeng4"
+        scripts:
+          native: "太陽"
+      tooth:
+        primary: "ngaa4"
+        scripts:
+          native: "牙"
+      tree:
+        primary: "syu6"
+        scripts:
+          native: "樹"
+      water:
+        primary: "seoi2"
+        scripts:
+          native: "水"
+      white:
+        primary: "baak6"
+        scripts:
+          native: "白"
+      woman:
+        primary: "neoi5jan4"
+        scripts:
+          native: "女人"
+      yellow:
+        primary: "wong4"
+        scripts:
+          native: "黃"
+  mandarin:
+    name: "Mandarin"
+    native_name: "中文"
+    family: "Sino-Tibetan"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "líng"
+            scripts:
+              chinese: "〇 or 零"
+          "1":
+            primary: "yī"
+            scripts:
+              chinese: "一"
+          "2":
+            primary: "èr"
+            scripts:
+              chinese: "二"
+          "3":
+            primary: "sān"
+            scripts:
+              chinese: "三"
+          "4":
+            primary: "sì"
+            scripts:
+              chinese: "四"
+          "5":
+            primary: "wǔ"
+            scripts:
+              chinese: "五"
+          "6":
+            primary: "liù"
+            scripts:
+              chinese: "六"
+          "7":
+            primary: "qī"
+            scripts:
+              chinese: "七"
+          "8":
+            primary: "ba"
+            scripts:
+              chinese: "八"
+          "9":
+            primary: "jiu"
+            scripts:
+              chinese: "九"
+          "10":
+            primary: "shí"
+            scripts:
+              chinese: "十"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "niǎo"
+        scripts:
+          native: "鸟"
+      black:
+        primary: "hēi"
+        scripts:
+          native: "黑"
+      blue:
+        primary: "lán"
+        scripts:
+          native: "蓝"
+      bread:
+        primary: "miànbāo"
+        scripts:
+          native: "面包"
+      bridge:
+        primary: "qiáo"
+        scripts:
+          native: "桥"
+      child:
+        primary: "háizi"
+        scripts:
+          native: "孩子"
+      cloud:
+        primary: "yún"
+        scripts:
+          native: "云"
+      eye:
+        primary: "yǎnjing"
+        scripts:
+          native: "眼睛"
+      father:
+        primary: "bàba"
+        scripts:
+          native: "爸爸"
+      fire:
+        primary: "huǒ"
+        scripts:
+          native: "火"
+      fish:
+        primary: "yú"
+        scripts:
+          native: "鱼"
+      food:
+        primary: "shíwù"
+        scripts:
+          native: "食物"
+      grandmother:
+        primary: "nǎinai"
+        alternates: ["wàipó"]
+        scripts:
+          native: "奶奶 / 外婆"
+      green:
+        primary: "lǜ"
+        scripts:
+          native: "绿"
+      house:
+        primary: "fángzi"
+        scripts:
+          native: "房子"
+      man:
+        primary: "nánrén"
+        scripts:
+          native: "男人"
+      moon:
+        primary: "yuèliang"
+        scripts:
+          native: "月亮"
+      mother:
+        primary: "māma"
+        scripts:
+          native: "妈妈"
+      name:
+        primary: "míngzì"
+        scripts:
+          native: "名字"
+      nose:
+        primary: "bízi"
+        scripts:
+          native: "鼻子"
+      rain:
+        primary: "yǔ"
+        scripts:
+          native: "雨"
+      red:
+        primary: "hóng"
+        scripts:
+          native: "红"
+      soup:
+        primary: "tāng"
+        scripts:
+          native: "汤"
+      stone:
+        primary: "shí"
+        scripts:
+          native: "石"
+      sun:
+        primary: "tàiyáng"
+        scripts:
+          native: "太阳"
+      tooth:
+        primary: "yá"
+        scripts:
+          native: "牙"
+      tree:
+        primary: "shù"
+        scripts:
+          native: "树"
+      water:
+        primary: "shuǐ"
+        scripts:
+          native: "水"
+      white:
+        primary: "bái"
+        scripts:
+          native: "白"
+      woman:
+        primary: "nǚrén"
+        scripts:
+          native: "女人"
+      yellow:
+        primary: "huáng"
+        scripts:
+          native: "黄"
+  taiwanese:
+    name: "Taiwanese / Min Nan"
+    native_name: "臺語"
+    family: "Sino-Tibetan"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      colloquial:
+        name: "Min Nan colloquial numbers"
+        numbers:
+          "0":
+            primary: "khòng"
+            scripts:
+              chinese: "空"
+          "1":
+            primary: "chit"
+            scripts:
+              chinese: "一"
+          "2":
+            primary: "nn̄g"
+            scripts:
+              chinese: "二"
+          "3":
+            primary: "saⁿ"
+            scripts:
+              chinese: "三"
+          "4":
+            primary: "sì"
+            scripts:
+              chinese: "四"
+          "5":
+            primary: "gō͘"
+            scripts:
+              chinese: "五"
+          "6":
+            primary: "la̍k"
+            scripts:
+              chinese: "六"
+          "7":
+            primary: "chhit"
+            scripts:
+              chinese: "七"
+          "8":
+            primary: "peh"
+            alternates: ["poeh"]
+            scripts:
+              chinese: "八"
+          "9":
+            primary: "káu"
+            scripts:
+              chinese: "九"
+          "10":
+            primary: "cha̍p"
+            scripts:
+              chinese: "十"
+      literary:
+        name: "Min Nan literary numbers"
+        numbers:
+          "0":
+            primary: "khòng"
+            scripts:
+              chinese: "空"
+          "1":
+            primary: "it"
+            scripts:
+              chinese: "一"
+          "2":
+            primary: "jī"
+            alternates: ["lī"]
+            scripts:
+              chinese: "二"
+          "3":
+            primary: "sam"
+            scripts:
+              chinese: "三"
+          "4":
+            primary: "sù"
+            scripts:
+              chinese: "四"
+          "5":
+            primary: "ngó͘"
+            scripts:
+              chinese: "五"
+          "6":
+            primary: "lio̍k"
+            scripts:
+              chinese: "六"
+          "7":
+            primary: "chhit"
+            scripts:
+              chinese: "七"
+          "8":
+            primary: "pat"
+            scripts:
+              chinese: "八"
+          "9":
+            primary: "kiú"
+            scripts:
+              chinese: "九"
+          "10":
+            primary: "si̍p"
+            scripts:
+              chinese: "十"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "tsiáⁿ"
+        scripts:
+          native: "鳥"
+      black:
+        primary: "ô͘"
+        scripts:
+          native: "烏"
+      blue:
+        primary: "lâng-sek"
+        scripts:
+          native: "藍色"
+      bread:
+        primary: "pn̄g"
+        scripts:
+          native: "餅 / 麵包"
+      bridge:
+        primary: "kiô"
+        scripts:
+          native: "橋"
+      child:
+        primary: "kiánn-á"
+        scripts:
+          native: "囝仔"
+      cloud:
+        primary: "hûn"
+        scripts:
+          native: "雲"
+      eye:
+        primary: "bá-khu"
+        scripts:
+          native: "目睭"
+      father:
+        primary: "pē"
+        alternates: ["pà"]
+        scripts:
+          native: "爸"
+      fire:
+        primary: "hué"
+        scripts:
+          native: "火"
+      fish:
+        primary: "hî"
+        scripts:
+          native: "魚"
+      food:
+        primary: "chia̍h-mi̍h"
+        scripts:
+          native: "食物"
+      grandmother:
+        primary: "a-má"
+        scripts:
+          native: "阿嬤"
+      green:
+        primary: "le̍k-sek"
+        alternates: ["chhài-sek (綠色)"]
+        notes: "no older native Min Nan term"
+      house:
+        primary: "chhù"
+        scripts:
+          native: "厝"
+      man:
+        primary: "ta-po͘-lâng"
+        scripts:
+          native: "查某儂 = woman; 男子 = ta-po͘-lâng for man depends; standard: ta-po͘-lâng = male person"
+      moon:
+        primary: "go̍eh"
+        scripts:
+          native: "月"
+      mother:
+        primary: "má"
+        scripts:
+          native: "媽"
+      name:
+        primary: "miâ"
+        scripts:
+          native: "名"
+      nose:
+        primary: "phīⁿ"
+        scripts:
+          native: "鼻"
+      rain:
+        primary: "hōo"
+        scripts:
+          native: "雨"
+      red:
+        primary: "âng"
+        scripts:
+          native: "紅"
+      soup:
+        primary: "thng"
+        scripts:
+          native: "湯"
+      stone:
+        primary: "chio̍h"
+        scripts:
+          native: "石"
+      sun:
+        primary: "tha̍i-iông"
+        scripts:
+          native: "太陽"
+      tooth:
+        primary: "khìⁿ"
+        scripts:
+          native: "齒"
+      tree:
+        primary: "chhiūⁿ"
+        scripts:
+          native: "樹"
+      water:
+        primary: "chúi"
+        scripts:
+          native: "水"
+      white:
+        primary: "pe̍h"
+        scripts:
+          native: "白"
+      woman:
+        primary: "cha-bó·-lâng"
+        scripts:
+          native: "查某儂"
+      yellow:
+        primary: "n̂g"
+        scripts:
+          native: "黃"
+  japanese:
+    name: "Japanese"
+    native_name: "日本語"
+    family: "Japonic"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      sino_japanese:
+        name: "Sino-Japanese numbers"
+        numbers:
+          "0":
+            primary: "zero"
+            alternates: ["rei"]
+            scripts:
+              hiragana: "ゼロ"
+              hiragana_alt: "れい"
+              kanji: "〇 or 零"
+          "1":
+            primary: "ichi"
+            scripts:
+              hiragana: "いち"
+              kanji: "一"
+          "2":
+            primary: "ni"
+            scripts:
+              hiragana: "に"
+              kanji: "二"
+          "3":
+            primary: "san"
+            scripts:
+              hiragana: "さん"
+              kanji: "三"
+          "4":
+            primary: "shi"
+            alternates: ["yon"]
+            scripts:
+              hiragana: "し"
+              hiragana_alt: "よん"
+              kanji: "四"
+          "5":
+            primary: "go"
+            scripts:
+              hiragana: "ご"
+              kanji: "五"
+          "6":
+            primary: "roku"
+            scripts:
+              hiragana: "ろく"
+              kanji: "六"
+          "7":
+            primary: "shichi"
+            alternates: ["nana"]
+            scripts:
+              hiragana: "しち"
+              hiragana_alt: "なな"
+              kanji: "七"
+          "8":
+            primary: "hachi"
+            scripts:
+              hiragana: "はち"
+              kanji: "八"
+          "9":
+            primary: "kyu"
+            scripts:
+              hiragana: "きゅう"
+              kanji: "九"
+          "10":
+            primary: "ju"
+            scripts:
+              hiragana: "じゅう"
+              kanji: "十"
+      native:
+        name: "Japanese (Native) numbers"
+        notes: "These have an unusual role in the language via conjugations into counter words"
+        numbers:
+          "1":
+            primary: "hitotsu"
+            scripts:
+              hiragana: "ひとつ"
+              kanji: "一つ"
+          "2":
+            primary: "futatsu"
+            scripts:
+              hiragana: "ふたつ"
+              kanji: "二つ"
+          "3":
+            primary: "mittsu"
+            scripts:
+              hiragana: "みっつ"
+              kanji: "三つ"
+          "4":
+            primary: "yottsu"
+            scripts:
+              hiragana: "よっつ"
+              kanji: "四つ"
+          "5":
+            primary: "itsutsu"
+            scripts:
+              hiragana: "いつつ"
+              kanji: "五つ"
+          "6":
+            primary: "muttsu"
+            scripts:
+              hiragana: "むっつ"
+              kanji: "六つ"
+          "7":
+            primary: "nanatsu"
+            scripts:
+              hiragana: "ななつ"
+              kanji: "七つ"
+          "8":
+            primary: "yattsu"
+            scripts:
+              hiragana: "やっつ"
+              kanji: "八つ"
+          "9":
+            primary: "kokonotsu"
+            scripts:
+              hiragana: "ここのつ"
+              kanji: "九つ"
+          "10":
+            primary: "to"
+            scripts:
+              hiragana: "とお"
+              kanji: "十"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "tori"
+        scripts:
+          native: "鳥"
+      black:
+        primary: "kuro"
+        scripts:
+          native: "黒"
+      blue:
+        primary: "ao"
+        scripts:
+          native: "青"
+      bread:
+        primary: "pan (パン)"
+        notes: "loanword; no native term survives"
+      bridge:
+        primary: "hashi"
+        scripts:
+          native: "橋"
+      child:
+        primary: "kodomo"
+        scripts:
+          native: "子供"
+      cloud:
+        primary: "kumo"
+        scripts:
+          native: "雲"
+      eye:
+        primary: "me"
+        scripts:
+          native: "目"
+      father:
+        primary: "chichi"
+        scripts:
+          native: "父"
+      fire:
+        primary: "hi"
+        scripts:
+          native: "火"
+      fish:
+        primary: "sakana"
+        scripts:
+          native: "魚"
+      food:
+        primary: "tabemono"
+        scripts:
+          native: "食べ物"
+      grandmother:
+        primary: "sobo"
+        scripts:
+          native: "祖母"
+      green:
+        primary: "midori"
+        scripts:
+          native: "緑"
+      house:
+        primary: "ie"
+        scripts:
+          native: "家"
+      man:
+        primary: "otoko"
+        scripts:
+          native: "男"
+      moon:
+        primary: "tsuki"
+        scripts:
+          native: "月"
+      mother:
+        primary: "haha"
+        scripts:
+          native: "母"
+      name:
+        primary: "namae"
+        scripts:
+          native: "名前"
+      nose:
+        primary: "hana"
+        scripts:
+          native: "鼻"
+      rain:
+        primary: "ame"
+        scripts:
+          native: "雨"
+      red:
+        primary: "aka"
+        scripts:
+          native: "赤"
+      soup:
+        primary: "suupu"
+        alternates: ["shiru (スープ", "汁)"]
+        notes: "oldest native = shiru (汁)"
+      stone:
+        primary: "ishi"
+        scripts:
+          native: "石"
+      sun:
+        primary: "taiyō"
+        alternates: ["hi (太陽", "日)"]
+        notes: "oldest native is *hi* (日)"
+      tooth:
+        primary: "ha"
+        scripts:
+          native: "歯"
+      tree:
+        primary: "ki"
+        scripts:
+          native: "木"
+      water:
+        primary: "mizu"
+        scripts:
+          native: "水"
+      white:
+        primary: "shiro"
+        scripts:
+          native: "白"
+      woman:
+        primary: "onna"
+        scripts:
+          native: "女"
+      yellow:
+        primary: "kiiro"
+        scripts:
+          native: "黄色"
+  uchinaguchi:
+    name: "Uchinaguchi"
+    native_name: "ウチナーグチ"
+    alternate_names: ["Okinawan"]
+    family: "Japonic"
+    subfamily: ""
+    notes: ""
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "tiichi"
+            scripts:
+              katakana: "ティーチ"
+          "2":
+            primary: "taachi"
+            scripts:
+              katakana: "ターチ"
+          "3":
+            primary: "miichi"
+            scripts:
+              katakana: "ミーチ"
+          "4":
+            primary: "yuuchi"
+            scripts:
+              katakana: "ユーチ"
+          "5":
+            primary: "ichichi"
+            scripts:
+              katakana: "イチチ"
+          "6":
+            primary: "muuchi"
+            scripts:
+              katakana: "ムーチ"
+          "7":
+            primary: "nanachi"
+            scripts:
+              katakana: "ナナチ"
+          "8":
+            primary: "yaachi"
+            scripts:
+              katakana: "ヤーチ"
+          "9":
+            primary: "kukunuchi"
+            scripts:
+              katakana: "ククヌチ"
+          "10":
+            primary: "tuu"
+            scripts:
+              katakana: "トゥー"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "tori (とぅり)"
+        notes: "native Ryukyuan reflex of *tori*"
+      black:
+        primary: "kuraa"
+        scripts:
+          native: "くらー"
+      blue:
+        primary: "ao"
+        alternates: ["aoi"]
+        scripts:
+          native: "あお / あおい"
+      bread:
+        primary: "pan (ぱん)"
+        notes: "loan; no native Ryukyuan term"
+      bridge:
+        primary: "hashi (はし)"
+        notes: "cognate with Japanese"
+      child:
+        primary: "warabii"
+        scripts:
+          native: "わらびー"
+      cloud:
+        primary: "kumii"
+        scripts:
+          native: "くみー"
+      eye:
+        primary: "mi"
+        scripts:
+          native: "み"
+      father:
+        primary: "uwaa"
+        scripts:
+          native: "うわー"
+      fire:
+        primary: "hin"
+        alternates: ["fin"]
+        scripts:
+          native: "ひん / ふぃん"
+      fish:
+        primary: "wii"
+        scripts:
+          native: "ゐー / うぃー"
+      food:
+        primary: "kachii"
+        alternates: ["kajii"]
+        scripts:
+          native: "かちー / かじー"
+      grandmother:
+        primary: "umakaa"
+        alternates: ["umakaa-baa"]
+        scripts:
+          native: "おまかー / おまかーばー"
+      green:
+        primary: "miduri (みどぅり)"
+        notes: "inherited; true native older term rarely used today"
+      house:
+        primary: "yaa"
+        scripts:
+          native: "やー"
+      man:
+        primary: "ushimun"
+        alternates: ["inshumun (うしむん", "いんしゅむん)"]
+        notes: "“male person”"
+      moon:
+        primary: "chichi"
+        alternates: ["tsukii (ちち", "つきー)"]
+        notes: "native form = chichi"
+      mother:
+        primary: "umakaa"
+        scripts:
+          native: "おまかー"
+      name:
+        primary: "naa"
+        scripts:
+          native: "なー"
+      nose:
+        primary: "hana (はな)"
+        notes: "native but cognate with Japanese"
+      rain:
+        primary: "ami"
+        scripts:
+          native: "あみ"
+      red:
+        primary: "akaa"
+        scripts:
+          native: "あかー"
+      soup:
+        primary: "shiru"
+        scripts:
+          native: "しる"
+      stone:
+        primary: "iishi"
+        scripts:
+          native: "いーし"
+      sun:
+        primary: "tiida"
+        scripts:
+          native: "てぃーだ"
+      tooth:
+        primary: "faa"
+        scripts:
+          native: "ふぁー"
+      tree:
+        primary: "kii"
+        scripts:
+          native: "きー"
+      water:
+        primary: "mii"
+        scripts:
+          native: "みー"
+      white:
+        primary: "shiraa"
+        scripts:
+          native: "しらー"
+      woman:
+        primary: "injumun (いんじゅむん)"
+        notes: "“female person”"
+      yellow:
+        primary: "chiiraa"
+        scripts:
+          native: "ちぃらー"
+  ainu:
+    name: "Ainu"
+    native_name: "アイヌ イタㇰ"
+    family: "language isolate"
+    subfamily: ""
+    notes: "Totally different from Japanese"
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "shine"
+          "2":
+            primary: "tu"
+          "3":
+            primary: "re"
+          "4":
+            primary: "ine"
+          "5":
+            primary: "ashikne"
+          "6":
+            primary: "iwa"
+          "7":
+            primary: "arawa"
+          "8":
+            primary: "tupe-san"
+          "9":
+            primary: "shinepe-san"
+          "10":
+            primary: "wa"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "cironnup"
+        scripts:
+          native: "チロンヌㇷ゚"
+      black:
+        primary: "kur"
+        alternates: ["kinne"]
+        scripts:
+          native: "クㇽ / キンネ"
+      blue:
+        primary: "sine-puyar (シネプヤㇻ)"
+        notes: "descriptive; no native core word"
+      bread:
+        primary: "panke"
+        alternates: ["pan (パンケ", "パン)"]
+        notes: "modern; no traditional bread in Ainu culture"
+      bridge:
+        primary: "piret"
+        alternates: ["piretne (ピレㇳ", "ピレㇳネ)"]
+        notes: "“passage/ crossing”"
+      child:
+        primary: "shupan"
+        alternates: ["shupun"]
+        scripts:
+          native: "シュパン"
+      cloud:
+        primary: "kunne-sam"
+        scripts:
+          native: "クンネサㇺ"
+      eye:
+        primary: "shik"
+        scripts:
+          native: "シㇰ"
+      father:
+        primary: "cise-kor-kamuy"
+        alternates: ["ekashi (チセコㇽカムイ", "エカㇱ)"]
+        notes: "no simple native everyday word; *ekashi* = “old man, elder”"
+      fire:
+        primary: "ape"
+        scripts:
+          native: "アぺ"
+      fish:
+        primary: "cep"
+        scripts:
+          native: "チェㇷ゚"
+      food:
+        primary: "uhash"
+        scripts:
+          native: "ウハㇱ"
+      grandmother:
+        primary: "huci (フチ)"
+        notes: "also means a grandmother-spirited being; same as “mother-elder”"
+      green:
+        primary: "poy-ni"
+        alternates: ["nis-poy (ポイニ", "ニスポイ)"]
+        notes: "descriptive; no single native colour word"
+      house:
+        primary: "cise"
+        scripts:
+          native: "チセ"
+      man:
+        primary: "okkay"
+        scripts:
+          native: "オッカイ"
+      moon:
+        primary: "moshir-kor-kamuy"
+        scripts:
+          native: "モシㇼコㇽカムイ"
+      mother:
+        primary: "huci"
+        scripts:
+          native: "フチ"
+      name:
+        primary: "ainupet"
+        alternates: ["shuma (アイヌペㇷ゚", "シュマ)"]
+        notes: "depends on dialect; ainupet = “Ainu-name”"
+      nose:
+        primary: "upas"
+        scripts:
+          native: "ウパㇱ"
+      rain:
+        primary: "ku"
+        scripts:
+          native: "ク"
+      red:
+        primary: "kunne (クンネ) for “dark/blackish-red” / kuper (クペㇻ) for red/yellowish tones"
+      soup:
+        primary: "rakko (ラッコ)"
+        notes: "general “broth, stew”"
+      stone:
+        primary: "isoye"
+        scripts:
+          native: "イソㇱ"
+      sun:
+        primary: "chise-kor-kamuy"
+        alternates: ["tokap-ikashima-kamuy (チセコㇽカムイ", "トカㇷ゚イカシマカムイ)"]
+        notes: "mythological; no simple common noun for “sun”"
+      tooth:
+        primary: "sisar"
+        scripts:
+          native: "シサㇻ"
+      tree:
+        primary: "nis"
+        scripts:
+          native: "ニㇲ"
+      water:
+        primary: "wakka"
+        scripts:
+          native: "ワッカ"
+      white:
+        primary: "sir-ka"
+        scripts:
+          native: "シㇼカ"
+      woman:
+        primary: "menoko"
+        scripts:
+          native: "メノコ"
+      yellow:
+        primary: "kuper (クペㇻ)"
+        notes: "covers “yellow”"
+  basque:
+    name: "Basque"
+    native_name: "euskara"
+    family: "language isolate"
+    subfamily: ""
+    notes: "Totally different from Spanish, Portuguese, or anything else in Western Europe"
+    number_systems:
+      default:
+        numbers:
+          "1":
+            primary: "bat"
+          "2":
+            primary: "bi"
+          "3":
+            primary: "hiru"
+          "4":
+            primary: "lau"
+          "5":
+            primary: "bost"
+          "6":
+            primary: "sei"
+          "7":
+            primary: "zazpi"
+          "8":
+            primary: "zortzi"
+          "9":
+            primary: "bederatzi"
+          "10":
+            primary: "hamar"
+    references: []
+
+
+    vocabulary:
+      bird:
+        primary: "txori"
+      black:
+        primary: "beltz"
+      blue:
+        primary: "urdin"
+      bread:
+        primary: "ogi"
+      bridge:
+        primary: "zubi"
+      child:
+        primary: "haur"
+        scripts:
+          native: "also ume — both ancient; **haur** is slightly more neutral"
+      cloud:
+        primary: "hodei"
+      eye:
+        primary: "begi"
+      father:
+        primary: "aita"
+      fire:
+        primary: "sua"
+      fish:
+        primary: "arrain"
+      food:
+        primary: "janari"
+      grandmother:
+        primary: "amona"
+      green:
+        primary: "berde"
+        scripts:
+          native: "note: this is ultimately Romance in origin; **orlegi** is the older native colour term"
+      house:
+        primary: "etxe"
+      man:
+        primary: "gizon"
+      moon:
+        primary: "ilargi"
+      mother:
+        primary: "ama"
+      name:
+        primary: "izen"
+      nose:
+        primary: "sudur"
+      rain:
+        primary: "euri"
+      red:
+        primary: "gorri"
+      soup:
+        primary: "zopa"
+        scripts:
+          native: "native; though resembles Romance forms, it is well-established and not a recent loan"
+      stone:
+        primary: "harri"
+      sun:
+        primary: "eguzki"
+        scripts:
+          native: "also **eguzki/eguzkiazki**, ancient root *eguzki*"
+      tooth:
+        primary: "hortz"
+      tree:
+        primary: "zuhaitz"
+      water:
+        primary: "ura"
+      white:
+        primary: "zuri"
+      woman:
+        primary: "emakume"
+      yellow:
+        primary: "hori"
+  georgian:
+    name: "Georgian"
+    native_name: "ქართული"
+    alternate_names: ["Kartuli"]
+    family: "Kartvelian"
+    subfamily: ""
+    notes: |
+      Georgian is the most widely spoken of the Kartvelian (South Caucasian) languages, a language family
+      indigenous to the Caucasus region. It is unrelated to Indo-European, Turkic, or Semitic languages.
+      Georgian has its own unique alphabet called Mkhedruli, which has been in use since the 11th century.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nuli"
+            scripts:
+              georgian: "ნული"
+          "1":
+            primary: "erti"
+            scripts:
+              georgian: "ერთი"
+          "2":
+            primary: "ori"
+            scripts:
+              georgian: "ორი"
+          "3":
+            primary: "sami"
+            scripts:
+              georgian: "სამი"
+          "4":
+            primary: "otkhi"
+            scripts:
+              georgian: "ოთხი"
+          "5":
+            primary: "khuti"
+            scripts:
+              georgian: "ხუთი"
+          "6":
+            primary: "ekvsi"
+            scripts:
+              georgian: "ექვსი"
+          "7":
+            primary: "shvidi"
+            scripts:
+              georgian: "შვიდი"
+          "8":
+            primary: "rva"
+            scripts:
+              georgian: "რვა"
+          "9":
+            primary: "tskhra"
+            scripts:
+              georgian: "ცხრა"
+          "10":
+            primary: "ati"
+            scripts:
+              georgian: "ათი"
+    references:
+      - "https://www.omniglot.com/language/numbers/georgian.htm"
+      - "https://www.languagesandnumbers.com/how-to-count-in-georgian/en/kat/"
+      - "https://en.wikibooks.org/wiki/Georgian/Numbers"
+
+
+    vocabulary:
+      bird:
+        primary: "p’eri"
+        scripts:
+          native: "ფრინველი"
+      black:
+        primary: "shavi"
+        scripts:
+          native: "შავი"
+      blue:
+        primary: "lurji"
+        scripts:
+          native: "ლურჯი"
+      bread:
+        primary: "puri"
+        scripts:
+          native: "პური"
+      bridge:
+        primary: "xidi"
+        scripts:
+          native: "ხიდი"
+      child:
+        primary: "bavshvi"
+        scripts:
+          native: "ბავშვი"
+      cloud:
+        primary: "ghmerti"
+        alternates: ["ghmerti q’vari (ღმერთი", "ღვთისქარი)"]
+        notes: "basic term: ghrma (ღრუბლი)"
+      eye:
+        primary: "tvali"
+        scripts:
+          native: "თვალი"
+      father:
+        primary: "mama"
+        scripts:
+          native: "მამა"
+      fire:
+        primary: "t’vali"
+        alternates: ["agni"]
+        scripts:
+          native: "ცეცხლი"
+      fish:
+        primary: "tskhavi"
+        scripts:
+          native: "თევზი"
+      food:
+        primary: "sak’vavi"
+        alternates: ["sasmeli"]
+        scripts:
+          native: "საკვები / სასმელი"
+      grandmother:
+        primary: "bebia"
+        scripts:
+          native: "ბებია"
+      green:
+        primary: "mts’vane"
+        scripts:
+          native: "მწვანე"
+      house:
+        primary: "saxli"
+        scripts:
+          native: "სახლი"
+      man:
+        primary: "k’aci"
+        scripts:
+          native: "კაცი"
+      moon:
+        primary: "mtvare"
+        scripts:
+          native: "მთვარე"
+      mother:
+        primary: "deda"
+        scripts:
+          native: "დედა"
+      name:
+        primary: "saxeli"
+        scripts:
+          native: "სახელი"
+      nose:
+        primary: "tsk’eli"
+        scripts:
+          native: "ცხვირი"
+      rain:
+        primary: "nts’vimi"
+        scripts:
+          native: "წვიმა"
+      red:
+        primary: "ts’iteli"
+        scripts:
+          native: "წითელი"
+      soup:
+        primary: "sup’i"
+        scripts:
+          native: "სუპი"
+      stone:
+        primary: "qva"
+        scripts:
+          native: "ქვა"
+      sun:
+        primary: "mze"
+        scripts:
+          native: "მზე"
+      tooth:
+        primary: "k’bili"
+        scripts:
+          native: "კბილი"
+      tree:
+        primary: "xe"
+        scripts:
+          native: "ხე"
+      water:
+        primary: "ts’qali"
+        scripts:
+          native: "წყალი"
+      white:
+        primary: "tetri"
+        scripts:
+          native: "თეთრი"
+      woman:
+        primary: "kali"
+        scripts:
+          native: "ქალი"
+      yellow:
+        primary: "qviteli"
+        scripts:
+          native: "ყვითელი"
+  adyghe:
+    name: "Adyghe"
+    native_name: "Адыгэбзэ"
+    alternate_names: ["West Circassian", "Adygei"]
+    family: "Northwest Caucasian"
+    subfamily: ""
+    notes: |
+      Adyghe is a Northwest Caucasian language with approximately 500,000 speakers, primarily in the
+      Republic of Adygea in Russia, where it holds co-official status alongside Russian. Since 1938,
+      Adyghe has been written with a version of the Cyrillic alphabet. The language employs a vigesimal
+      (base-20) counting system from forty upwards.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "ziI"
+            scripts:
+              cyrillic: "зиI"
+          "1":
+            primary: "zy"
+            scripts:
+              cyrillic: "зы"
+          "2":
+            primary: "tIu"
+            scripts:
+              cyrillic: "тӀу"
+          "3":
+            primary: "ŝy"
+            scripts:
+              cyrillic: "щы"
+          "4":
+            primary: "plIy"
+            scripts:
+              cyrillic: "плӀы"
+          "5":
+            primary: "tfy"
+            scripts:
+              cyrillic: "тфы"
+          "6":
+            primary: "hy"
+            scripts:
+              cyrillic: "хы"
+          "7":
+            primary: "bly"
+            scripts:
+              cyrillic: "блы"
+          "8":
+            primary: "i"
+            scripts:
+              cyrillic: "и"
+          "9":
+            primary: "bg″u"
+            scripts:
+              cyrillic: "бгъу"
+          "10":
+            primary: "pšIy"
+            scripts:
+              cyrillic: "пшӀы"
+    references:
+      - "https://www.omniglot.com/language/numbers/adyghe.htm"
+      - "https://www.languagesandnumbers.com/how-to-count-in-adyghe/en/ady/"
+
+
+    vocabulary:
+      bird:
+        primary: "tʃ’ayə"
+        scripts:
+          native: "тшъэ"
+      black:
+        primary: "ch’a (къуагъэ / къо)"
+        notes: "basic: ko (къо)"
+      blue:
+        primary: "q’ʷač’ə"
+        scripts:
+          native: "кIуаджэ"
+      bread:
+        primary: "naq’ʷa"
+        scripts:
+          native: "нэкIуэ"
+      bridge:
+        primary: "bɨʃ’e"
+        scripts:
+          native: "бышъэ"
+      child:
+        primary: "pt͡ɕə"
+        scripts:
+          native: "пцIэ"
+      cloud:
+        primary: "tl’aʒə"
+        scripts:
+          native: "тIыжъэ"
+      eye:
+        primary: "bzə"
+        scripts:
+          native: "бзэ"
+      father:
+        primary: "dadə"
+        scripts:
+          native: "дэдэ"
+      fire:
+        primary: "maw"
+        scripts:
+          native: "мафэ"
+      fish:
+        primary: "bza"
+        scripts:
+          native: "бзэ"
+      food:
+        primary: "wəs (wсы / мысы)"
+        notes: "“food”"
+      grandmother:
+        primary: "magana"
+        scripts:
+          native: "магъанэ"
+      green:
+        primary: "psh’e"
+        scripts:
+          native: "пщIэ"
+      house:
+        primary: "wuna"
+        scripts:
+          native: "унэ"
+      man:
+        primary: "tsh’ə (цIэ)"
+        notes: "“male person”"
+      moon:
+        primary: "dəxʷə"
+        scripts:
+          native: "дэкIуэ"
+      mother:
+        primary: "nana"
+        scripts:
+          native: "нанэ"
+      name:
+        primary: "ʃ’ə"
+        scripts:
+          native: "щIэ"
+      nose:
+        primary: "naq’a"
+        scripts:
+          native: "нэхъу"
+      rain:
+        primary: "pʃa"
+        scripts:
+          native: "пщIэ"
+      red:
+        primary: "sɨʃh’e"
+        scripts:
+          native: "сыщхьэ"
+      soup:
+        primary: "ʃ’ʷa (щхьэ)"
+        notes: "“broth / soup”"
+      stone:
+        primary: "q’ale"
+        scripts:
+          native: "кIалэ"
+      sun:
+        primary: "ʃətxə"
+        scripts:
+          native: "шытхъэ"
+      tooth:
+        primary: "tʃ’a"
+        scripts:
+          native: "тшъо"
+      tree:
+        primary: "t͡ɕ’ə"
+        scripts:
+          native: "чъы"
+      water:
+        primary: "psə"
+        scripts:
+          native: "псэ"
+      white:
+        primary: "aʒə"
+        scripts:
+          native: "ажъэ"
+      woman:
+        primary: "pschă (пщы)"
+        notes: "“female person”"
+      yellow:
+        primary: "t’l’e"
+        scripts:
+          native: "тIыблэ"
+  kabardian:
+    name: "Kabardian"
+    native_name: "Адыгэбзэ"
+    alternate_names: ["East Circassian", "Kabardino-Circassian"]
+    family: "Northwest Caucasian"
+    subfamily: ""
+    notes: |
+      Kabardian is a Northwest Caucasian language spoken mainly in the Kabardino-Balkar and
+      Karachay-Circassian Republics of Russia. It is closely related to Adyghe, and together they
+      form the Circassian language group. Kabardian has been written with the Cyrillic alphabet
+      since 1936, and the Kabardian Cyrillic alphabet contains 59 letters.
+    number_systems:
+      default:
+        numbers:
+          "0":
+            primary: "nol'"
+            scripts:
+              cyrillic: "ноль"
+          "1":
+            primary: "zy"
+            scripts:
+              cyrillic: "зы"
+          "2":
+            primary: "tIu"
+            scripts:
+              cyrillic: "тӀу"
+          "3":
+            primary: "šy"
+            scripts:
+              cyrillic: "щы"
+          "4":
+            primary: "plIy"
+            scripts:
+              cyrillic: "плӀы"
+          "5":
+            primary: "txu"
+            scripts:
+              cyrillic: "тху"
+          "6":
+            primary: "xy"
+            scripts:
+              cyrillic: "хы"
+          "7":
+            primary: "bly"
+            scripts:
+              cyrillic: "блы"
+          "8":
+            primary: "y"
+            scripts:
+              cyrillic: "и"
+          "9":
+            primary: "bgʷu"
+            scripts:
+              cyrillic: "бгъу"
+          "10":
+            primary: "pšIy"
+            scripts:
+              cyrillic: "пщӏы"
+    references:
+      - "https://omniglot.com/language/numbers/kabardian.htm"
+
+    vocabulary:
+      bird:
+        primary: "tś’a"
+        scripts:
+          native: "тшъэ"
+      black:
+        primary: "k’w"
+        scripts:
+          native: "къу"
+      blue:
+        primary: "k’uec̣’e"
+        scripts:
+          native: "кIуэджэ"
+      bread:
+        primary: "neq’ue"
+        scripts:
+          native: "нэкъуэ"
+      bridge:
+        primary: "bysh’e"
+        scripts:
+          native: "бышъэ"
+      child:
+        primary: "pc̣’e"
+        scripts:
+          native: "пцIы"
+      cloud:
+        primary: "tl’yazh"
+        scripts:
+          native: "тIыжь"
+      eye:
+        primary: "bzə"
+        scripts:
+          native: "бзэ"
+      father:
+        primary: "dada"
+        scripts:
+          native: "дэдэ"
+      fire:
+        primary: "maf’e"
+        scripts:
+          native: "мафэ"
+      fish:
+        primary: "bzə (бзэ)"
+        notes: "generic “fish”"
+      food:
+        primary: "mys’e"
+        scripts:
+          native: "мысэ"
+      grandmother:
+        primary: "magana"
+        scripts:
+          native: "магъанэ"
+      green:
+        primary: "psh’e"
+        scripts:
+          native: "пщIэ"
+      house:
+        primary: "wune"
+        scripts:
+          native: "унэ"
+      man:
+        primary: "sch’a (щхьэ / схьэ)"
+        notes: "“male person”"
+      moon:
+        primary: "dek’we"
+        scripts:
+          native: "дэкIуэ"
+      mother:
+        primary: "nana"
+        scripts:
+          native: "нанэ"
+      name:
+        primary: "sh’e"
+        scripts:
+          native: "щIэ"
+      nose:
+        primary: "neq’w"
+        scripts:
+          native: "нэхъу"
+      rain:
+        primary: "psh̄’a"
+        scripts:
+          native: "пщIа"
+      red:
+        primary: "s̆ysx’e"
+        scripts:
+          native: "сыщхьэ"
+      soup:
+        primary: "shx’e"
+        scripts:
+          native: "щхьэ"
+      stone:
+        primary: "k’ale"
+        scripts:
+          native: "къалэ"
+      sun:
+        primary: "shx’ue"
+        scripts:
+          native: "шхьэгъуэ"
+      tooth:
+        primary: "tṣ’a"
+        scripts:
+          native: "цIэ"
+      tree:
+        primary: "tŝ’ə"
+        scripts:
+          native: "чъы"
+      water:
+        primary: "psə"
+        scripts:
+          native: "псэ"
+      white:
+        primary: "aźe"
+        scripts:
+          native: "ажъэ"
+      woman:
+        primary: "psch’e"
+        scripts:
+          native: "пщы"
+      yellow:
+        primary: "tlyble"
+        scripts:
+          native: "тIыблэ"

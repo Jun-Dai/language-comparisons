@@ -1,6 +1,6 @@
-# Language Comparisons - Numbers 1-10 Across Languages
+# Language Comparisons - Numbers and Vocabulary Across Languages
 
-A comprehensive database of numbers 0-10 in various languages, organized by language family, with support for multiple writing systems and number systems.
+A comprehensive database of numbers 0-10 and core vocabulary (31 words) in 55 languages, organized by language family, with support for multiple writing systems and number systems.
 
 ## Overview
 
@@ -8,11 +8,11 @@ This project catalogs numbers from different languages to explore linguistic rel
 
 ## Current Languages
 
-The database includes **50+ languages** from these language families:
+The database includes **55 languages** from these language families:
 - **Indo-European**: Hindi, Urdu, Farsi, Pashto, English, German, Latin, Romance languages (French, Spanish, Italian, Portuguese, Romanian, Catalan, Aragonese, Galician), Greek (Modern & Ancient), Albanian, Slavic languages (Russian, Ukrainian, Belarusian, Czech, Slovak), Baltic languages (Latvian, Lithuanian)
 - **Dravidian**: Tamil, Telugu, Malayalam, Brahui
 - **Uralic**: Hungarian, Estonian, Finnish, Northern Sami, Southern Sami
-- **Semitic**: Arabic, Maltese, Amharic, Tigrinya
+- **Afro-Asiatic (Semitic)**: Arabic, Hebrew, Maltese, Amharic, Tigrinya
 - **Austronesian**: Indonesian, Tagalog, Ma'anyan, Malagasy, Māori, Hawaiian
 - **Sino-Tibetan**: Cantonese, Mandarin, Taiwanese/Min Nan
 - **Japonic**: Japanese, Uchinaguchi (Okinawan)
@@ -22,7 +22,7 @@ The database includes **50+ languages** from these language families:
 
 ## Data Format
 
-The data is stored in `numbers.yml` with the following structure:
+The data is stored in `languages.yml` with the following structure:
 
 ```yaml
 languages:
@@ -49,10 +49,33 @@ languages:
             scripts:
               script_name: "native script"
           # ... through 10
+    vocabulary:
+      mother:
+        primary: "romanization"
+        scripts:
+          native: "native script"
+      father:
+        primary: "romanization"
+        alternates: ["alternate form"]
+        scripts:
+          native: "native script"
+        notes: "optional notes"
+      # ... 31 vocabulary words total
     references:
       - "URL 1"
       - "URL 2"
 ```
+
+### Vocabulary Words
+
+Each language includes 31 core vocabulary words:
+- **Family**: mother, father, man, woman, child, grandmother
+- **Basic**: name, food, soup, bread
+- **Places**: house, bridge
+- **Nature**: sun, moon, cloud, rain, water, fire, stone, tree
+- **Body**: tooth, nose, eye
+- **Animals**: bird, fish
+- **Colors**: green, red, yellow, blue, black, white
 
 ## Setup Instructions (macOS)
 
@@ -178,17 +201,25 @@ Coming soon:
 ```
 language-comparisons/
 ├── README.md              # This file
-├── numbers.yml            # Main data file
-├── numbers_page.mediawiki # Original mediawiki source
-└── numbers_tool.v         # V extraction tool
+├── languages.yml          # Main data file (numbers + vocabulary)
+├── new_words.txt          # Source vocabulary data
+├── numbers_page.mediawiki # Original mediawiki source for numbers
+├── numbers_tool.v         # V extraction tool
+├── add_vocabulary.py      # Python script to integrate vocabulary
+└── parse_vocabulary.py    # Python vocabulary parser
 ```
+
+### Known Issues
+
+⚠️ **V Tool Memory Issue**: The `numbers_tool.v` currently has memory issues with the larger `languages.yml` file (184KB, 8000+ lines) due to limitations in the prantlf.yaml library. The YAML file itself is valid and can be parsed with standard YAML libraries (Python, Ruby, etc.). We're working on a solution for the V tool or may provide alternative Python-based tools.
 
 ### Adding New Languages
 
-1. Add the language data to `numbers.yml` following the schema above
+1. Add the language data to `languages.yml` following the schema above
 2. Include all available writing systems (romanization, native scripts, numerals)
-3. Add references for your sources
-4. Commit and push your changes
+3. Add both numbers (0-10) and vocabulary (31 words)
+4. Add references for your sources
+5. Commit and push your changes
 
 ### Modifying the Tool
 
@@ -218,7 +249,7 @@ Key sources used for this project:
 - [Omniglot - Numbers in various languages](https://omniglot.com/language/numbers/)
 - [Languages and Numbers](https://www.languagesandnumbers.com/)
 - [Wikipedia - List of numbers in various languages](https://en.wikipedia.org/wiki/List_of_numbers_in_various_languages)
-- Individual language references listed in `numbers.yml`
+- Individual language references listed in `languages.yml`
 
 ## Acknowledgments
 

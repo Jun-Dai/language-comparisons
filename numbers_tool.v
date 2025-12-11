@@ -1,4 +1,4 @@
-// numbers_tool.v - Tool for extracting data from numbers.yml
+// numbers_tool.v - Tool for extracting data from languages.yml
 module main
 
 import os
@@ -94,7 +94,7 @@ fn main() {
 	}
 
 	command := args[0]
-	yaml_path := 'numbers.yml'
+	yaml_path := 'languages.yml'
 
 	data := parse_yaml(yaml_path) or {
 		eprintln('Error parsing YAML: ${err}')
