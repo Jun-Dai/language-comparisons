@@ -711,4 +711,1263 @@ Black: tjïerhpe
 White: viesjie
 
 
+# Adyghe
+
+Mother: nana (нанэ)
+Father: dadə (дэдэ)
+Man: tsh’ə (цIэ)  ← “male person”
+Woman: pschă (пщы)  ← “female person”
+Child: pt͡ɕə (пцIэ)
+Grandmother: magana (магъанэ)
+Name: ʃ’ə (щIэ)
+Food: wəs (wсы / мысы)  ← “food”
+Soup: ʃ’ʷa (щхьэ)  ← “broth / soup”
+Bread: naq’ʷa (нэкIуэ)
+House: wuna (унэ)
+Bridge: bɨʃ’e (бышъэ)
+Sun: ʃətxə (шытхъэ)
+Moon: dəxʷə (дэкIуэ)
+Cloud: tl’aʒə (тIыжъэ)
+Rain: pʃa (пщIэ)
+Water: psə (псэ)
+Fire: maw (мафэ)
+Stone: q’ale (кIалэ)
+Tooth: tʃ’a (тшъо)
+Nose: naq’a (нэхъу)
+Eye: bzə (бзэ)
+Bird: tʃ’ayə (тшъэ)
+Fish: bza (бзэ)
+Tree: t͡ɕ’ə (чъы)
+Green: psh’e (пщIэ)
+Red: sɨʃh’e (сыщхьэ)
+Yellow: t’l’e (тIыблэ)
+Blue: q’ʷač’ə (кIуаджэ)
+Black: ch’a (къуагъэ / къо) ← basic: ko (къо)
+White: aʒə (ажъэ)
+
+
+# Aragonese
+
+Mother: mai
+Father: pai
+Man: hombre
+Woman: muller
+Child: maino / nin (both native; “maino” more traditional)
+Grandmother: güela
+Name: nombre
+Food: comida
+Soup: sopa
+Bread: pan
+House: casa
+Bridge: puente
+Sun: sol
+Moon: luna
+Cloud: nublo
+Rain: pllou
+Water: aigua
+Fire: fuego / fuogo (fuogo = older form)
+Stone: piedra
+Tooth: dent
+Nose: nas
+Eye: uello (uel) ← “eye”
+Bird: paxaro
+Fish: peix
+Tree: arbre
+Green: berd / verde (older form: **berd**)
+Red: bermejo / royo (native: **royo**)
+Yellow: amarillo
+Blue: blau
+Black: negro
+White: blanco
+
+
+# Cantonese
+
+Mother: maa4 (媽 / 阿媽)
+Father: baa4 (爸 / 阿爸)
+Man: naam4jan4 (男人)
+Woman: neoi5jan4 (女人)
+Child: hai4zi2 / siu2pang4jau5 (孩子 / 小朋友) ← base word: hai4zi2
+Grandmother: maa4maa1 / po4po2 (嫲嫲 / 婆婆)
+Name: meng2 (名)
+Food: sik6mat6 (食物)
+Soup: tong1 (湯)
+Bread: min6baau1 (麵包)
+House: uk1 (屋)
+Bridge: kiu4 (橋)
+Sun: taai3joeng4 (太陽)
+Moon: jyut6 (月)
+Cloud: wan4 (雲)
+Rain: jyu5 (雨)
+Water: seoi2 (水)
+Fire: fo2 (火)
+Stone: sek6 (石)
+Tooth: ngaa4 (牙)
+Nose: bei6 (鼻)
+Eye: ngaan5 (眼)
+Bird: niu5 (鳥)
+Fish: jyu2 (魚)
+Tree: syu6 (樹)
+Green: luk6 / cing1 (綠 / 青) ← both native; **luk6** is “green”
+Red: hung4 (紅)
+Yellow: wong4 (黃)
+Blue: laam4 (藍)
+Black: hak1 (黑)
+White: baak6 (白)
+
+
+# Catalan
+
+Mother: mare
+Father: pare
+Man: home
+Woman: dona
+Child: nen / nena
+Grandmother: àvia
+Name: nom
+Food: menjar
+Soup: sopa
+Bread: pa
+House: casa
+Bridge: pont
+Sun: sol
+Moon: lluna
+Cloud: núvol
+Rain: pluja
+Water: aigua
+Fire: foc
+Stone: pedra
+Tooth: dent
+Nose: nas
+Eye: ull
+Bird: ocell
+Fish: peix
+Tree: arbre
+Green: verd
+Red: vermell
+Yellow: groc
+Blue: blau
+Black: negre
+White: blanc
+
+# Czech
+
+Mother: matka
+Father: otec
+Man: muž
+Woman: žena
+Child: dítě
+Grandmother: babička
+Name: jméno
+Food: jídlo
+Soup: polévka
+Bread: chléb
+House: dům
+Bridge: most
+Sun: slunce
+Moon: měsíc
+Cloud: mrak
+Rain: déšť
+Water: voda
+Fire: oheň
+Stone: kámen
+Tooth: zub
+Nose: nos
+Eye: oko
+Bird: pták
+Fish: ryba
+Tree: strom
+Green: zelený
+Red: červený
+Yellow: žlutý
+Blue: modrý
+Black: černý
+White: bílý
+
+
+# English
+
+Mother: mother
+Father: father
+Man: man
+Woman: woman
+Child: child
+Grandmother: grandmother
+Name: name
+Food: food
+Soup: soup
+Bread: bread
+House: house
+Bridge: bridge
+Sun: sun
+Moon: moon
+Cloud: cloud
+Rain: rain
+Water: water
+Fire: fire
+Stone: stone
+Tooth: tooth
+Nose: nose
+Eye: eye
+Bird: bird
+Fish: fish
+Tree: tree
+Green: green
+Red: red
+Yellow: yellow
+Blue: blue
+Black: black
+White: white
+
+
+# Farsi
+
+Mother: mâdar (مادر)
+Father: pedar (پدر)
+Man: mard (مرد)
+Woman: zan (زن)
+Child: bachche / kudak (بچه / کودک)
+Grandmother: مادربزرگ (mâdar-bozorg)
+Name: nâm (نام)
+Food: ghazâ (غذا)
+Soup: âsh (آش) ← native, very old Persian term
+Bread: nân (نان)
+House: khâne (خانه)
+Bridge: pol (پل)
+Sun: khorshid (خورشید)
+Moon: mâh (ماه)
+Cloud: abr (ابر)
+Rain: bârun (بارون) / bârandegi (بارندگی) ← bârun = colloquial native word
+Water: âb (آب)
+Fire: âtash (آتش)
+Stone: sang (سنگ)
+Tooth: dandân (دندان)
+Nose: bini (بینی)
+Eye: cheshm (چشم)
+Bird: parandeh (پرنده) ← basic noun: *morgh-e hava* is archaic
+Fish: mahi (ماهی)
+Tree: derakht (درخت)
+Green: sabz (سبز)
+Red: ghermez / sorx (قرمز / سرخ) ← **sorx** is the older native form
+Yellow: zard (زرد)
+Blue: âbi (آبی)
+Black: siâh (سیاه)
+White: sefid (سفید)
+
+
+# French
+
+Mother: mère
+Father: père
+Man: homme
+Woman: femme
+Child: enfant
+Grandmother: grand-mère
+Name: nom
+Food: nourriture
+Soup: soupe
+Bread: pain
+House: maison
+Bridge: pont
+Sun: soleil
+Moon: lune
+Cloud: nuage
+Rain: pluie
+Water: eau
+Fire: feu
+Stone: pierre
+Tooth: dent
+Nose: nez
+Eye: œil
+Bird: oiseau
+Fish: poisson
+Tree: arbre
+Green: vert
+Red: rouge
+Yellow: jaune
+Blue: bleu
+Black: noir
+White: blanc
+
+
+# Galician
+
+Mother: nai
+Father: pai
+Man: home
+Woman: muller
+Child: neno / nena
+Grandmother: avoa
+Name: nome
+Food: comida
+Soup: sopa
+Bread: pan
+House: casa
+Bridge: ponte
+Sun: sol
+Moon: lúa
+Cloud: nube
+Rain: chuva / choiva (choiva = more native Galician)
+Water: auga
+Fire: lume
+Stone: pedra
+Tooth: dente
+Nose: nariz
+Eye: ollo
+Bird: paxaro
+Fish: peixe
+Tree: árbore
+Green: verde
+Red: vermello
+Yellow: amarelo
+Blue: azul
+Black: negro
+White: branco
+
+
+# Georgian
+
+Mother: deda (დედა)
+Father: mama (მამა)
+Man: k’aci (კაცი)
+Woman: kali (ქალი)
+Child: bavshvi (ბავშვი)
+Grandmother: bebia (ბებია)
+Name: saxeli (სახელი)
+Food: sak’vavi / sasmeli (საკვები / სასმელი)
+Soup: sup’i (სუპი)
+Bread: puri (პური)
+House: saxli (სახლი)
+Bridge: xidi (ხიდი)
+Sun: mze (მზე)
+Moon: mtvare (მთვარე)
+Cloud: ghmerti / ghmerti q’vari (ღმერთი / ღვთისქარი) ← basic term: ghrma (ღრუბლი)
+Rain: nts’vimi (წვიმა)
+Water: ts’qali (წყალი)
+Fire: t’vali / agni (ცეცხლი)
+Stone: qva (ქვა)
+Tooth: k’bili (კბილი)
+Nose: tsk’eli (ცხვირი)
+Eye: tvali (თვალი)
+Bird: p’eri (ფრინველი)
+Fish: tskhavi (თევზი)
+Tree: xe (ხე)
+Green: mts’vane (მწვანე)
+Red: ts’iteli (წითელი)
+Yellow: qviteli (ყვითელი)
+Blue: lurji (ლურჯი)
+Black: shavi (შავი)
+White: tetri (თეთრი)
+
+
+# German
+
+Mother: Mutter
+Father: Vater
+Man: Mann
+Woman: Frau
+Child: Kind
+Grandmother: Großmutter / Oma
+Name: Name
+Food: Essen
+Soup: Suppe
+Bread: Brot
+House: Haus
+Bridge: Brücke
+Sun: Sonne
+Moon: Mond
+Cloud: Wolke
+Rain: Regen
+Water: Wasser
+Fire: Feuer
+Stone: Stein
+Tooth: Zahn
+Nose: Nase
+Eye: Auge
+Bird: Vogel
+Fish: Fisch
+Tree: Baum
+Green: grün
+Red: rot
+Yellow: gelb
+Blue: blau
+Black: schwarz
+White: weiß
+
+
+# Greek (ancient)
+
+Mother: mētēr (μήτηρ)
+Father: patēr (πατήρ)
+Man: anēr (ἀνήρ)
+Woman: gunē (γυνή)
+Child: teknon / pais (τέκνον / παῖς)
+Grandmother: tettē / mammē (τέττη / μαμμή)
+Name: onoma (ὄνομα)
+Food: sitos (σῖτος)
+Soup: zōmós (ζωμός)
+Bread: artos (ἄρτος)
+House: oikos (οἶκος)
+Bridge: gephyra (γέφυρα)
+Sun: hēlios (ἥλιος)
+Moon: selēnē (σελήνη)
+Cloud: nephelē (νεφέλη)
+Rain: huetos (ὑετός)
+Water: hydōr (ὕδωρ)
+Fire: pyr (πῦρ)
+Stone: lithos (λίθος)
+Tooth: odous (ὀδούς)
+Nose: rhis (ῥίς)
+Eye: ophthalmos (ὀφθαλμός)
+Bird: ornis (ὄρνις)
+Fish: ichthys (ἰχθύς)
+Tree: dendron (δένδρον)
+Green: chlōros (χλωρός)
+Red: erythros (ἐρυθρός)
+Yellow: xanthos (ξανθός)
+Blue: kyaneos (κυάνεος)
+Black: melas (μέλας)
+White: leukos (λευκός)
+
+
+# Greek (modern)
+
+Mother: mitéra (μητέρα)
+Father: patéras (πατέρας)
+Man: ándras (άνδρας)
+Woman: gynaíka (γυναίκα)
+Child: paídi (παιδί)
+Grandmother: giagiá (γιαγιά)
+Name: ónoma (όνομα)
+Food: fagitó (φαγητό)
+Soup: soúpa (σούπα)
+Bread: psomí (ψωμί)
+House: spíti (σπίτι)
+Bridge: gefýri (γέφυρα)
+Sun: ílios (ήλιος)
+Moon: selíni (σελήνη)
+Cloud: sýnnefo (σύννεφο)
+Rain: vrochí (βροχή)
+Water: neró (νερό)
+Fire: fiá (φωτιά)
+Stone: pétra (πέτρα)
+Tooth: donti (δόντι)
+Nose: mýti (μύτη)
+Eye: máti (μάτι)
+Bird: poulí (πουλί)
+Fish: psári (ψάρι)
+Tree: déntro (δέντρο)
+Green: prásinos (πράσινος)
+Red: kókkinos (κόκκινος)
+Yellow: klítrinos / kithrinos (κίτρινος)
+Blue: ble / galázi (μπλε / γαλάζι)
+Black: mávros (μαύρος)
+White: leykós (λευκός)
+
+
+# Hawai'ian
+
+Mother: makuahine
+Father: makuakāne
+Man: kāne
+Woman: wahine
+Child: keiki
+Grandmother: kupunahine / tutu wahine
+Name: inoa
+Food: mea ʻai
+Soup: kūlina / kupa (older: **kai** = broth)
+Bread: palaoa
+House: hale
+Bridge: alahaka
+Sun: lā
+Moon: mahina
+Cloud: ao
+Rain: ua
+Water: wai
+Fire: ahi
+Stone: pōhaku
+Tooth: niho
+Nose: ihu
+Eye: maka
+Bird: manu
+Fish: iʻa
+Tree: lāʻau
+Green: ʻōmaʻomaʻo
+Red: ʻulaʻula
+Yellow: melemele
+Blue: polū
+Black: ʻeleʻele
+White: keʻokeʻo
+
+
+# Hindi
+
+Mother: mā̃ (माँ)
+Father: pitā (पिता)
+Man: ādmī (आदमी)
+Woman: aurat (औरत)
+Child: bacchā (बच्चा)
+Grandmother: dādī / nānī (दादी / नानी)
+Name: nām (नाम)
+Food: khānā (खाना)
+Soup: sūp (सूप)
+Bread: roṭī (रोटी)
+House: ghar (घर)
+Bridge: pul (पुल)
+Sun: sūrya (सूर्य)
+Moon: candra / cā̃d (चन्द्र / चाँद)
+Cloud: baadal (बादल)
+Rain: bāriś (बारिश)
+Water: pānī (पानी)
+Fire: āg (आग)
+Stone: patthar (पत्थर)
+Tooth: dā̃t (दाँत)
+Nose: nāk (नाक)
+Eye: ā̃kh (आँख)
+Bird: pakṣī / cidiyā̃ (पक्षी / चिड़िया)
+Fish: machlī (मछली)
+Tree: ped (पेड़)
+Green: harā (हरा)
+Red: lāl (लाल)
+Yellow: pīlā (पीला)
+Blue: nīlā (नीला)
+Black: kālā (काला)
+White: safed (सफ़ेद)
+
+
+# Indonesian
+
+Mother: ibu
+Father: ayah / bapak (older: ayah)
+Man: laki-laki
+Woman: perempuan
+Child: anak
+Grandmother: nenek
+Name: nama
+Food: makanan
+Soup: sup
+Bread: roti
+House: rumah
+Bridge: jembatan
+Sun: matahari
+Moon: bulan
+Cloud: awan
+Rain: hujan
+Water: air
+Fire: api
+Stone: batu
+Tooth: gigi
+Nose: hidung
+Eye: mata
+Bird: burung
+Fish: ikan
+Tree: pohon
+Green: hijau
+Red: merah
+Yellow: kuning
+Blue: biru
+Black: hitam
+White: putih
+
+
+# Italian
+
+Mother: madre
+Father: padre
+Man: uomo
+Woman: donna
+Child: bambino / bambina
+Grandmother: nonna
+Name: nome
+Food: cibo
+Soup: zuppa
+Bread: pane
+House: casa
+Bridge: ponte
+Sun: sole
+Moon: luna
+Cloud: nuvola
+Rain: pioggia
+Water: acqua
+Fire: fuoco
+Stone: pietra
+Tooth: dente
+Nose: naso
+Eye: occhio
+Bird: uccello
+Fish: pesce
+Tree: albero
+Green: verde
+Red: rosso
+Yellow: giallo
+Blue: blu / azzurro
+Black: nero
+White: bianco
+
+
+# Kabardian
+
+Mother: nana (нанэ)
+Father: dada (дэдэ)
+Man: sch’a (щхьэ / схьэ) ← “male person”
+Woman: psch’e (пщы)
+Child: pc̣’e (пцIы)
+Grandmother: magana (магъанэ)
+Name: sh’e (щIэ)
+Food: mys’e (мысэ)
+Soup: shx’e (щхьэ)
+Bread: neq’ue (нэкъуэ)
+House: wune (унэ)
+Bridge: bysh’e (бышъэ)
+Sun: shx’ue (шхьэгъуэ)
+Moon: dek’we (дэкIуэ)
+Cloud: tl’yazh (тIыжь)
+Rain: psh̄’a (пщIа)
+Water: psə (псэ)
+Fire: maf’e (мафэ)
+Stone: k’ale (къалэ)
+Tooth: tṣ’a (цIэ)
+Nose: neq’w (нэхъу)
+Eye: bzə (бзэ)
+Bird: tś’a (тшъэ)
+Fish: bzə (бзэ) ← generic “fish”
+Tree: tŝ’ə (чъы)
+Green: psh’e (пщIэ)
+Red: s̆ysx’e (сыщхьэ)
+Yellow: tlyble (тIыблэ)
+Blue: k’uec̣’e (кIуэджэ)
+Black: k’w (къу)
+White: aźe (ажъэ)
+
+
+# Latin
+
+Mother: māter
+Father: pater
+Man: vir
+Woman: fēmina
+Child: puer / puella
+Grandmother: avia
+Name: nōmen
+Food: cibus
+Soup: iūs / iusculum
+Bread: pānis
+House: domus
+Bridge: pons
+Sun: sōl
+Moon: lūna
+Cloud: nūbēs
+Rain: pluvia / imber
+Water: aqua
+Fire: ignis
+Stone: lapis
+Tooth: dēns
+Nose: nāsus
+Eye: oculus
+Bird: avis
+Fish: piscis
+Tree: arbor
+Green: viridis
+Red: rūber
+Yellow: flāvus
+Blue: caeruleus
+Black: niger
+White: albus
+
+
+# Ma'anyan
+
+Mother: ine
+Father: amang
+Man: lélaki / lako
+Woman: bawi
+Child: anaq
+Grandmother: ine-ine / ompu-ine
+Name: ngaran
+Food: panyarah
+Soup: sop
+Bread: roti
+House: lewu / uma
+Bridge: jembatan (loan; no ancient native form)
+Sun: mata harian / mata wayang (root: mata = “eye”)
+Moon: bulan
+Cloud: awan
+Rain: ujan
+Water: wai (older Austronesian root) / wae
+Fire: api
+Stone: batu
+Tooth: ipen
+Nose: irung
+Eye: mate
+Bird: manu
+Fish: ikan
+Tree: kayu
+Green: hijau (loan) ← no known inherited colour term
+Red: marah
+Yellow: kuning
+Blue: biru
+Black: hitam
+White: puti
+
+
+# Malagasy
+
+Mother: reny
+Father: ray
+Man: lehilahy
+Woman: vehivavy
+Child: zaza
+Grandmother: bepim-bavy / nenibe
+Name: anarana
+Food: sakafo
+Soup: lasopy
+Bread: mofo
+House: trano
+Bridge: tetezana
+Sun: masoandro
+Moon: volana
+Cloud: rahona
+Rain: orana
+Water: rano
+Fire: afo
+Stone: vato
+Tooth: nify
+Nose: orona
+Eye: maso
+Bird: vorona
+Fish: trondro
+Tree: hazo
+Green: maitso
+Red: mena
+Yellow: mavo
+Blue: manga
+Black: mainty
+White: fotsy
+
+
+# Malayalam
+
+Mother: amma (അമ്മ)
+Father: achan / appan (അച്ഛൻ / അപ്പൻ)
+Man: āḷan (ആളൻ)
+Woman: pennu / strī (പെണ്ണ് / സ്ത്രീ)
+Child: kuṭṭi (കുട്ടി)
+Grandmother: ammamma (അമ്മമ്മ)
+Name: pēru (പേര്)
+Food: bhakṣaṇaṁ / bhōjanam (ഭക്ഷണം / ഭക്ഷണം)
+Soup: sūppu (സൂപ്പ്)
+Bread: appam / roṭṭi (അപ്പം / റൊട്ടി)
+House: veedu (വീട്)
+Bridge: paḷam (പാലം)
+Sun: sūryan (സൂര്യൻ)
+Moon: caṇḍran / nilā (ചന്ദ്രൻ / നിലാവ്)
+Cloud: mēghaṁ / mazhakūṭṭam (മേഘം)
+Rain: maḻa (മഴ)
+Water: veḷḷam (വെള്ളം)
+Fire: tii (തീ)
+Stone: kaḷ / kall (കല്ല്)
+Tooth: pattam / pāl (പല്ല്)
+Nose: mūkkŭ (മൂക്ക്)
+Eye: kaṇṇŭ (കണ്ണ്)
+Bird: pakshi (പക്ഷി)
+Fish: mīnu (മീൻ)
+Tree: maram (മരം)
+Green: paccha (പച്ച)
+Red: cuvappŭ (ചുവപ്പ്)
+Yellow: maṇñña (മഞ്ഞ)
+Blue: nīlam (നീല)
+Black: karuppŭ (കരുപ്പ്)
+White: veḷutta (വെളുപ്പ്)
+
+
+# Maltese
+
+Mother: omm
+Father: missier
+Man: raġel
+Woman: mara
+Child: tifel / tifla
+Grandmother: nanna
+Name: isem
+Food: ikel
+Soup: soppa
+Bread: ħobż
+House: dar
+Bridge: pont
+Sun: xemx
+Moon: qamar
+Cloud: sħab
+Rain: xita
+Water: ilma
+Fire: nar
+Stone: ġebla
+Tooth: sinna
+Nose: imnieħer
+Eye: għajn
+Bird: għasfur
+Fish: ħuta
+Tree: siġra
+Green: aħdar
+Red: aħmar
+Yellow: isfar
+Blue: ikħal / blu
+Black: iswed
+White: abjad
+
+
+# Mandarin
+
+Mother: māma (妈妈)
+Father: bàba (爸爸)
+Man: nánrén (男人)
+Woman: nǚrén (女人)
+Child: háizi (孩子)
+Grandmother: nǎinai / wàipó (奶奶 / 外婆)
+Name: míngzì (名字)
+Food: shíwù (食物)
+Soup: tāng (汤)
+Bread: miànbāo (面包)
+House: fángzi (房子)
+Bridge: qiáo (桥)
+Sun: tàiyáng (太阳)
+Moon: yuèliang (月亮)
+Cloud: yún (云)
+Rain: yǔ (雨)
+Water: shuǐ (水)
+Fire: huǒ (火)
+Stone: shí (石)
+Tooth: yá (牙)
+Nose: bízi (鼻子)
+Eye: yǎnjing (眼睛)
+Bird: niǎo (鸟)
+Fish: yú (鱼)
+Tree: shù (树)
+Green: lǜ (绿)
+Red: hóng (红)
+Yellow: huáng (黄)
+Blue: lán (蓝)
+Black: hēi (黑)
+White: bái (白)
+
+
+# Māori
+
+Mother: whaea
+Father: pāpā / matua tāne
+Man: tāne
+Woman: wahine
+Child: tamaiti
+Grandmother: kuia
+Name: ingoa
+Food: kai
+Soup: hupa
+Bread: parāoa
+House: whare
+Bridge: arawhiti / piriti
+Sun: rā
+Moon: marama
+Cloud: kapua
+Rain: ua
+Water: wai
+Fire: ahi
+Stone: kōhatu
+Tooth: niho
+Nose: ihu
+Eye: karu / whatu
+Bird: manu
+Fish: ika
+Tree: rākau
+Green: kākāriki
+Red: whero
+Yellow: kōwhai
+Blue: kahurangi / kikorangi
+Black: mangu / pango
+White: mā
+
+
+# Pashto
+
+Mother: mor (مور)
+Father: plār (پلار)
+Man: سړی (saṛay)
+Woman: ښځه (khaza)
+Child: ماشوم (māshoom)
+Grandmother: انا (ana)
+Name: نوم (noom)
+Food: خواړه (khwāṛa)
+Soup: شوروا (shorwa)
+Bread: ډوډۍ (doḍai)
+House: کور (kor)
+Bridge: پُل (pul)
+Sun: لمر (ləmar)
+Moon: سپوږمۍ (spogmai)
+Cloud: وريځ (wreezh)
+Rain: باران (bārān)
+Water: اوبه (oba)
+Fire: اور (or)
+Stone: ډبره (dabrah)
+Tooth: غاښ (ghākh)
+Nose: پوزه (poza)
+Eye: سترګه (starga)
+Bird: مرغه (margha)
+Fish: ماهی / کب (māhi / kab)
+Tree: ونه (wəna)
+Green: شین (sheen)
+Red: سور (sor)
+Yellow: ژیړ (zheer)
+Blue: آبي / شین آبي (ābi)
+Black: تور (tor)
+White: سپین (spin)
+
+
+# Portuguese
+
+Mother: mãe
+Father: pai
+Man: homem
+Woman: mulher
+Child: criança
+Grandmother: avó
+Name: nome
+Food: comida
+Soup: sopa
+Bread: pão
+House: casa
+Bridge: ponte
+Sun: sol
+Moon: lua
+Cloud: nuvem
+Rain: chuva
+Water: água
+Fire: fogo
+Stone: pedra
+Tooth: dente
+Nose: nariz
+Eye: olho
+Bird: pássaro
+Fish: peixe
+Tree: árvore
+Green: verde
+Red: vermelho
+Yellow: amarelo
+Blue: azul
+Black: preto
+White: branco
+
+
+# Romanian
+
+Mother: mamă
+Father: tată
+Man: bărbat
+Woman: femeie
+Child: copil
+Grandmother: bunică
+Name: nume
+Food: mâncare
+Soup: supă
+Bread: pâine
+House: casă
+Bridge: pod
+Sun: soare
+Moon: lună
+Cloud: nor
+Rain: ploaie
+Water: apă
+Fire: foc
+Stone: piatră
+Tooth: dinte
+Nose: nas
+Eye: ochi
+Bird: pasăre
+Fish: pește
+Tree: copac
+Green: verde
+Red: roșu
+Yellow: galben
+Blue: albastru
+Black: negru
+White: alb
+
+
+# Slovak
+
+Mother: matka
+Father: otec
+Man: muž
+Woman: žena
+Child: dieťa
+Grandmother: stará mama
+Name: meno
+Food: jedlo
+Soup: polievka
+Bread: chlieb
+House: dom
+Bridge: most
+Sun: slnko
+Moon: mesiac
+Cloud: oblak
+Rain: dážď
+Water: voda
+Fire: oheň
+Stone: kameň
+Tooth: zub
+Nose: nos
+Eye: oko
+Bird: vták
+Fish: ryba
+Tree: strom
+Green: zelený
+Red: červený
+Yellow: žltý
+Blue: modrý
+Black: čierny
+White: biely
+
+
+# Spanish
+
+Mother: madre
+Father: padre
+Man: hombre
+Woman: mujer
+Child: niño / niña
+Grandmother: abuela
+Name: nombre
+Food: comida
+Soup: sopa
+Bread: pan
+House: casa
+Bridge: puente
+Sun: sol
+Moon: luna
+Cloud: nube
+Rain: lluvia
+Water: agua
+Fire: fuego
+Stone: piedra
+Tooth: diente
+Nose: nariz
+Eye: ojo
+Bird: pájaro
+Fish: pez
+Tree: árbol
+Green: verde
+Red: rojo
+Yellow: amarillo
+Blue: azul
+Black: negro
+White: blanco
+
+
+# Tagalog
+
+Mother: ina / nanay
+Father: ama / tatay
+Man: lalaki
+Woman: babae
+Child: bata
+Grandmother: lola
+Name: pangalan
+Food: pagkain
+Soup: sabaw
+Bread: tinapay
+House: bahay
+Bridge: tulay
+Sun: araw
+Moon: buwan
+Cloud: ulap
+Rain: ulan
+Water: tubig
+Fire: apoy
+Stone: bato
+Tooth: ngipin
+Nose: ilong
+Eye: mata
+Bird: ibon
+Fish: isda
+Tree: puno
+Green: berde / luntian (native old root = **luntian**)
+Red: pula
+Yellow: dilaw
+Blue: bughaw / asul (native root = **bughaw**)
+Black: itim
+White: puti
+
+
+# Taiwanese / Min Nan
+
+Mother: má (媽)
+Father: pē / pà (爸)
+Man: ta-po͘-lâng (查某儂 = woman; 男子 = ta-po͘-lâng for man depends; standard: ta-po͘-lâng = male person)
+   → Preferred: lāng-kiúⁿ (人囝) for “man”
+Woman: cha-bó·-lâng (查某儂)
+Child: kiánn-á (囝仔)
+Grandmother: a-má (阿嬤)
+Name: miâ (名)
+Food: chia̍h-mi̍h (食物)
+Soup: thng (湯)
+Bread: pn̄g (餅 / 麵包)
+House: chhù (厝)
+Bridge: kiô (橋)
+Sun: tha̍i-iông (太陽)
+Moon: go̍eh (月)
+Cloud: hûn (雲)
+Rain: hōo (雨)
+Water: chúi (水)
+Fire: hué (火)
+Stone: chio̍h (石)
+Tooth: khìⁿ (齒)
+Nose: phīⁿ (鼻)
+Eye: bá-khu (目睭)
+Bird: tsiáⁿ (鳥)
+Fish: hî (魚)
+Tree: chhiūⁿ (樹)
+Green: le̍k-sek / chhài-sek (綠色) ← no older native Min Nan term
+Red: âng (紅)
+Yellow: n̂g (黃)
+Blue: lâng-sek (藍色)
+Black: ô͘ (烏)
+White: pe̍h (白)
+
+
+# Tamil
+
+Mother: amma (அம்மா)
+Father: appa (அப்பா)
+Man: āṇ (ஆண்)
+Woman: peṇ (பெண்)
+Child: kuḻantai (குழந்தை)
+Grandmother: patti (பட்டி)
+Name: peyar (பெயர்)
+Food: uṇavu (உணவு)
+Soup: sūppu (சூப்பு)
+Bread: roṭṭi / appam (ரொட்டி / அப்பம்)
+House: vīdu (வீடு)
+Bridge: paḷam (பாலம்)
+Sun: sūriyan (சூரியன்)
+Moon: caṇdiraṉ (சந்திரன்)
+Cloud: mēgam (மேகம்)
+Rain: maḻai (மழை)
+Water: taṇṇīr / nīr (தண்ணீர் / நீர்)
+Fire: tii (தீ)
+Stone: kaḷ / kaṉ (கல்)
+Tooth: pal (பல்)
+Nose: mūkku (மூக்கு)
+Eye: kaṇ (கண்)
+Bird: paravai (பறவை)
+Fish: mīṉ (மீன்)
+Tree: maram (மரம்)
+Green: pachchai (பச்சை)
+Red: civappu (சிவப்பு)
+Yellow: maṇjaḷ (மஞ்சள்)
+Blue: nīlam (நீலம்)
+Black: karuppu (கருப்பு)
+White: veḷḷai (வெள்ளை)
+
+
+# Telugu
+
+Mother: ammā (అమ్మ)
+Father: nānā / tandri (నాన్న / తండ్రి)
+Man: abbāyi / puruḍu (అబ్బాయి / పురుడు)
+Woman: ammāyi / strī (అమ్మాయి / స్త్రీ)
+Child: pillalu / bāla (పిల్ల / బాల)
+Grandmother: nānnamma / avvamma (నాన్నమ్మ / అవ్వమ్మ)
+Name: peru (పేరు)
+Food: āhāramu / tindi (ఆహారం / తిండి)
+Soup: charu (చారు)
+Bread: roṭṭe (రోట్టి)
+House: illu (ఇల్లు)
+Bridge: setu (సేతు)
+Sun: sūryudu (సూర్యుడు)
+Moon: candrudu (చంద్రుడు)
+Cloud: mēghaṃ (మేఘం)
+Rain: varṣaṃ (వర్షం)
+Water: nīllu (నీళ్ళు)
+Fire: agni / vĕdi (అగ్ని / వేడి)
+Stone: rallu / śilā (రాళ్లు / శిలా)
+Tooth: pallu (పళ్ళు)
+Nose: mūku (మూకు)
+Eye: kannu (కన్ను)
+Bird: gūbbi / pakshi (గూబ్బి / పక్షి)
+Fish: chepa (చేప)
+Tree: chettu (చెట్టు)
+Green: ākupacca (ఆకుపచ్చ)
+Red: erra (ఎర్ర)
+Yellow: pasupu (పసుపు)
+Blue: nīlaṃ (నీలం)
+Black: nalla (నల్ల)
+White: tellā (తెల్ల)
+
+
+# Tigrinya
+
+Mother: adey (ኣደይ)
+Father: aboy (ኣቦይ)
+Man: seb’ay (ሰብኣይ)
+Woman: sebeyti (ሰበይቲ)
+Child: liji (ልጂ)
+Grandmother: aboyti / adeyti (ኣቦይቲ / ኣደይቲ)
+Name: ስም (səm)
+Food: መግቢ (məgbi)
+Soup: ሾርባ (shorba)
+Bread: ባቄል / ቂጣ (baqil / qiṭa)
+House: ገዛ (geza)
+Bridge: መውጽእ (mewtsi)
+Sun: ሱራይ (suray)
+Moon: ርድሕ (rədħ)
+Cloud: ደመና (demena)
+Rain: ምባሕ (mbah)
+Water: ሓባ (haba) / ውሃ (wəha)
+Fire: እሳት (əsat)
+Stone: እብን (əbn)
+Tooth: ድርስ (dərs)
+Nose: ኣንፍ (anf)
+Eye: ዓይን (ʿayn)
+Bird: ፅንሒ (tsenhi)
+Fish: ዓሳ (ʿasa)
+Tree: ጥዒ (ṭiʿi)
+Green: ኣጸዓይ (aṣeʿay)
+Red: ቀይሕ (qeyħ)
+Yellow: ቢጫ (bicha)
+Blue: ሰማያዊ (semayawi)
+Black: ጸሊም (tselīm)
+White: ጻዕዳ (tsaʿda)
+
+
+# Urdu
+
+Mother: mā̃ (ماں)
+Father: bāp (باپ)
+Man: mard (مرد)
+Woman: aurat (عورت)
+Child: baccā (بچہ)
+Grandmother: dādī / nānī (دادی / نانی)
+Name: nām (نام)
+Food: khānā (کھانا)
+Soup: sūp (سوپ)
+Bread: roṭī (روٹی)
+House: ghar (گھر)
+Bridge: pul (پل)
+Sun: sūraj (سورج)
+Moon: cā̃d (چاند)
+Cloud: bādal (بادل)
+Rain: bāriś (بارش)
+Water: pānī (پانی)
+Fire: āg (آگ)
+Stone: patthar (پتھر)
+Tooth: dā̃t (دانت)
+Nose: nāk (ناک)
+Eye: ā̃kh (آنکھ)
+Bird: parinda (پرندہ)
+Fish: machhlī (مچھلی)
+Tree: darakht (درخت)
+Green: sabz (سبز)
+Red: laal (لال)
+Yellow: pīlā (پیلا)
+Blue: nīlā (نیلا)
+Black: kālā (کالا)
+White: safed (سفید)
+
 
