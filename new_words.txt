@@ -357,3 +357,358 @@ White: sir-ka (シㇼカ)
 Ainu colour note:
 
 Ainu does not have basic colour vocabulary in the Indo-European sense. Colours are typically expressed descriptively (e.g., “like snow,” “like darkness,” “like a tree”). I have provided the nearest traditional terms.
+
+
+# Belarussian
+
+Mother: máci (ма́ці)
+Father: bácia (ба́ця)
+Man: mužčýna (мужчы́на)
+Woman: žančýna (жанч́ына)
+Child: dziećcina (дзеці́на) / dziećcia (дзеці́я) ← basic root: dzieć (child)
+Grandmother: babúlia (бабу́ля)
+Name: ímia (і́мя)
+Food: ežá (ежа́)
+Soup: sup (суп)
+Bread: chlęb (хлеб)
+House: dom (дом)
+Bridge: móst (мо́ст)
+Sun: sónca (со́нца)
+Moon: miasiác (меся́ц)
+Cloud: vóbłaka (во́блака)
+Rain: doždž (дождж)
+Water: vóda (во́да)
+Fire: ahoń (аго́нь)
+Stone: kamiénʹ (каме́нь)
+Tooth: zub (зуб)
+Nose: nos (нос)
+Eye: vočka / vóka (вочкa / во́ка)
+Bird: ptushka (птушка)
+Fish: rýba (ры́ба)
+Tree: dŕeva (дрэ́ва)
+Green: zialióny (зялёны́)
+Red: čyrvóny (чырво́ны)
+Yellow: žoŭ́ty (жо́ўты)
+Blue: sińi (сіні́)
+Black: čórny (чо́рны)
+White: biéły (бе́лы)
+
+
+# Russian
+
+Mother: mat' (мать)
+Father: otets (отец) / otets'
+Man: mužčina (мужчина)
+Woman: ženščina (женщина)
+Child: rebënok (ребёнок)
+Grandmother: babuška (бабушка)
+Name: imja (имя)
+Food: jeda (еда)
+Soup: sup (суп)
+Bread: xleb (хлеб)
+House: dom (дом)
+Bridge: most (мост)
+Sun: solnce (со́лнце)
+Moon: luna (луна́)
+Cloud: oblako (о́блако)
+Rain: dožd’ (дождь)
+Water: voda (вода́)
+Fire: ogon' (огонь)
+Stone: kamen' (ка́мень)
+Tooth: zub (зуб)
+Nose: nos (нос)
+Eye: glaz / oko (глаз / око) ← *oko* is archaic/native Slavic
+Bird: ptica (птица)
+Fish: ryba (рыба)
+Tree: derevo (де́рево)
+Green: zelenyj (зелёный)
+Red: krasnyj (красный)
+Yellow: želtyj (жёлтый)
+Blue: sinij (си́ний)
+Black: čërnyj (чёрный)
+White: belyj (бе́лый)
+
+
+# Ukrainian
+
+Mother: maty (мати)
+Father: batʹko (ба́тько)
+Man: čolovík (чолові́к)
+Woman: žínka (жі́нка)
+Child: dytyna (дити́на)
+Grandmother: babusia / babunia (бабу́ся / бабу́ня)
+Name: ímja (і́м'я)
+Food: žža / íža (ї́жа)
+Soup: sup (суп)
+Bread: chlib (хліб)
+House: být / dim (дім) ← dim = the inherited Slavic word
+Bridge: mist (міст)
+Sun: sónce (со́нце)
+Moon: mísiac (мі́сяць)
+Cloud: khmara (хма́ра)
+Rain: došč (дощ)
+Water: voda (вода́)
+Fire: vohonʹ (вого́нь)
+Stone: káminʹ (ка́мінь)
+Tooth: zub (зуб)
+Nose: nis (ніс)
+Eye: oко / očí (о́ко / очі́) ← masculine/neuter alternation retained historically
+Bird: ptákh / ptycja (пта́х / птúця)
+Fish: ryba (ри́ба)
+Tree: derevó (дерево́)
+Green: zelenyj (зеле́ний)
+Red: červónyj (черво́ний)
+Yellow: žóvtyj (жо́втий)
+Blue: sínij (сі́ній)
+Black: čórnyj (чо́рний)
+White: bílyj (бі́лий)
+
+
+# Latvian
+
+Mother: māte
+Father: tēvs
+Man: vīrietis
+Woman: sieviete
+Child: bērns
+Grandmother: vecmāmiņa (older/root form: **māmuļa**)
+Name: vārds
+Food: ēdiens
+Soup: zupa
+Bread: maize
+House: māja
+Bridge: tilts
+Sun: saule
+Moon: mēness
+Cloud: mākonis
+Rain: lietus
+Water: ūdens
+Fire: uguns
+Stone: akmens
+Tooth: zobs
+Nose: deguns
+Eye: acs
+Bird: putns
+Fish: zivs
+Tree: koks
+Green: zaļš
+Red: sarkans
+Yellow: dzeltens
+Blue: zils
+Black: melns
+White: balts
+
+(Most of these words descend from Proto-Baltic or Proto-Indo-European roots; Latvian basic vocabulary is extremely conservative.)
+
+# Lithuanian
+
+Mother: motina
+Father: tėvas
+Man: vyras
+Woman: moteris
+Child: vaikas
+Grandmother: močiutė (older/root form: **senelė**)
+Name: vardas
+Food: maistas
+Soup: sriuba
+Bread: duona
+House: namas
+Bridge: tiltas
+Sun: saulė
+Moon: mėnulis
+Cloud: debesis
+Rain: lietus
+Water: vanduo
+Fire: ugnis
+Stone: akmuo
+Tooth: dantis
+Nose: nosis
+Eye: akis
+Bird: paukštis
+Fish: žuvis
+Tree: medis
+Green: žalias
+Red: raudonas
+Yellow: geltonas
+Blue: mėlynas
+Black: juodas
+White: baltas
+
+Lithuanian retains remarkably archaic Indo-European vocabulary; nearly every item on the list is inherited from Proto-Baltic with minimal change.
+
+# Estonian
+
+Mother: ema
+Father: isa
+Man: mees
+Woman: naine
+Child: laps
+Grandmother: vanaema
+Name: nimi
+Food: toit
+Soup: supp
+Bread: leib
+House: maja / kodu (native root: *kodu* = “home”)
+Bridge: sild
+Sun: päike
+Moon: kuu
+Cloud: pilv
+Rain: vihm
+Water: vesi
+Fire: tuli
+Stone: kivi
+Tooth: hammas
+Nose: nina
+Eye: silm
+Bird: lind
+Fish: kala
+Tree: puu
+Green: roheline
+Red: punane
+Yellow: kollane
+Blue: sinine
+Black: must
+White: valge
+
+
+# Hungarian
+
+Mother: anya
+Father: apa
+Man: férfi
+Woman: nő
+Child: gyerek
+Grandmother: nagymama (older/native root: **anya** > *anya-* compounds)
+Name: név
+Food: étel
+Soup: leves
+Bread: kenyér
+House: ház
+Bridge: híd
+Sun: nap
+Moon: hold
+Cloud: felhő
+Rain: eső
+Water: víz
+Fire: tűz
+Stone: kő
+Tooth: fog
+Nose: orr
+Eye: szem
+Bird: madár
+Fish: hal
+Tree: fa
+Green: zöld
+Red: piros / vörös (older/literary native = **vörös**)
+Yellow: sárga
+Blue: kék
+Black: fekete
+White: fehér
+
+
+# Finnish
+
+Mother: äiti
+Father: isä
+Man: mies
+Woman: nainen
+Child: lapsi
+Grandmother: isoäiti / mummo (native base: *äiti*)
+Name: nimi
+Food: ruoka
+Soup: keitto
+Bread: leipä
+House: talo
+Bridge: silta
+Sun: aurinko
+Moon: kuu
+Cloud: pilvi
+Rain: sade
+Water: vesi
+Fire: tuli
+Stone: kivi
+Tooth: hammas
+Nose: nenä
+Eye: silmä
+Bird: lintu
+Fish: kala
+Tree: puu
+Green: vihreä
+Red: punainen
+Yellow: keltainen
+Blue: sininen
+Black: musta
+White: valkoinen
+
+
+# Northern Sami
+
+Mother: eadni
+Father: áhči
+Man: olmmái
+Woman: nieida / nisson (younger woman vs. adult woman; **nisson** = standard)
+Child: mánná
+Grandmother: áddjá / áhkká (áhkká = older cosmic/ancestral word)
+Name: namma
+Food: biepmu
+Soup: borrat / soastsu (borrat=“to eat”; **soastsu**=actual ‘soup’)
+Bread: láibi (loan from Scandinavian but standard; no older native form)
+House: viesu / ruovdi (viesu = standard “house”)
+Bridge: geaidnu / gievdni (gievdni = proper “bridge”)
+Sun: beaivi
+Moon: mándil / mannaš (beaivváš is archaic ‘sun’ spirit)
+Cloud: albmi / dovddus (basic: **albmi** = sky/cloud)
+Rain: arvi / arva
+Water: čáhci
+Fire: buollin
+Stone: gáddi
+Tooth: báhpa
+Nose: njálbmi
+Eye: čalbmi
+Bird: loddi
+Fish: guolli
+Tree: muorji / muoras (muoras = “tree, wood”)
+Green: ruoná
+Red: rukses
+Yellow: fiskes
+Blue: alit
+Black: čáhppes
+White: vilges
+
+
+# Southern Sami
+
+Mother: eadtem
+Father: eadtje
+Man: däjja
+Woman: nåejtie
+Child: maanah
+Grandmother: eejjie (also: old root **aahka**)
+Name: nomme
+Food: biehpme
+Soup: soepoe
+Bread: laejpie
+House: gåetie
+Bridge: geajnoe
+Sun: bæjjoe
+Moon: månnoe
+Cloud: klaajroe
+Rain: tjuerie
+Water: tjaele
+Fire: muelie
+Stone: gaajhtoe
+Tooth: baahpe
+Nose: njalve
+Eye: tjïelte / tjïelth (dialectal)
+Bird: loedtie
+Fish: gueele
+Tree: måaroe
+Green: groene
+Red: råaksje
+Yellow: fïeksje
+Blue: åalite
+Black: tjïerhpe
+White: viesjie
+
+
+
