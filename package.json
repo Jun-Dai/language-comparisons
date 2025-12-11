@@ -1,0 +1,19 @@
+{
+  "name": "language-comparisons",
+  "version": "1.0.0",
+  "description": "Language database and extraction tool",
+  "type": "module",
+  "scripts": {
+    "languages": "tsx languages_tool.ts languages",
+    "vocab": "tsx languages_tool.ts vocabulary",
+    "numbers": "tsx languages_tool.ts numbers"
+  },
+  "dependencies": {
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

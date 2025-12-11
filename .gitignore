@@ -1,1 +1,3 @@
 numbers_tool
+node_modules/
+package-lock.json

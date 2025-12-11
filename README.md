@@ -133,18 +133,51 @@ v version
 
 You should see output like: `V 0.4.x xxxxx`
 
-## Using the Numbers Tool
+## Using the Languages Tool
 
-### Clone the Repository
+### Recommended: TypeScript Tool
+
+The recommended way to query the database is using the TypeScript tool, which handles the large file without any issues.
+
+**Prerequisites:**
+- Node.js 18+ and npm
+
+**Setup:**
 
 ```bash
 git clone https://github.com/Jun-Dai/language-comparisons.git
 cd language-comparisons
+npm install
 ```
 
-### Install Dependencies
+**Usage:**
 
-The tool uses the `prantlf.yaml` library for YAML parsing. Install the required modules:
+```bash
+# List all languages
+npx tsx languages_tool.ts languages
+
+# View vocabulary for a specific language
+npx tsx languages_tool.ts vocabulary hebrew
+npx tsx languages_tool.ts vocabulary japanese
+
+# View numbers 0-10 for a specific language
+npx tsx languages_tool.ts numbers hebrew
+npx tsx languages_tool.ts numbers russian
+```
+
+**Convenience scripts:**
+
+```bash
+npm run languages              # List all languages
+npm run vocab japanese         # Show vocabulary
+npm run numbers hebrew         # Show numbers
+```
+
+### Alternative: V Tool (Has Memory Issues)
+
+⚠️ **Note:** The V tool currently has memory issues with the large YAML file. The TypeScript tool is recommended instead.
+
+If you still want to use the V tool:
 
 ```bash
 # Install YAML parser
@@ -204,14 +237,19 @@ language-comparisons/
 ├── languages.yml          # Main data file (numbers + vocabulary)
 ├── new_words.txt          # Source vocabulary data
 ├── numbers_page.mediawiki # Original mediawiki source for numbers
-├── numbers_tool.v         # V extraction tool
+├── languages_tool.ts      # TypeScript extraction tool (recommended)
+├── languages_tool.py      # Python extraction tool
+├── numbers_tool.v         # V extraction tool (has memory issues)
+├── package.json           # Node.js dependencies
 ├── add_vocabulary.py      # Python script to integrate vocabulary
 └── parse_vocabulary.py    # Python vocabulary parser
 ```
 
 ### Known Issues
 
-⚠️ **V Tool Memory Issue**: The `numbers_tool.v` currently has memory issues with the larger `languages.yml` file (184KB, 8000+ lines) due to limitations in the prantlf.yaml library. The YAML file itself is valid and can be parsed with standard YAML libraries (Python, Ruby, etc.). We're working on a solution for the V tool or may provide alternative Python-based tools.
+⚠️ **V Tool Memory Issue**: The `numbers_tool.v` currently has memory issues with the larger `languages.yml` file (184KB, 8000+ lines) due to limitations in the prantlf.yaml library. The YAML file itself is valid and can be parsed with standard YAML libraries.
+
+**Solution**: Use the TypeScript tool (`languages_tool.ts`) or Python tool (`languages_tool.py`) instead, both of which handle the large file without any issues.
 
 ### Adding New Languages
 
